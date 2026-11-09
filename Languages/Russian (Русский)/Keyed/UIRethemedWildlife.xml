@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedWildlife_ModName>UI Rethemed - Фауна</UIRethemedWildlife_ModName>
+
+  <UIRethemedWildlife_Settings_Parts>Части</UIRethemedWildlife_Settings_Parts>
+  <UIRethemedWildlife_Settings_WildlifeTab>Вкладка «Фауна»</UIRethemedWildlife_Settings_WildlifeTab>
+  <UIRethemedWildlife_Settings_WildlifeTabTip>Заменяет таблицу вкладки «Фауна» большим оформленным окном: фильтры, животные по видам с их ценностью и опасностью, подробности о выбранном виде и быстрые действия для пометки многих сразу. Снимите галочку, чтобы вернуть стандартную таблицу.</UIRethemedWildlife_Settings_WildlifeTabTip>
+  <UIRethemedWildlife_Settings_FitWidth>По ширине экрана</UIRethemedWildlife_Settings_FitWidth>
+  <UIRethemedWildlife_Settings_FitWidthTip>Делает вкладку «Фауна» шириной во весь экран, от левого края до правого, отдавая списку животных всё доступное место. Снимите галочку, чтобы задать ширину вручную.</UIRethemedWildlife_Settings_FitWidthTip>
+  <UIRethemedWildlife_Settings_Width>Ширина окна: {0}</UIRethemedWildlife_Settings_Width>
+  <UIRethemedWildlife_Settings_WidthTip>Ширина вкладки «Фауна» — от 90% до 130% обычной, но не шире экрана. Шире — больше места для списка животных.</UIRethemedWildlife_Settings_WidthTip>
+  <UIRethemedWildlife_Settings_FitHeight>По высоте экрана</UIRethemedWildlife_Settings_FitHeight>
+  <UIRethemedWildlife_Settings_FitHeightTip>Делает вкладку «Фауна» максимально высокой: она по-прежнему стоит на нижней панели, а её верх достигает верха экрана. Снимите галочку, чтобы задать высоту вручную.</UIRethemedWildlife_Settings_FitHeightTip>
+  <UIRethemedWildlife_Settings_Height>Высота окна: {0}</UIRethemedWildlife_Settings_Height>
+  <UIRethemedWildlife_Settings_HeightTip>Высота вкладки «Фауна» — от 90% до 110% обычной. Она по-прежнему стоит на нижней панели и не выходит за верх экрана.</UIRethemedWildlife_Settings_HeightTip>
+  <UIRethemedWildlife_Settings_Style>Стиль</UIRethemedWildlife_Settings_Style>
+  <UIRethemedWildlife_Settings_Animations>Анимации</UIRethemedWildlife_Settings_Animations>
+  <UIRethemedWildlife_Settings_AnimationsTip>Подсветка при наведении плавно появляется и исчезает, а узоры из шестиугольников медленно плывут. Снимите галочку, чтобы всё было неподвижно.</UIRethemedWildlife_Settings_AnimationsTip>
+  <UIRethemedWildlife_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedWildlife_Settings_SettingsGear>
+  <UIRethemedWildlife_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую эти настройки.</UIRethemedWildlife_Settings_SettingsGearTip>
+  <UIRethemedWildlife_OpenSettings>Настройки</UIRethemedWildlife_OpenSettings>
+
+  <UIRethemedWildlife_TabFailed>UI Rethemed - Фауна: ошибка при отрисовке вкладки «Фауна», поэтому до перезапуска игры показывается стандартная вкладка. Проблема: {0}</UIRethemedWildlife_TabFailed>
+
+  <UIRethemedWildlife_Title>Фауна</UIRethemedWildlife_Title>
+  <UIRethemedWildlife_SearchHint>Поиск животных, кожи, шерсти...</UIRethemedWildlife_SearchHint>
+  <UIRethemedWildlife_SearchFound>Найдено: {0}</UIRethemedWildlife_SearchFound>
+  <UIRethemedWildlife_TagHuntingTip>Животные, отмеченные для охоты.</UIRethemedWildlife_TagHuntingTip>
+  <UIRethemedWildlife_TagTamingTip>Животные, отмеченные для приручения.</UIRethemedWildlife_TagTamingTip>
+  <UIRethemedWildlife_TagSilverTip>Стоимость разделанных животных, отмеченных для охоты, в серебре.</UIRethemedWildlife_TagSilverTip>
+  <UIRethemedWildlife_TagLeatherTip>Кожа, которую дадут животные, отмеченные для охоты.</UIRethemedWildlife_TagLeatherTip>
+  <UIRethemedWildlife_TagMeatTip>Мясо, которое дадут животные, отмеченные для охоты.</UIRethemedWildlife_TagMeatTip>
+  <UIRethemedWildlife_TagManhuntingTip>Животные, которые сейчас охотятся на ваших поселенцев. Отметьте «Безумие» в разделе «Особенности», чтобы видеть только их.</UIRethemedWildlife_TagManhuntingTip>
+
+  <UIRethemedWildlife_Filters>Фильтры</UIRethemedWildlife_Filters>
+  <UIRethemedWildlife_Reset>Сбросить</UIRethemedWildlife_Reset>
+  <UIRethemedWildlife_ResetTip>Очистить поиск и все фильтры.</UIRethemedWildlife_ResetTip>
+  <UIRethemedWildlife_Group_Threat>Угроза</UIRethemedWildlife_Group_Threat>
+  <UIRethemedWildlife_Group_Traits>Особенности</UIRethemedWildlife_Group_Traits>
+  <UIRethemedWildlife_Group_Marked>Отмечено</UIRethemedWildlife_Group_Marked>
+  <UIRethemedWildlife_Group_Gives>Даёт</UIRethemedWildlife_Group_Gives>
+
+  <UIRethemedWildlife_RevengeLimit>Макс. месть</UIRethemedWildlife_RevengeLimit>
+  <UIRethemedWildlife_RevengeLimitTip>Показывать только животных, которые нападут на охотника при ранении с вероятностью не выше этой. Выберите 25%, затем «Охота на показанных» под списком, чтобы охотиться на всех, кто редко даёт отпор.</UIRethemedWildlife_RevengeLimitTip>
+  <UIRethemedWildlife_RevengeAny>Любая</UIRethemedWildlife_RevengeAny>
+
+  <UIRethemedWildlife_Threat_Passive>Мирные</UIRethemedWildlife_Threat_Passive>
+  <UIRethemedWildlife_Threat_PassiveTip>Никогда не даёт отпор на охоте и не является хищником. Охотиться безопасно.</UIRethemedWildlife_Threat_PassiveTip>
+  <UIRethemedWildlife_Threat_Wary>Осторожные</UIRethemedWildlife_Threat_Wary>
+  <UIRethemedWildlife_Threat_WaryTip>Даёт отпор при ранении не чаще чем в {0} случаев (или является хищником) и не силён. Охотиться обычно безопасно.</UIRethemedWildlife_Threat_WaryTip>
+  <UIRethemedWildlife_Threat_Aggressive>Агрессивные</UIRethemedWildlife_Threat_Aggressive>
+  <UIRethemedWildlife_Threat_AggressiveTip>Даёт отпор при ранении чаще чем в {0} случаев, но не силён. Посылайте вооружённых охотников.</UIRethemedWildlife_Threat_AggressiveTip>
+  <UIRethemedWildlife_Threat_Dangerous>Опасные</UIRethemedWildlife_Threat_Dangerous>
+  <UIRethemedWildlife_Threat_WildPerson>Дикари</UIRethemedWildlife_Threat_WildPerson>
+  <UIRethemedWildlife_Threat_WildPersonTip>Человек, живущий в дикой природе, а не животное. Приручение приглашает его в колонию; охота на него — убийство человека, и ваши поселенцы могут воспринять это плохо.</UIRethemedWildlife_Threat_WildPersonTip>
+  <UIRethemedWildlife_Threat_DangerousTip>Может дать отпор и силён (боевая мощь {1} или больше). Может покалечить или убить охотника.</UIRethemedWildlife_Threat_DangerousTip>
+
+  <UIRethemedWildlife_TraitCycleTip>Щёлкните, чтобы показать только животных с этим, ещё раз — только без этого, и ещё раз — отключить фильтр.</UIRethemedWildlife_TraitCycleTip>
+  <UIRethemedWildlife_Trait_Predator>Хищник</UIRethemedWildlife_Trait_Predator>
+  <UIRethemedWildlife_Trait_PredatorTip>Охотится на других животных и может напасть на маленьких или слабых поселенцев, когда голоден.</UIRethemedWildlife_Trait_PredatorTip>
+  <UIRethemedWildlife_Trait_Manhunting>Безумие</UIRethemedWildlife_Trait_Manhunting>
+  <UIRethemedWildlife_Trait_ManhuntingTip>Прямо сейчас нападает на поселенцев.</UIRethemedWildlife_Trait_ManhuntingTip>
+  <UIRethemedWildlife_Trait_Tameable>Приручаемый</UIRethemedWildlife_Trait_Tameable>
+  <UIRethemedWildlife_Trait_TameableTip>Можно отметить для приручения.</UIRethemedWildlife_Trait_TameableTip>
+  <UIRethemedWildlife_Trait_Pregnant>Беременна</UIRethemedWildlife_Trait_Pregnant>
+  <UIRethemedWildlife_Trait_PregnantTip>Вынашивает потомство.</UIRethemedWildlife_Trait_PregnantTip>
+  <UIRethemedWildlife_Trait_Young>Детёныш</UIRethemedWildlife_Trait_Young>
+  <UIRethemedWildlife_Trait_YoungTip>Ещё не вырос, поэтому даёт меньше мяса и кожи.</UIRethemedWildlife_Trait_YoungTip>
+  <UIRethemedWildlife_Trait_Sick>Болен</UIRethemedWildlife_Trait_Sick>
+  <UIRethemedWildlife_Trait_SickTip>Есть болезнь.</UIRethemedWildlife_Trait_SickTip>
+
+  <UIRethemedWildlife_CardGood>Хорошие</UIRethemedWildlife_CardGood>
+  <UIRethemedWildlife_CardBad>Плохие</UIRethemedWildlife_CardBad>
+  <UIRethemedWildlife_CardAny>Любое</UIRethemedWildlife_CardAny>
+  <UIRethemedWildlife_CardAnyTip>Есть хотя бы что-то из этого.</UIRethemedWildlife_CardAnyTip>
+  <UIRethemedWildlife_CardMore>+{0}</UIRethemedWildlife_CardMore>
+  <UIRethemedWildlife_CardMoreTitle>Ещё {0}</UIRethemedWildlife_CardMoreTitle>
+  <UIRethemedWildlife_CardSummary>{0} из {1}</UIRethemedWildlife_CardSummary>
+
+  <UIRethemedWildlife_Mark_Hunting>Охота</UIRethemedWildlife_Mark_Hunting>
+  <UIRethemedWildlife_Mark_HuntingTip>Отмечено для охоты.</UIRethemedWildlife_Mark_HuntingTip>
+  <UIRethemedWildlife_Mark_Taming>Приручение</UIRethemedWildlife_Mark_Taming>
+  <UIRethemedWildlife_Mark_TamingTip>Отмечено для приручения.</UIRethemedWildlife_Mark_TamingTip>
+  <UIRethemedWildlife_Mark_Unmarked>Без отметки</UIRethemedWildlife_Mark_Unmarked>
+  <UIRethemedWildlife_Mark_UnmarkedTip>Не отмечено ни для охоты, ни для приручения.</UIRethemedWildlife_Mark_UnmarkedTip>
+
+  <UIRethemedWildlife_Gives_Leather>Кожа</UIRethemedWildlife_Gives_Leather>
+  <UIRethemedWildlife_Gives_LeatherTip>При разделке даёт кожу или мех.</UIRethemedWildlife_Gives_LeatherTip>
+  <UIRethemedWildlife_Gives_Ivory>Бивни и рога</UIRethemedWildlife_Gives_Ivory>
+  <UIRethemedWildlife_Gives_IvoryTip>При разделке даёт что-то дополнительное, например бивни или рог.</UIRethemedWildlife_Gives_IvoryTip>
+  <UIRethemedWildlife_Gives_Wool>Шерсть</UIRethemedWildlife_Gives_Wool>
+  <UIRethemedWildlife_Gives_WoolTip>После приручения можно стричь шерсть.</UIRethemedWildlife_Gives_WoolTip>
+  <UIRethemedWildlife_Gives_Milk>Молоко</UIRethemedWildlife_Gives_Milk>
+  <UIRethemedWildlife_Gives_MilkTip>После приручения можно доить.</UIRethemedWildlife_Gives_MilkTip>
+  <UIRethemedWildlife_Gives_Eggs>Яйца</UIRethemedWildlife_Gives_Eggs>
+  <UIRethemedWildlife_Gives_EggsTip>После приручения несёт яйца.</UIRethemedWildlife_Gives_EggsTip>
+  <UIRethemedWildlife_Gives_Other>Другое</UIRethemedWildlife_Gives_Other>
+  <UIRethemedWildlife_Gives_OtherTip>После приручения даёт что-то ещё, например химтопливо бумалопа.</UIRethemedWildlife_Gives_OtherTip>
+  <UIRethemedWildlife_GivesLine>{0} ({1} за шт.): {2}</UIRethemedWildlife_GivesLine>
+  <UIRethemedWildlife_GivesNone>Ни одно животное на этой карте этого не даёт.</UIRethemedWildlife_GivesNone>
+
+  <UIRethemedWildlife_Animals>Животные</UIRethemedWildlife_Animals>
+  <UIRethemedWildlife_AnimalCount>Животных: {0}</UIRethemedWildlife_AnimalCount>
+  <UIRethemedWildlife_ShownOf>Показано {0} из {1}</UIRethemedWildlife_ShownOf>
+  <UIRethemedWildlife_NoAnimals>На этой карте не видно диких животных.</UIRethemedWildlife_NoAnimals>
+  <UIRethemedWildlife_NoneShown>Нет животных, подходящих под фильтры.</UIRethemedWildlife_NoneShown>
+  <UIRethemedWildlife_SortTip>Щёлкните, чтобы сортировать по этому; ещё раз — в обратном порядке.</UIRethemedWildlife_SortTip>
+  <UIRethemedWildlife_Col_Animal>Животное</UIRethemedWildlife_Col_Animal>
+  <UIRethemedWildlife_Col_AnimalTip>Вид животного, сколько их показано, их пол, детёныши, беременности и охотятся ли они.</UIRethemedWildlife_Col_AnimalTip>
+  <UIRethemedWildlife_Col_Threat>Угроза</UIRethemedWildlife_Col_Threat>
+  <UIRethemedWildlife_Col_ThreatTip>Насколько хлопотно на него охотиться: зелёный лист — мирное, жёлтый глаз — осторожное, оранжевый знак предупреждения — агрессивное, красный череп — опасное. Рядом меч — шанс, что оно нападёт на охотника при ранении, и рука — шанс, что нападёт на дрессировщика при неудачном приручении; каждый показывается, только если шанс есть.</UIRethemedWildlife_Col_ThreatTip>
+  <UIRethemedWildlife_Col_Meat>Мясо</UIRethemedWildlife_Col_Meat>
+  <UIRethemedWildlife_Col_MeatTip>Мясо с одной особи при разделке (внизу — сумма по всем показанным).</UIRethemedWildlife_Col_MeatTip>
+  <UIRethemedWildlife_Col_Leather>Кожа</UIRethemedWildlife_Col_Leather>
+  <UIRethemedWildlife_Col_LeatherTip>Кожа с одной особи при разделке (внизу — сумма по всем показанным).</UIRethemedWildlife_Col_LeatherTip>
+  <UIRethemedWildlife_Col_Value>Стоимость</UIRethemedWildlife_Col_Value>
+  <UIRethemedWildlife_Col_ValueTip>Стоимость одной особи при разделке, в серебре: мясо, кожа и всё прочее, что с неё выпадает (справа — сумма по всем показанным). Полоса сравнивает с самым выгодным из показанных животных.</UIRethemedWildlife_Col_ValueTip>
+  <UIRethemedWildlife_Col_HuntTip>Охота. Щёлкните по ячейке вида, чтобы отметить (или снять отметку) всех его показанных особей.</UIRethemedWildlife_Col_HuntTip>
+  <UIRethemedWildlife_Col_TameTip>Приручение. Щёлкните по ячейке вида, чтобы отметить (или снять отметку) всех его показанных особей.</UIRethemedWildlife_Col_TameTip>
+  <UIRethemedWildlife_KindRowTip>Щёлкните, чтобы перечислить «{0}» по одному и видеть их подробности, пока ничего не выбрано.</UIRethemedWildlife_KindRowTip>
+  <UIRethemedWildlife_AnimalRowTip>Щёлкните, чтобы выбрать. Ctrl+щелчок добавляет к выбранному, Shift+щелчок — диапазон животных.
+
+Двойной щелчок — перейти к нему на карте. ПКМ — другие действия.</UIRethemedWildlife_AnimalRowTip>
+  <UIRethemedWildlife_PickAll>Выбрать всех</UIRethemedWildlife_PickAll>
+  <UIRethemedWildlife_PickAllTip>Выбрать всех показанных особей этого вида, чтобы подробности и кнопки под списком относились к ним. Щёлкните ещё раз, чтобы снять выбор.</UIRethemedWildlife_PickAllTip>
+  <UIRethemedWildlife_Locate>Показать на карте</UIRethemedWildlife_Locate>
+  <UIRethemedWildlife_Manhunting>Безумных: {0}</UIRethemedWildlife_Manhunting>
+  <UIRethemedWildlife_ManhuntingTag>БЕЗУМИЕ</UIRethemedWildlife_ManhuntingTag>
+  <UIRethemedWildlife_Total>всего {0}</UIRethemedWildlife_Total>
+  <UIRethemedWildlife_YieldTip>{0}: около {1} при разделке, стоимостью {2}.</UIRethemedWildlife_YieldTip>
+  <UIRethemedWildlife_ValueTip>Около {0} при разделке, если мясник ничего не испортит. Охота с огнестрельным оружием и взрывчаткой может испортить часть.</UIRethemedWildlife_ValueTip>
+  <UIRethemedWildlife_HuntBoxTip>Отмечено для охоты: {0} из {1}. Щёлкните, чтобы отметить или снять отметку со всех.</UIRethemedWildlife_HuntBoxTip>
+  <UIRethemedWildlife_TameBoxTip>Отмечено для приручения: {0} из {1}. Щёлкните, чтобы отметить или снять отметку со всех.</UIRethemedWildlife_TameBoxTip>
+  <UIRethemedWildlife_CantHunt>Нельзя охотиться.</UIRethemedWildlife_CantHunt>
+  <UIRethemedWildlife_CantTame>Нельзя приручить.</UIRethemedWildlife_CantTame>
+  <UIRethemedWildlife_CantTameVE>Нельзя приручить: Vanilla Expanded натравливает его на дрессировщика или возвращает в дикую природу после приручения. (Это можно разрешить в настройках животных Vanilla Expanded Framework.)</UIRethemedWildlife_CantTameVE>
+  <UIRethemedWildlife_Health>Здоровье: {0}</UIRethemedWildlife_Health>
+  <UIRethemedWildlife_Hurt>Ранено: {0}</UIRethemedWildlife_Hurt>
+  <UIRethemedWildlife_HurtTip>Ранено или больно. Раненое животное легче завалить, но повреждённые части при разделке могут дать меньше.</UIRethemedWildlife_HurtTip>
+  <UIRethemedWildlife_InfoCard>Информация</UIRethemedWildlife_InfoCard>
+  <UIRethemedWildlife_Silver>{0} серебра</UIRethemedWildlife_Silver>
+
+  <UIRethemedWildlife_ActOnOne>Изменить: {0}</UIRethemedWildlife_ActOnOne>
+  <UIRethemedWildlife_ActOnPicked>Изменить выбранных ({0})</UIRethemedWildlife_ActOnPicked>
+  <UIRethemedWildlife_ActOnShown>Изменить всех показанных ({0})</UIRethemedWildlife_ActOnShown>
+  <UIRethemedWildlife_ActOnAll>Изменить всех животных ({0})</UIRethemedWildlife_ActOnAll>
+  <UIRethemedWildlife_BulkTip>Кнопки здесь меняют всех этих животных сразу. Выберите животных в списке или отфильтруйте его, чтобы определить, каких именно.</UIRethemedWildlife_BulkTip>
+  <UIRethemedWildlife_ClearPicked>Снять выбор</UIRethemedWildlife_ClearPicked>
+  <UIRethemedWildlife_ClearPickedTip>Снова действовать на всех показанных животных.</UIRethemedWildlife_ClearPickedTip>
+  <UIRethemedWildlife_HuntPicked>Охота на выбранных ({0})</UIRethemedWildlife_HuntPicked>
+  <UIRethemedWildlife_HuntPickedTip>Отметить выбранных животных для охоты (ещё не отмечено: {0}).</UIRethemedWildlife_HuntPickedTip>
+  <UIRethemedWildlife_TamePicked>Приручить выбранных ({0})</UIRethemedWildlife_TamePicked>
+  <UIRethemedWildlife_TamePickedTip>Отметить выбранных приручаемых животных для приручения (ещё не отмечено: {0}).</UIRethemedWildlife_TamePickedTip>
+  <UIRethemedWildlife_ClearMarksPickedTip>Отменить охоту и приручение для отмеченных среди выбранных ({0}).</UIRethemedWildlife_ClearMarksPickedTip>
+  <UIRethemedWildlife_HuntShown>Охота на показанных ({0})</UIRethemedWildlife_HuntShown>
+  <UIRethemedWildlife_HuntShownTip>Отметить показанных животных для охоты (ещё не отмечено: {0}).</UIRethemedWildlife_HuntShownTip>
+  <UIRethemedWildlife_TameShown>Приручить показанных ({0})</UIRethemedWildlife_TameShown>
+  <UIRethemedWildlife_TameShownTip>Отметить показанных приручаемых животных для приручения (ещё не отмечено: {0}).</UIRethemedWildlife_TameShownTip>
+  <UIRethemedWildlife_ClearShown>Снять отметки ({0})</UIRethemedWildlife_ClearShown>
+  <UIRethemedWildlife_ClearShownTip>Отменить охоту и приручение для отмеченных среди показанных ({0}).</UIRethemedWildlife_ClearShownTip>
+
+  <UIRethemedWildlife_Details>Подробности</UIRethemedWildlife_Details>
+  <UIRethemedWildlife_PickKind>Выберите животное в списке, чтобы увидеть подробности.</UIRethemedWildlife_PickKind>
+  <UIRethemedWildlife_ShownCount>Показано: {0}</UIRethemedWildlife_ShownCount>
+  <UIRethemedWildlife_PickedCount>Выбрано: {0}</UIRethemedWildlife_PickedCount>
+  <UIRethemedWildlife_PickedKinds>Видов: {0}</UIRethemedWildlife_PickedKinds>
+  <UIRethemedWildlife_Card_Picked>Выбрано</UIRethemedWildlife_Card_Picked>
+  <UIRethemedWildlife_Card_ButcherAll>При разделке, всего</UIRethemedWildlife_Card_ButcherAll>
+  <UIRethemedWildlife_Card_Danger>Опасность</UIRethemedWildlife_Card_Danger>
+  <UIRethemedWildlife_Card_Butcher>При разделке, с одного</UIRethemedWildlife_Card_Butcher>
+  <UIRethemedWildlife_Card_Tamed>После приручения</UIRethemedWildlife_Card_Tamed>
+  <UIRethemedWildlife_CantTameShort>Не приручить</UIRethemedWildlife_CantTameShort>
+  <UIRethemedWildlife_Stat_Revenge>Месть при ранении</UIRethemedWildlife_Stat_Revenge>
+  <UIRethemedWildlife_Stat_TameRevenge>Месть при неудачном приручении</UIRethemedWildlife_Stat_TameRevenge>
+  <UIRethemedWildlife_Stat_CombatPower>Боевая мощь</UIRethemedWildlife_Stat_CombatPower>
+  <UIRethemedWildlife_Stat_CombatPowerTip>Насколько оно сильно в бою. Начиная с {0}, животное, дающее отпор, считается опасным.</UIRethemedWildlife_Stat_CombatPowerTip>
+  <UIRethemedWildlife_RevengeDifficulty>Сложность: {0}</UIRethemedWildlife_RevengeDifficulty>
+  <UIRethemedWildlife_RevengeHarmedNote>До трёх раз вероятнее, если нападающий рядом, и менее вероятно против скрытного охотника. Проверяется при каждом ранении, поэтому медленное оружие с сильным ударом провоцирует реже.</UIRethemedWildlife_RevengeHarmedNote>
+  <UIRethemedWildlife_RevengeTamedNote>Проверяется при каждой неудачной попытке приручения.</UIRethemedWildlife_RevengeTamedNote>
+  <UIRethemedWildlife_Gauge_Revenge>Месть</UIRethemedWildlife_Gauge_Revenge>
+  <UIRethemedWildlife_Gauge_TameRevenge>Неудача приручения</UIRethemedWildlife_Gauge_TameRevenge>
+  <UIRethemedWildlife_Stat_BodySize>Размер тела</UIRethemedWildlife_Stat_BodySize>
+  <UIRethemedWildlife_Stat_BodySizeTip>Насколько оно велико по сравнению с человеком (1). Крупные животные дают больше мяса и кожи, и их дольше завалить.</UIRethemedWildlife_Stat_BodySizeTip>
+  <UIRethemedWildlife_Stat_TrainabilityTip>Чему его можно обучить после приручения.</UIRethemedWildlife_Stat_TrainabilityTip>
+  <UIRethemedWildlife_Stat_SpeedTip>Как быстро оно передвигается. Быстрое животное трудно догнать, если оно убегает, и оно быстро сокращает дистанцию, если нападает.</UIRethemedWildlife_Stat_SpeedTip>
+  <UIRethemedWildlife_Stat_Predator>Хищник</UIRethemedWildlife_Stat_Predator>
+  <UIRethemedWildlife_Stat_PredatorTip>Хищники охотятся на других животных и могут напасть на маленьких или слабых поселенцев, когда голодны.</UIRethemedWildlife_Stat_PredatorTip>
+  <UIRethemedWildlife_YieldValue>{0} ({1})</UIRethemedWildlife_YieldValue>
+  <UIRethemedWildlife_Stat_AllShown>Все показанные ({0})</UIRethemedWildlife_Stat_AllShown>
+  <UIRethemedWildlife_Stat_AllShownTip>Стоимость всех показанных особей этого вида при разделке.</UIRethemedWildlife_Stat_AllShownTip>
+  <UIRethemedWildlife_Stat_AllPicked>Все выбранные ({0})</UIRethemedWildlife_Stat_AllPicked>
+  <UIRethemedWildlife_Stat_AllPickedTip>Стоимость всех выбранных при разделке.</UIRethemedWildlife_Stat_AllPickedTip>
+  <UIRethemedWildlife_Stat_PickedYieldTip>Всё это с выбранных животных, суммарно независимо от вида.</UIRethemedWildlife_Stat_PickedYieldTip>
+  <UIRethemedWildlife_Stat_Handling>Нужно обращение с животными</UIRethemedWildlife_Stat_Handling>
+  <UIRethemedWildlife_Stat_HandlingTip>Навык «Животные», нужный поселенцу, чтобы приручить или дрессировать его.</UIRethemedWildlife_Stat_HandlingTip>
+  <UIRethemedWildlife_Every>{0} раз в {1} дн.</UIRethemedWildlife_Every>
+  <UIRethemedWildlife_ProductLineTip>{0}, стоимостью {1} за сбор.</UIRethemedWildlife_ProductLineTip>
+  <UIRethemedWildlife_InfoCardTip>Открыть информационную карточку: {0}.</UIRethemedWildlife_InfoCardTip>
+</LanguageData>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <CombatExtended_MechanoidWeapon.label>встроено</CombatExtended_MechanoidWeapon.label>
+  <CombatExtended_MechanoidWeapon.description>Часть механоида: его нельзя бросить.</CombatExtended_MechanoidWeapon.description>
+  <CombatExtended_Held.label>удерживается</CombatExtended_Held.label>
+  <CombatExtended_Held.description>Подобрано по вашему приказу, поэтому остаётся в инвентаре, даже если комплект снаряжения этого не требует. Отмените удержание, чтобы отпустить.</CombatExtended_Held.description>
+  <ItemizationOverhaul_Indestructible.label>неразрушимо</ItemizationOverhaul_Indestructible.label>
+  <ItemizationOverhaul_Indestructible.description>Не получает урона, поэтому никогда не изнашивается.</ItemizationOverhaul_Indestructible.description>
+  <ItemizationOverhaul_Ethereal.label>эфирно</ItemizationOverhaul_Ethereal.label>
+  <ItemizationOverhaul_Ethereal.description>Не поддаётся ремонту, поэтому потерянная прочность уходит навсегда.</ItemizationOverhaul_Ethereal.description>
+</LanguageData>

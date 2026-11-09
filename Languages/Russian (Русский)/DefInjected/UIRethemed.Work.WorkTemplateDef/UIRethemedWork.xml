@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedWork_Farmer.label>фермер</UIRethemedWork_Farmer.label>
+  <UIRethemedWork_Farmer.description>Сначала сеет и собирает урожай, затем рубит растения, носит и убирает.</UIRethemedWork_Farmer.description>
+  <UIRethemedWork_Miner.label>шахтёр</UIRethemedWork_Miner.label>
+  <UIRethemedWork_Miner.description>Сначала добывает, строит, когда копать нечего, и носит добытое.</UIRethemedWork_Miner.description>
+  <UIRethemedWork_Builder.label>строитель</UIRethemedWork_Builder.label>
+  <UIRethemedWork_Builder.description>Сначала строит и ремонтирует, в промежутках добывает и носит материалы.</UIRethemedWork_Builder.description>
+  <UIRethemedWork_Cook.label>повар</UIRethemedWork_Cook.label>
+  <UIRethemedWork_Cook.description>Сначала готовит и разделывает, держит кухню в чистоте и собирает урожай, когда готовка закончена.</UIRethemedWork_Cook.description>
+  <UIRethemedWork_Doctor.label>врач</UIRethemedWork_Doctor.label>
+  <UIRethemedWork_Doctor.description>Сначала лечит больных и раненых, присматривает за пленниками и занимается исследованиями, когда все здоровы.</UIRethemedWork_Doctor.description>
+  <UIRethemedWork_Hunter.label>охотник</UIRethemedWork_Hunter.label>
+  <UIRethemedWork_Hunter.description>Сначала охотится, в промежутках рыбачит и приручает, и приносит добычу домой.</UIRethemedWork_Hunter.description>
+  <UIRethemedWork_Rancher.label>скотовод</UIRethemedWork_Rancher.label>
+  <UIRethemedWork_Rancher.description>Сначала приручает, дрессирует, доит и стрижёт, в промежутках выращивает корм.</UIRethemedWork_Rancher.description>
+  <UIRethemedWork_Crafter.label>ремесленник</UIRethemedWork_Crafter.label>
+  <UIRethemedWork_Crafter.description>Делает оружие, инструменты, броню и товары за верстаками, а после этого — одежду.</UIRethemedWork_Crafter.description>
+  <UIRethemedWork_Tailor.label>портной</UIRethemedWork_Tailor.label>
+  <UIRethemedWork_Tailor.description>Сначала шьёт одежду и броню, затем делает другие товары и предметы искусства.</UIRethemedWork_Tailor.description>
+  <UIRethemedWork_Artist.label>художник</UIRethemedWork_Artist.label>
+  <UIRethemedWork_Artist.description>Сначала создаёт скульптуры, в промежутках — одежду и товары.</UIRethemedWork_Artist.description>
+  <UIRethemedWork_Researcher.label>учёный</UIRethemedWork_Researcher.label>
+  <UIRethemedWork_Researcher.description>Сначала исследует, а когда есть что изучать — изучает неестественное.</UIRethemedWork_Researcher.description>
+  <UIRethemedWork_Warden.label>надзиратель</UIRethemedWork_Warden.label>
+  <UIRethemedWork_Warden.description>Сначала кормит, вербует и обращает пленников, присматривает за детьми и лечит больных.</UIRethemedWork_Warden.description>
+  <UIRethemedWork_Caregiver.label>воспитатель</UIRethemedWork_Caregiver.label>
+  <UIRethemedWork_Caregiver.description>Сначала присматривает за детьми, кормит и учит их, готовит для них и поддерживает чистоту.</UIRethemedWork_Caregiver.description>
+  <UIRethemedWork_Fisher.label>рыбак</UIRethemedWork_Fisher.label>
+  <UIRethemedWork_Fisher.description>Сначала рыбачит, готовит улов и охотится в промежутках.</UIRethemedWork_Fisher.description>
+  <UIRethemedWork_Hauler.label>носильщик</UIRethemedWork_Hauler.label>
+  <UIRethemedWork_Hauler.description>Сначала носит и убирает, в промежутках собирает урожай: для тех, у кого пока нет полезных навыков. Автоназначение его пропускает, так как для него не нужны навыки.</UIRethemedWork_Hauler.description>
+  <UIRethemedWork_Generalist.label>разнорабочий</UIRethemedWork_Generalist.label>
+  <UIRethemedWork_Generalist.description>Понемногу всего, что поселенец умеет, с одинаковым приоритетом — как у нового поселенца в игре. Автоназначение его пропускает, так как он всем подходит одинаково.</UIRethemedWork_Generalist.description>
+</LanguageData>

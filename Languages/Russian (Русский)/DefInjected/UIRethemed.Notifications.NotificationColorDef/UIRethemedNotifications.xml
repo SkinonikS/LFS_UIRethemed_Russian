@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedNotifications_Red.label>красный</UIRethemedNotifications_Red.label>
+  <UIRethemedNotifications_Orange.label>оранжевый</UIRethemedNotifications_Orange.label>
+  <UIRethemedNotifications_Yellow.label>жёлтый</UIRethemedNotifications_Yellow.label>
+  <UIRethemedNotifications_Green.label>зелёный</UIRethemedNotifications_Green.label>
+  <UIRethemedNotifications_Blue.label>синий</UIRethemedNotifications_Blue.label>
+  <UIRethemedNotifications_Purple.label>фиолетовый</UIRethemedNotifications_Purple.label>
+  <UIRethemedNotifications_Gray.label>серый</UIRethemedNotifications_Gray.label>
+</LanguageData>

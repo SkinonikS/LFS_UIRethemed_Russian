@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Needs_Thoughts>Мысли</UIRethemedInspectorTabs_Needs_Thoughts>
+  <UIRethemedInspectorTabs_Needs_TotalMoodEffect>Общее влияние на настроение</UIRethemedInspectorTabs_Needs_TotalMoodEffect>
+  <UIRethemedInspectorTabs_Needs_TotalMoodEffectTip>Сумма влияния всех мыслей на настроение. Настроение стремится к базовому уровню плюс эта сумма.</UIRethemedInspectorTabs_Needs_TotalMoodEffectTip>
+  <UIRethemedInspectorTabs_Needs_Minor>Второстепенные потребности</UIRethemedInspectorTabs_Needs_Minor>
+  <UIRethemedInspectorTabs_Needs_Heading>стремится к {0}</UIRethemedInspectorTabs_Needs_Heading>
+  <UIRethemedInspectorTabs_Needs_BreakExtreme>Крайний: {0}</UIRethemedInspectorTabs_Needs_BreakExtreme>
+  <UIRethemedInspectorTabs_Needs_BreakMajor>Серьёзный: {0}</UIRethemedInspectorTabs_Needs_BreakMajor>
+  <UIRethemedInspectorTabs_Needs_BreakMinor>Лёгкий: {0}</UIRethemedInspectorTabs_Needs_BreakMinor>
+  <UIRethemedInspectorTabs_Needs_BreakThresholds>Пороги нервных срывов</UIRethemedInspectorTabs_Needs_BreakThresholds>
+  <UIRethemedInspectorTabs_Needs_Level>Уровень</UIRethemedInspectorTabs_Needs_Level>
+  <UIRethemedInspectorTabs_Needs_Current>Текущий</UIRethemedInspectorTabs_Needs_Current>
+  <UIRethemedInspectorTabs_Needs_Target>Стремится к</UIRethemedInspectorTabs_Needs_Target>
+  <UIRethemedInspectorTabs_Needs_Trend>Динамика</UIRethemedInspectorTabs_Needs_Trend>
+  <UIRethemedInspectorTabs_Needs_Rising>Растёт</UIRethemedInspectorTabs_Needs_Rising>
+  <UIRethemedInspectorTabs_Needs_Falling>Падает</UIRethemedInspectorTabs_Needs_Falling>
+  <UIRethemedInspectorTabs_Needs_LearningDesire>Желание учиться</UIRethemedInspectorTabs_Needs_LearningDesire>
+  <UIRethemedInspectorTabs_Needs_MoodEffect>Настроение {0}</UIRethemedInspectorTabs_Needs_MoodEffect>
+  <UIRethemedInspectorTabs_Needs_Duration>Длительность</UIRethemedInspectorTabs_Needs_Duration>
+  <UIRethemedInspectorTabs_Needs_ExpiresIn>Истекает через</UIRethemedInspectorTabs_Needs_ExpiresIn>
+  <UIRethemedInspectorTabs_Needs_FirstExpires>Первая истекает через</UIRethemedInspectorTabs_Needs_FirstExpires>
+  <UIRethemedInspectorTabs_Needs_LastExpires>Последняя истекает через</UIRethemedInspectorTabs_Needs_LastExpires>
+  <UIRethemedInspectorTabs_Needs_Stacked>Складывается</UIRethemedInspectorTabs_Needs_Stacked>
+  <UIRethemedInspectorTabs_Needs_FromPrecept>От принципа</UIRethemedInspectorTabs_Needs_FromPrecept>
+  <UIRethemedInspectorTabs_Needs_Positive>Положительные</UIRethemedInspectorTabs_Needs_Positive>
+  <UIRethemedInspectorTabs_Needs_Negative>Отрицательные</UIRethemedInspectorTabs_Needs_Negative>
+</LanguageData>

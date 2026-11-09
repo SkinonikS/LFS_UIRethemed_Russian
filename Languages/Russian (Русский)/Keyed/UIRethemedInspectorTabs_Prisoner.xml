@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Prisoner_Interaction>Взаимодействие</UIRethemedInspectorTabs_Prisoner_Interaction>
+  <UIRethemedInspectorTabs_Prisoner_Ongoing>Постоянно</UIRethemedInspectorTabs_Prisoner_Ongoing>
+  <UIRethemedInspectorTabs_Prisoner_Study>Изучение</UIRethemedInspectorTabs_Prisoner_Study>
+  <UIRethemedInspectorTabs_Prisoner_Chosen>Выбрано</UIRethemedInspectorTabs_Prisoner_Chosen>
+  <UIRethemedInspectorTabs_Prisoner_NotChosen>Не выбрано</UIRethemedInspectorTabs_Prisoner_NotChosen>
+  <UIRethemedInspectorTabs_Prisoner_ClickToChoose>Нажмите, чтобы выбрать.</UIRethemedInspectorTabs_Prisoner_ClickToChoose>
+  <UIRethemedInspectorTabs_Prisoner_Guilty>Виновен</UIRethemedInspectorTabs_Prisoner_Guilty>
+  <UIRethemedInspectorTabs_Prisoner_ReadyToRecruit>Готов к вербовке</UIRethemedInspectorTabs_Prisoner_ReadyToRecruit>
+  <UIRethemedInspectorTabs_Prisoner_Now>Сейчас</UIRethemedInspectorTabs_Prisoner_Now>
+  <UIRethemedInspectorTabs_Prisoner_Rebelling>Бунтует</UIRethemedInspectorTabs_Prisoner_Rebelling>
+  <UIRethemedInspectorTabs_Prisoner_OtherInteractions>Другие взаимодействия</UIRethemedInspectorTabs_Prisoner_OtherInteractions>
+</LanguageData>

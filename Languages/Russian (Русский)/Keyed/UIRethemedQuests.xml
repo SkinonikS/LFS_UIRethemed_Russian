@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedQuests_ModName>UI Rethemed - Задания</UIRethemedQuests_ModName>
+  <UIRethemedQuests_OpenSettings>Настройки</UIRethemedQuests_OpenSettings>
+  <UIRethemedQuests_TabFailed>UI Rethemed - Задания: ошибка при отрисовке вкладки «Задания», поэтому до перезапуска игры показывается стандартная вкладка. Проблема: {0}</UIRethemedQuests_TabFailed>
+
+  <UIRethemedQuests_Settings_Parts>Части</UIRethemedQuests_Settings_Parts>
+  <UIRethemedQuests_Settings_QuestsTab>Вкладка «Задания»</UIRethemedQuests_Settings_QuestsTab>
+  <UIRethemedQuests_Settings_QuestsTabTip>Заменяет вкладку «Задания» большим оформленным окном: все задания с этапом, фракциями, сложностью и временем с первого взгляда, сортировка и поиск, а подробности о выбранном задании — в аккуратных карточках. Снимите галочку, чтобы вернуть стандартную вкладку.</UIRethemedQuests_Settings_QuestsTabTip>
+  <UIRethemedQuests_Settings_FitWidth>По ширине экрана</UIRethemedQuests_Settings_FitWidth>
+  <UIRethemedQuests_Settings_FitWidthTip>Делает вкладку «Задания» шириной во весь экран, от левого края до правого. Снимите галочку, чтобы задать ширину вручную.</UIRethemedQuests_Settings_FitWidthTip>
+  <UIRethemedQuests_Settings_Width>Ширина окна: {0}</UIRethemedQuests_Settings_Width>
+  <UIRethemedQuests_Settings_WidthTip>Ширина вкладки «Задания» — от 80% до 200% обычной, но не шире экрана.</UIRethemedQuests_Settings_WidthTip>
+  <UIRethemedQuests_Settings_FitHeight>По высоте экрана</UIRethemedQuests_Settings_FitHeight>
+  <UIRethemedQuests_Settings_FitHeightTip>Делает вкладку «Задания» максимально высокой: она по-прежнему стоит на нижней панели, а её верх достигает верха экрана. Снимите галочку, чтобы задать высоту вручную.</UIRethemedQuests_Settings_FitHeightTip>
+  <UIRethemedQuests_Settings_Height>Высота окна: {0}</UIRethemedQuests_Settings_Height>
+  <UIRethemedQuests_Settings_HeightTip>Высота вкладки «Задания» — от 80% до 150% обычной. Она по-прежнему стоит на нижней панели и не выходит за верх экрана.</UIRethemedQuests_Settings_HeightTip>
+  <UIRethemedQuests_Settings_Columns>Ширина панелей</UIRethemedQuests_Settings_Columns>
+  <UIRethemedQuests_Settings_ColumnsTip>Как ширина окна делится между списком заданий и подробностями. В сумме всегда 100%.</UIRethemedQuests_Settings_ColumnsTip>
+  <UIRethemedQuests_Settings_ListShare>Список заданий: {0}</UIRethemedQuests_Settings_ListShare>
+  <UIRethemedQuests_Settings_ListShareTip>Доля списка заданий в ширине окна — от 20% до 80%. Подробности растягиваются или сжимаются, чтобы компенсировать разницу.</UIRethemedQuests_Settings_ListShareTip>
+  <UIRethemedQuests_Settings_DetailsShare>Подробности: {0}</UIRethemedQuests_Settings_DetailsShare>
+  <UIRethemedQuests_Settings_DetailsShareTip>Доля подробностей в ширине окна — от 20% до 80%. Список заданий растягивается или сжимается, чтобы компенсировать разницу.</UIRethemedQuests_Settings_DetailsShareTip>
+  <UIRethemedQuests_Settings_ResetColumns>Сбросить ширину панелей</UIRethemedQuests_Settings_ResetColumns>
+  <UIRethemedQuests_Settings_RewardPrefs>Предпочтения наград</UIRethemedQuests_Settings_RewardPrefs>
+  <UIRethemedQuests_Settings_RewardPrefsTip>Переоформляет окно предпочтений наград в том же стиле: по строке на фракцию, с переключателями репутации и почёта рядом, а щелчок по заголовку столбца переключает его для всех фракций. Снимите галочку, чтобы вернуть стандартное окно.</UIRethemedQuests_Settings_RewardPrefsTip>
+  <UIRethemedQuests_Settings_Style>Стиль</UIRethemedQuests_Settings_Style>
+  <UIRethemedQuests_Settings_Animations>Анимации</UIRethemedQuests_Settings_Animations>
+  <UIRethemedQuests_Settings_AnimationsTip>Подсветка при наведении плавно появляется и исчезает, а узоры из шестиугольников медленно плывут. Снимите галочку, чтобы всё было неподвижно.</UIRethemedQuests_Settings_AnimationsTip>
+  <UIRethemedQuests_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedQuests_Settings_SettingsGear>
+  <UIRethemedQuests_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую эти настройки.</UIRethemedQuests_Settings_SettingsGearTip>
+
+  <UIRethemedQuests_Title>Задания</UIRethemedQuests_Title>
+  <UIRethemedQuests_SearchHint>Поиск заданий, фракций, поселенцев...</UIRethemedQuests_SearchHint>
+  <UIRethemedQuests_SearchFound>Найдено: {0}</UIRethemedQuests_SearchFound>
+  <UIRethemedQuests_Page_AvailableTip>Предложенные задания: примите задание до истечения предложения или отклоните его.</UIRethemedQuests_Page_AvailableTip>
+  <UIRethemedQuests_Page_ActiveTip>Принятые вами задания, которые ещё выполняются.</UIRethemedQuests_Page_ActiveTip>
+  <UIRethemedQuests_Page_HistoricalTip>Завершённые задания и задания, которые вы отклонили.</UIRethemedQuests_Page_HistoricalTip>
+  <UIRethemedQuests_Sum_Soon>Требуют внимания</UIRethemedQuests_Sum_Soon>
+  <UIRethemedQuests_Sum_SoonTip>Предложения, которые истекают, или сроки текущих заданий, которые наступают, в течение суток.</UIRethemedQuests_Sum_SoonTip>
+  <UIRethemedQuests_Sum_SucceededTip>Задания, завершившиеся успехом.</UIRethemedQuests_Sum_SucceededTip>
+  <UIRethemedQuests_Sum_FailedTip>Задания, завершившиеся провалом.</UIRethemedQuests_Sum_FailedTip>
+  <UIRethemedQuests_Sum_ExpiredTip>Предложения, истёкшие до того, как их кто-либо принял.</UIRethemedQuests_Sum_ExpiredTip>
+  <UIRethemedQuests_NotListed>«{0}» сейчас нет ни в одном списке.</UIRethemedQuests_NotListed>
+  <UIRethemedQuests_RewardPrefsTip>Выберите, какие виды наград должны предлагать задания.</UIRethemedQuests_RewardPrefsTip>
+
+  <UIRethemedQuests_Stage_Offered>Предложено</UIRethemedQuests_Stage_Offered>
+  <UIRethemedQuests_Stage_OfferedTip>Предложено и ждёт вашего согласия.</UIRethemedQuests_Stage_OfferedTip>
+  <UIRethemedQuests_Stage_UnderWay>Выполняется</UIRethemedQuests_Stage_UnderWay>
+  <UIRethemedQuests_Stage_UnderWayTip>Принято и всё ещё выполняется.</UIRethemedQuests_Stage_UnderWayTip>
+  <UIRethemedQuests_Stage_Succeeded>Успех</UIRethemedQuests_Stage_Succeeded>
+  <UIRethemedQuests_Stage_SucceededTip>Завершилось успехом.</UIRethemedQuests_Stage_SucceededTip>
+  <UIRethemedQuests_Stage_Failed>Провал</UIRethemedQuests_Stage_Failed>
+  <UIRethemedQuests_Stage_FailedTip>Завершилось провалом.</UIRethemedQuests_Stage_FailedTip>
+  <UIRethemedQuests_Stage_Expired>Предложение истекло</UIRethemedQuests_Stage_Expired>
+  <UIRethemedQuests_Stage_ExpiredTip>Предложение истекло до того, как его кто-либо принял.</UIRethemedQuests_Stage_ExpiredTip>
+  <UIRethemedQuests_Stage_Ended>Завершено</UIRethemedQuests_Stage_Ended>
+  <UIRethemedQuests_Stage_EndedTip>Закончилось без явного успеха или провала.</UIRethemedQuests_Stage_EndedTip>
+  <UIRethemedQuests_Stage_Invalid>Отменено</UIRethemedQuests_Stage_Invalid>
+  <UIRethemedQuests_Stage_InvalidTip>Завершилось, потому что больше не могло продолжаться.</UIRethemedQuests_Stage_InvalidTip>
+  <UIRethemedQuests_Stage_Dismissed>Отклонено</UIRethemedQuests_Stage_Dismissed>
+  <UIRethemedQuests_Stage_DismissedTip>Перемещено в историю. Оно по-прежнему идёт как обычно; верните его кнопкой с глазом.</UIRethemedQuests_Stage_DismissedTip>
+  <UIRethemedQuests_Charity>Благотворительность</UIRethemedQuests_Charity>
+  <UIRethemedQuests_RatingTip>Сложность: {0} из 4 звёзд.</UIRethemedQuests_RatingTip>
+  <UIRethemedQuests_RatingTitle>Сложность</UIRethemedQuests_RatingTitle>
+  <UIRethemedQuests_Rating_1>Обычная</UIRethemedQuests_Rating_1>
+  <UIRethemedQuests_Rating_2>Трудная</UIRethemedQuests_Rating_2>
+  <UIRethemedQuests_Rating_3>Экстремальная</UIRethemedQuests_Rating_3>
+  <UIRethemedQuests_Rating_4>Предельная</UIRethemedQuests_Rating_4>
+
+  <UIRethemedQuests_QuestCount>Заданий: {0}</UIRethemedQuests_QuestCount>
+  <UIRethemedQuests_ShownOf>Показано {0} из {1}</UIRethemedQuests_ShownOf>
+  <UIRethemedQuests_ShowAllTip>Стандартное «Показать все» режима разработчика: показывает и скрытые задания.</UIRethemedQuests_ShowAllTip>
+  <UIRethemedQuests_NoneFound>Нет заданий, подходящих под поиск.</UIRethemedQuests_NoneFound>
+  <UIRethemedQuests_None_Available>Сейчас нет предложенных заданий.</UIRethemedQuests_None_Available>
+  <UIRethemedQuests_None_Active>Нет выполняемых заданий.</UIRethemedQuests_None_Active>
+  <UIRethemedQuests_None_Historical>Завершённых заданий пока нет.</UIRethemedQuests_None_Historical>
+  <UIRethemedQuests_SortTip>Щёлкните, чтобы сортировать по этому, ещё раз — в обратном порядке, и ещё раз — в обычном порядке.</UIRethemedQuests_SortTip>
+  <UIRethemedQuests_Col_Quest>Задание</UIRethemedQuests_Col_Quest>
+  <UIRethemedQuests_Col_QuestTip>Задание, окрашенное по своему состоянию, а под названием — его ценность, кто его взял или чем оно закончилось.</UIRethemedQuests_Col_QuestTip>
+  <UIRethemedQuests_Col_Factions>Фракции</UIRethemedQuests_Col_Factions>
+  <UIRethemedQuests_Col_FactionsTip>Фракции, связанные с заданием.</UIRethemedQuests_Col_FactionsTip>
+  <UIRethemedQuests_Col_Rating>Сложность</UIRethemedQuests_Col_Rating>
+  <UIRethemedQuests_Col_RatingTip>Насколько сложно задание — от одной звезды до четырёх.</UIRethemedQuests_Col_RatingTip>
+  <UIRethemedQuests_Col_Time>Время</UIRethemedQuests_Col_Time>
+  <UIRethemedQuests_Col_TimeTip_Available>Сколько осталось до истечения предложения. Полоса под ним убывает вместе с оставшимся временем.</UIRethemedQuests_Col_TimeTip_Available>
+  <UIRethemedQuests_Col_TimeTip_Active>Сколько осталось до срока (красным) или как давно задание принято.</UIRethemedQuests_Col_TimeTip_Active>
+  <UIRethemedQuests_Col_TimeTip_Historical>Как давно задание завершилось.</UIRethemedQuests_Col_TimeTip_Historical>
+  <UIRethemedQuests_RewardWorth>Награды на {0}</UIRethemedQuests_RewardWorth>
+  <UIRethemedQuests_RewardUpTo>Награды до {0}</UIRethemedQuests_RewardUpTo>
+  <UIRethemedQuests_AcceptedBy>Принял(а): {0}</UIRethemedQuests_AcceptedBy>
+  <UIRethemedQuests_DeleteFinished>Удалить завершённые ({0})</UIRethemedQuests_DeleteFinished>
+  <UIRethemedQuests_DeleteFinished_Title>Удалить завершённые задания</UIRethemedQuests_DeleteFinished_Title>
+  <UIRethemedQuests_DeleteFinished_Tip>Удалить из истории сразу все завершённые задания ({0}). Отклонённые задания, которые ещё идут, останутся.\n\nShift+щелчок — без подтверждения.</UIRethemedQuests_DeleteFinished_Tip>
+  <UIRethemedQuests_DeleteFinished_FoundTip>Удалить найденные поиском завершённые задания ({0}). Остальная история и отклонённые задания, которые ещё идут, останутся.\n\nShift+щелчок — без подтверждения.</UIRethemedQuests_DeleteFinished_FoundTip>
+  <UIRethemedQuests_DeleteFinished_NoneTip>Здесь нет завершённых заданий для удаления. Отклонённые задания, которые ещё идут, можно только вернуть.</UIRethemedQuests_DeleteFinished_NoneTip>
+  <UIRethemedQuests_DeleteFinished_Confirm>Удалить из истории завершённые задания ({0})? Вернуть их будет нельзя.</UIRethemedQuests_DeleteFinished_Confirm>
+
+  <UIRethemedQuests_Details>Подробности</UIRethemedQuests_Details>
+  <UIRethemedQuests_AcceptTip>Принять задание. Если для него нужен один из ваших поселенцев, вы выберете кого.</UIRethemedQuests_AcceptTip>
+  <UIRethemedQuests_Card_Timeline>Хронология</UIRethemedQuests_Card_Timeline>
+  <UIRethemedQuests_OfferExpires>Предложение истекает через</UIRethemedQuests_OfferExpires>
+  <UIRethemedQuests_Appeared>Появилось</UIRethemedQuests_Appeared>
+  <UIRethemedQuests_Accepted>Принято</UIRethemedQuests_Accepted>
+  <UIRethemedQuests_Ago>{0} назад</UIRethemedQuests_Ago>
+  <UIRethemedQuests_JumpToAccepterTip>Щёлкните, чтобы перейти к нему.</UIRethemedQuests_JumpToAccepterTip>
+  <UIRethemedQuests_Card_Description>Описание</UIRethemedQuests_Card_Description>
+  <UIRethemedQuests_Card_Reward>Награда</UIRethemedQuests_Card_Reward>
+  <UIRethemedQuests_RewardOption>Вариант награды {0}</UIRethemedQuests_RewardOption>
+  <UIRethemedQuests_AcceptForThis>Принять за эту награду</UIRethemedQuests_AcceptForThis>
+  <UIRethemedQuests_Card_Where>Где</UIRethemedQuests_Card_Where>
+  <UIRethemedQuests_Jump>Перейти</UIRethemedQuests_Jump>
+  <UIRethemedQuests_SelectTip>Щёлкните, чтобы выделить их всех на карте.</UIRethemedQuests_SelectTip>
+  <UIRethemedQuests_Card_Factions>Фракции</UIRethemedQuests_Card_Factions>
+  <UIRethemedQuests_FactionTip>Щёлкните для информационной карточки фракции.</UIRethemedQuests_FactionTip>
+  <UIRethemedQuests_Card_Links>Связанное</UIRethemedQuests_Card_Links>
+  <UIRethemedQuests_OpenQuestTip>Щёлкните, чтобы открыть это задание.</UIRethemedQuests_OpenQuestTip>
+
+  <UIRethemedQuests_Rewards_Factions>Фракции</UIRethemedQuests_Rewards_Factions>
+  <UIRethemedQuests_Rewards_Count>Фракций: {0}</UIRethemedQuests_Rewards_Count>
+  <UIRethemedQuests_Rewards_Col_Faction>Фракция</UIRethemedQuests_Rewards_Col_Faction>
+  <UIRethemedQuests_Rewards_Col_Goodwill>Репутация</UIRethemedQuests_Rewards_Col_Goodwill>
+  <UIRethemedQuests_Rewards_Col_GoodwillTip>Могут ли задания каждой фракции предлагать в награду репутацию с ней.</UIRethemedQuests_Rewards_Col_GoodwillTip>
+  <UIRethemedQuests_Rewards_Col_Honor>Почёт</UIRethemedQuests_Rewards_Col_Honor>
+  <UIRethemedQuests_Rewards_Col_HonorTip>Могут ли задания фракций с королевскими титулами предлагать в награду почёт.</UIRethemedQuests_Rewards_Col_HonorTip>
+  <UIRethemedQuests_Rewards_Col_Standing>Отношения</UIRethemedQuests_Rewards_Col_Standing>
+  <UIRethemedQuests_Rewards_AllTip>Щёлкните, чтобы хотеть это от всех фракций.</UIRethemedQuests_Rewards_AllTip>
+  <UIRethemedQuests_Rewards_NoneTip>Щёлкните, чтобы не хотеть это ни от одной фракции.</UIRethemedQuests_Rewards_NoneTip>
+  <UIRethemedQuests_Rewards_Wanted>Нужно</UIRethemedQuests_Rewards_Wanted>
+  <UIRethemedQuests_Rewards_NotWanted>Не нужно</UIRethemedQuests_Rewards_NotWanted>
+</LanguageData>

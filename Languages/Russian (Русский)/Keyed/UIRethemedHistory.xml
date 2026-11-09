@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedHistory_ModName>UI Rethemed - История</UIRethemedHistory_ModName>
+  <UIRethemedHistory_OpenSettings>Настройки</UIRethemedHistory_OpenSettings>
+  <UIRethemedHistory_TabFailed>UI Rethemed - История: ошибка при отрисовке вкладки «История», поэтому до перезапуска игры показывается стандартная вкладка. Проблема: {0}</UIRethemedHistory_TabFailed>
+
+  <UIRethemedHistory_Settings_Parts>Части</UIRethemedHistory_Settings_Parts>
+  <UIRethemedHistory_Settings_HistoryTab>Вкладка «История»</UIRethemedHistory_Settings_HistoryTab>
+  <UIRethemedHistory_Settings_HistoryTabTip>Заменяет вкладку «История» большим оформленным окном: графики с масштабированием, разбивка того, где находится ваше богатство, архив с фильтрами и предпросмотром, статистика с залом славы и вехами колонии. Снимите галочку, чтобы вернуть стандартное окно.</UIRethemedHistory_Settings_HistoryTabTip>
+  <UIRethemedHistory_Settings_GraphEvents>Вехи на графиках</UIRethemedHistory_Settings_GraphEvents>
+  <UIRethemedHistory_Settings_GraphEventsTip>Отмечает вехи колонии (первый набег, смерть поселенца, запуск корабля, ...) маленькими флажками внизу графиков. Наведите на флажок, чтобы узнать, что случилось.</UIRethemedHistory_Settings_GraphEventsTip>
+  <UIRethemedHistory_Settings_Style>Стиль</UIRethemedHistory_Settings_Style>
+  <UIRethemedHistory_Settings_Animations>Анимации</UIRethemedHistory_Settings_Animations>
+  <UIRethemedHistory_Settings_AnimationsTip>Подсветка при наведении плавно появляется и исчезает, при открытии вкладки по заголовку пробегает акцентная линия, а узоры из шестиугольников медленно плывут. Снимите галочку, чтобы всё было неподвижно.</UIRethemedHistory_Settings_AnimationsTip>
+  <UIRethemedHistory_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedHistory_Settings_SettingsGear>
+  <UIRethemedHistory_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую эти настройки.</UIRethemedHistory_Settings_SettingsGearTip>
+
+  <UIRethemedHistory_Title>История</UIRethemedHistory_Title>
+  <UIRethemedHistory_Page_Graphs>Графики</UIRethemedHistory_Page_Graphs>
+  <UIRethemedHistory_Page_GraphsTip>Как со временем менялись богатство, население и настроение колонии, а также любые графики из модов.</UIRethemedHistory_Page_GraphsTip>
+  <UIRethemedHistory_Page_Wealth>Богатство</UIRethemedHistory_Page_Wealth>
+  <UIRethemedHistory_Page_WealthTip>Где находится богатство этой карты, по каждой вещи, и какую его часть рассказчик учитывает для набегов.</UIRethemedHistory_Page_WealthTip>
+  <UIRethemedHistory_Page_Archive>Архив</UIRethemedHistory_Page_Archive>
+  <UIRethemedHistory_Page_ArchiveTip>Все письма и сообщения колонии — искать, фильтровать, закреплять и перечитывать.</UIRethemedHistory_Page_ArchiveTip>
+  <UIRethemedHistory_Page_Statistics>Статистика</UIRethemedHistory_Page_Statistics>
+  <UIRethemedHistory_Page_StatisticsTip>Колония в цифрах, поселенцы-рекордсмены и вехи колонии.</UIRethemedHistory_Page_StatisticsTip>
+  <UIRethemedHistory_ModPageTip>Страница, добавленная во вкладку «История» другим модом. Она открывается в стандартном окне; нажмите «Вернуться к оформленному виду» справа вверху, чтобы вернуться.</UIRethemedHistory_ModPageTip>
+  <UIRethemedHistory_BackToThemed>Вернуться к оформленному виду</UIRethemedHistory_BackToThemed>
+  <UIRethemedHistory_Sum_Wealth>Богатство колонии</UIRethemedHistory_Sum_Wealth>
+  <UIRethemedHistory_Sum_WealthTip>Богатство всех ваших домашних карт: {0}.\n\nИзменение за последние 30 дней: {1}.</UIRethemedHistory_Sum_WealthTip>
+  <UIRethemedHistory_Sum_RaidPoints>Очки набега</UIRethemedHistory_Sum_RaidPoints>
+  <UIRethemedHistory_Sum_RaidPointsTip>Насколько сильный набег рассказчик отправил бы на эту карту прямо сейчас, исходя из её богатства, поселенцев и животных, с учётом сложности. Чем больше, тем сильнее набег. Игра ограничивает это число 10 000, но набег может его превысить: рассказчик, разыгрывающий каждую угрозу, может добавить до половины сверху, а задания и другие события могут его умножить.</UIRethemedHistory_Sum_RaidPointsTip>
+  <UIRethemedHistory_Sum_Colonists>Поселенцы</UIRethemedHistory_Sum_Colonists>
+  <UIRethemedHistory_Sum_ColonistsTip>Живые свободные поселенцы на всех картах и в пути.</UIRethemedHistory_Sum_ColonistsTip>
+  <UIRethemedHistory_Sum_Days>Дней выживания</UIRethemedHistory_Sum_Days>
+  <UIRethemedHistory_Sum_DaysTip>Дней с прибытия колонии.</UIRethemedHistory_Sum_DaysTip>
+
+  <UIRethemedHistory_Silver>{0} серебра</UIRethemedHistory_Silver>
+  <UIRethemedHistory_SearchFound>Найдено: {0}</UIRethemedHistory_SearchFound>
+  <UIRethemedHistory_NothingFound>Ничего не найдено.</UIRethemedHistory_NothingFound>
+  <UIRethemedHistory_Filters>Фильтры</UIRethemedHistory_Filters>
+  <UIRethemedHistory_Reset>Сбросить</UIRethemedHistory_Reset>
+  <UIRethemedHistory_ResetTip>Очистить поиск и все фильтры.</UIRethemedHistory_ResetTip>
+
+  <UIRethemedHistory_Graphs>Графики</UIRethemedHistory_Graphs>
+  <UIRethemedHistory_NoGraphs>Игра ещё не записала ни одного графика.</UIRethemedHistory_NoGraphs>
+  <UIRethemedHistory_GraphRowTip>Щёлкните, чтобы показать этот график.</UIRethemedHistory_GraphRowTip>
+  <UIRethemedHistory_Range>Показано дней</UIRethemedHistory_Range>
+  <UIRethemedHistory_RangeTip>Насколько далеко в прошлое уходит график. Также можно протянуть по графику, чтобы приблизить эти дни, и щёлкнуть ПКМ, чтобы отдалить.</UIRethemedHistory_RangeTip>
+  <UIRethemedHistory_Range30>30 дней</UIRethemedHistory_Range30>
+  <UIRethemedHistory_Range100>100 дней</UIRethemedHistory_Range100>
+  <UIRethemedHistory_Range300>300 дней</UIRethemedHistory_Range300>
+  <UIRethemedHistory_ResetZoom>Дни с {0} по {1}: отдалить</UIRethemedHistory_ResetZoom>
+  <UIRethemedHistory_ResetZoomTip>Снова показать все дни. ПКМ по графику делает то же самое.</UIRethemedHistory_ResetZoomTip>
+  <UIRethemedHistory_Events>Вехи</UIRethemedHistory_Events>
+  <UIRethemedHistory_EventsTip>Отмечает вехи колонии флажками внизу графика. Наведите на флажок, чтобы узнать, что случилось.</UIRethemedHistory_EventsTip>
+  <UIRethemedHistory_LineHideTip>Щёлкните, чтобы скрыть эту линию.</UIRethemedHistory_LineHideTip>
+  <UIRethemedHistory_LineShowTip>Скрыто. Щёлкните, чтобы снова показать эту линию.</UIRethemedHistory_LineShowTip>
+  <UIRethemedHistory_DayN>День {0}</UIRethemedHistory_DayN>
+  <UIRethemedHistory_Col_Line>Дни с {0} по {1}</UIRethemedHistory_Col_Line>
+  <UIRethemedHistory_Col_Start>Начало</UIRethemedHistory_Col_Start>
+  <UIRethemedHistory_Col_End>Конец</UIRethemedHistory_Col_End>
+  <UIRethemedHistory_Col_Low>Минимум</UIRethemedHistory_Col_Low>
+  <UIRethemedHistory_Col_High>Максимум</UIRethemedHistory_Col_High>
+  <UIRethemedHistory_Col_Change>Изменение</UIRethemedHistory_Col_Change>
+
+  <UIRethemedHistory_NoHomeMap>Нет домашней карты, богатство которой можно посчитать.</UIRethemedHistory_NoHomeMap>
+  <UIRethemedHistory_PickMapTip>Показать богатство этой карты.</UIRethemedHistory_PickMapTip>
+  <UIRethemedHistory_TotalWealth>Богатство на этой карте</UIRethemedHistory_TotalWealth>
+  <UIRethemedHistory_RaidWealth>Богатство с точки зрения набегов</UIRethemedHistory_RaidWealth>
+  <UIRethemedHistory_Kind_Items>Предметы</UIRethemedHistory_Kind_Items>
+  <UIRethemedHistory_Kind_ItemsTip>Всё, что можно носить: на складах и полках, в контейнерах, а также то, что несут или носят ваши люди. Кроме того, что скрыто туманом.</UIRethemedHistory_Kind_ItemsTip>
+  <UIRethemedHistory_Kind_Buildings>Постройки</UIRethemedHistory_Kind_Buildings>
+  <UIRethemedHistory_Kind_BuildingsTip>Ваши постройки, оценённые при полной прочности. Для набегов считаются наполовину.</UIRethemedHistory_Kind_BuildingsTip>
+  <UIRethemedHistory_Kind_Floors>Полы</UIRethemedHistory_Kind_Floors>
+  <UIRethemedHistory_Kind_FloorsTip>Построенные полы и фундаменты. Игра считает их вместе с постройками, для набегов — наполовину.</UIRethemedHistory_Kind_FloorsTip>
+  <UIRethemedHistory_Kind_Creatures>Существа</UIRethemedHistory_Kind_Creatures>
+  <UIRethemedHistory_Kind_CreaturesTip>Ваши поселенцы, рабы (на три четверти), животные и механоиды.</UIRethemedHistory_Kind_CreaturesTip>
+  <UIRethemedHistory_KindHideTip>Щёлкните, чтобы исключить это с этой страницы.</UIRethemedHistory_KindHideTip>
+  <UIRethemedHistory_KindShowTip>Исключено. Щёлкните, чтобы снова показать.</UIRethemedHistory_KindShowTip>
+  <UIRethemedHistory_CountedAgo>Подсчитано {0} назад</UIRethemedHistory_CountedAgo>
+  <UIRethemedHistory_MatchesGame>Совпадает с игровым: {0}</UIRethemedHistory_MatchesGame>
+  <UIRethemedHistory_GameCount>По подсчёту игры: {0}</UIRethemedHistory_GameCount>
+  <UIRethemedHistory_GameCountTitle>Собственный подсчёт игры</UIRethemedHistory_GameCountTitle>
+  <UIRethemedHistory_MatchesGameTip>Эта разбивка даёт тот же итог, что и собственный подсчёт игры для этой карты ({0}), — именно это богатство видят набеги и график богатства.</UIRethemedHistory_MatchesGameTip>
+  <UIRethemedHistory_GameCountTip>Собственный подсчёт игры для этой карты — {0}. Они могут различаться, если другой мод меняет то, как игра считает богатство.</UIRethemedHistory_GameCountTip>
+  <UIRethemedHistory_RaidView>Считать как для набегов</UIRethemedHistory_RaidView>
+  <UIRethemedHistory_RaidViewTip>Показывает богатство так, как его оценивает рассказчик, выбирая размер набега: постройки и полы — наполовину, всё остальное — полностью. Узнайте, что на самом деле привлекает набеги.</UIRethemedHistory_RaidViewTip>
+  <UIRethemedHistory_StorytellerWealth>Богатство глазами рассказчика</UIRethemedHistory_StorytellerWealth>
+  <UIRethemedHistory_StorytellerWealthTip>Богатство, которое рассказчик использует для набегов на эту карту: предметы и существа полностью, постройки и полы — наполовину.</UIRethemedHistory_StorytellerWealthTip>
+  <UIRethemedHistory_StorytellerWealthFixedTip>Вы играете в режиме фиксированного богатства, поэтому рассказчик не учитывает ваше богатство и ориентируется на возраст колонии.</UIRethemedHistory_StorytellerWealthFixedTip>
+  <UIRethemedHistory_Recount>Пересчитать</UIRethemedHistory_Recount>
+  <UIRethemedHistory_RecountTip>Богатство подсчитывается при открытии вкладки. Пересчитать сейчас.</UIRethemedHistory_RecountTip>
+  <UIRethemedHistory_WhereItIs>Богатство по категориям</UIRethemedHistory_WhereItIs>
+  <UIRethemedHistory_WhereItIsIn>Богатство в категории «{0}»</UIRethemedHistory_WhereItIsIn>
+  <UIRethemedHistory_AllWealth>Всё</UIRethemedHistory_AllWealth>
+  <UIRethemedHistory_NoWealth>Нечего показать.</UIRethemedHistory_NoWealth>
+  <UIRethemedHistory_MoreTiles>Ещё {0}</UIRethemedHistory_MoreTiles>
+  <UIRethemedHistory_MoreTilesTip>Самые мелкие, собранные вместе. Все они есть в списке ниже.</UIRethemedHistory_MoreTilesTip>
+  <UIRethemedHistory_MoreTilesOthers>...и ещё {0}.</UIRethemedHistory_MoreTilesOthers>
+  <UIRethemedHistory_TileTip>{0}, {1} от показанного.\n\n{2}</UIRethemedHistory_TileTip>
+  <UIRethemedHistory_TileOpenTip>Щёлкните, чтобы открыть и посмотреть, что внутри.</UIRethemedHistory_TileOpenTip>
+  <UIRethemedHistory_TilePickTip>Щёлкните, чтобы выбрать это в списке ниже.</UIRethemedHistory_TilePickTip>
+  <UIRethemedHistory_Breakdown>Разбивка</UIRethemedHistory_Breakdown>
+  <UIRethemedHistory_WealthSearchHint>Поиск вещей, материалов, категорий...</UIRethemedHistory_WealthSearchHint>
+  <UIRethemedHistory_Sort>Сортировать по</UIRethemedHistory_Sort>
+  <UIRethemedHistory_SortTip>Как упорядочены вещи в каждой категории.</UIRethemedHistory_SortTip>
+  <UIRethemedHistory_Sort_Value>Стоимость</UIRethemedHistory_Sort_Value>
+  <UIRethemedHistory_Sort_Count>Количество</UIRethemedHistory_Sort_Count>
+  <UIRethemedHistory_Sort_Name>Название</UIRethemedHistory_Sort_Name>
+  <UIRethemedHistory_Col_Share>Доля</UIRethemedHistory_Col_Share>
+  <UIRethemedHistory_FindColumnTip>Прицел в строке находит эти вещи на карте.</UIRethemedHistory_FindColumnTip>
+  <UIRethemedHistory_Col_Record>Рекорд</UIRethemedHistory_Col_Record>
+  <UIRethemedHistory_Col_RecordTip>Все рекорды, которые ведут ваши поселенцы, включая рекорды из модов.</UIRethemedHistory_Col_RecordTip>
+  <UIRethemedHistory_Col_Leader>Лидер</UIRethemedHistory_Col_Leader>
+  <UIRethemedHistory_Col_LeaderTip>Поселенец с наибольшим значением. Щёлкните по строке, чтобы посмотреть на него.</UIRethemedHistory_Col_LeaderTip>
+  <UIRethemedHistory_Col_Best>Лучший</UIRethemedHistory_Col_Best>
+  <UIRethemedHistory_Col_BestTip>Значение лидера.</UIRethemedHistory_Col_BestTip>
+  <UIRethemedHistory_Col_TotalTip>Сумма по всем поселенцам.</UIRethemedHistory_Col_TotalTip>
+  <UIRethemedHistory_GroupRowTip>{0}: видов вещей — {1}. Щёлкните, чтобы свернуть или развернуть.</UIRethemedHistory_GroupRowTip>
+  <UIRethemedHistory_EntryValueTip>{0} шт. общей стоимостью {1} (в среднем {2} за шт.).</UIRethemedHistory_EntryValueTip>
+  <UIRethemedHistory_EntryRowTip>Щёлкните, чтобы выбрать. Прицел справа находит «{0}» на карте.</UIRethemedHistory_EntryRowTip>
+  <UIRethemedHistory_Find>Найти на карте</UIRethemedHistory_Find>
+  <UIRethemedHistory_FindTip>Перейти к следующему из них (всего {0}) и выделить. Shift+щелчок — оставить вкладку открытой и щёлкать дальше для следующего.</UIRethemedHistory_FindTip>
+  <UIRethemedHistory_FindGone>Ни одного из {0} подсчитанных больше нет. Пересчитайте.</UIRethemedHistory_FindGone>
+  <UIRethemedHistory_Packed>{0} (упаковано)</UIRethemedHistory_Packed>
+  <UIRethemedHistory_Group_OtherItems>Прочие предметы</UIRethemedHistory_Group_OtherItems>
+  <UIRethemedHistory_Group_OtherBuildings>Прочие постройки</UIRethemedHistory_Group_OtherBuildings>
+  <UIRethemedHistory_Group_Floors>Полы</UIRethemedHistory_Group_Floors>
+  <UIRethemedHistory_Group_Colonists>Поселенцы</UIRethemedHistory_Group_Colonists>
+  <UIRethemedHistory_Group_Slaves>Рабы</UIRethemedHistory_Group_Slaves>
+  <UIRethemedHistory_Group_Animals>Животные</UIRethemedHistory_Group_Animals>
+  <UIRethemedHistory_Group_Mechs>Механоиды</UIRethemedHistory_Group_Mechs>
+  <UIRethemedHistory_Group_OtherCreatures>Прочие существа</UIRethemedHistory_Group_OtherCreatures>
+
+  <UIRethemedHistory_Show>Показывать</UIRethemedHistory_Show>
+  <UIRethemedHistory_Letters>Письма</UIRethemedHistory_Letters>
+  <UIRethemedHistory_LettersTip>Письма, приходившие в правой части экрана: набеги, гости, задания, смерти и тому подобное.</UIRethemedHistory_LettersTip>
+  <UIRethemedHistory_Messages>Сообщения</UIRethemedHistory_Messages>
+  <UIRethemedHistory_MessagesTip>Короткие сообщения, появлявшиеся в левом верхнем углу экрана.</UIRethemedHistory_MessagesTip>
+  <UIRethemedHistory_OtherRecords>Прочие записи</UIRethemedHistory_OtherRecords>
+  <UIRethemedHistory_OtherRecordsTip>Всё остальное, что игра хранит в архиве, например разговоры, а также всё, что архивируют моды.</UIRethemedHistory_OtherRecordsTip>
+  <UIRethemedHistory_PinnedOnly>Только закреплённые</UIRethemedHistory_PinnedOnly>
+  <UIRethemedHistory_PinnedOnlyTip>Показывать только закреплённое вами. Закреплённое хранится навсегда; из остального игра удаляет самое старое.</UIRethemedHistory_PinnedOnlyTip>
+  <UIRethemedHistory_When>Когда</UIRethemedHistory_When>
+  <UIRethemedHistory_WhenTip>Насколько далеко в прошлое смотреть.</UIRethemedHistory_WhenTip>
+  <UIRethemedHistory_Age_Day>День</UIRethemedHistory_Age_Day>
+  <UIRethemedHistory_Age_Week>Неделя</UIRethemedHistory_Age_Week>
+  <UIRethemedHistory_Age_Quadrum>Квадрум</UIRethemedHistory_Age_Quadrum>
+  <UIRethemedHistory_Age_Year>Год</UIRethemedHistory_Age_Year>
+  <UIRethemedHistory_Age_All>Всё</UIRethemedHistory_Age_All>
+  <UIRethemedHistory_LetterKinds>Виды писем</UIRethemedHistory_LetterKinds>
+  <UIRethemedHistory_LetterKindTip>Отметьте виды, чтобы показывать только эти письма; если ничего не отмечено, показываются все.</UIRethemedHistory_LetterKindTip>
+  <UIRethemedHistory_ArchiveSearchHint>Поиск по заголовкам и тексту...</UIRethemedHistory_ArchiveSearchHint>
+  <UIRethemedHistory_Today>Сегодня</UIRethemedHistory_Today>
+  <UIRethemedHistory_Yesterday>Вчера</UIRethemedHistory_Yesterday>
+  <UIRethemedHistory_DaysAgo>{0} дн. назад</UIRethemedHistory_DaysAgo>
+  <UIRethemedHistory_Pin>Закрепить</UIRethemedHistory_Pin>
+  <UIRethemedHistory_Unpin>Открепить</UIRethemedHistory_Unpin>
+  <UIRethemedHistory_Preview>Предпросмотр</UIRethemedHistory_Preview>
+  <UIRethemedHistory_PickRecord>Выберите что-нибудь в архиве, чтобы прочитать здесь.</UIRethemedHistory_PickRecord>
+  <UIRethemedHistory_Message>Сообщение</UIRethemedHistory_Message>
+  <UIRethemedHistory_Record>Запись</UIRethemedHistory_Record>
+  <UIRethemedHistory_ArrivedAgo>{0}, {1} назад</UIRethemedHistory_ArrivedAgo>
+  <UIRethemedHistory_Open>Открыть</UIRethemedHistory_Open>
+  <UIRethemedHistory_OpenTip>Открыть так, как оно пришло, с вариантами выбора, если они ещё доступны. Двойной щелчок в списке делает то же самое.</UIRethemedHistory_OpenTip>
+  <UIRethemedHistory_JumpTo>Посмотреть</UIRethemedHistory_JumpTo>
+  <UIRethemedHistory_JumpToTip>Перейти к тому, о чём это, и выделить. ПКМ в списке делает то же самое.</UIRethemedHistory_JumpToTip>
+  <UIRethemedHistory_CantJumpTip>Того, о чём это, больше нет.</UIRethemedHistory_CantJumpTip>
+
+  <UIRethemedHistory_Card_Colony>Колония</UIRethemedHistory_Card_Colony>
+  <UIRethemedHistory_Card_Wealth>Богатство на этой карте</UIRethemedHistory_Card_Wealth>
+  <UIRethemedHistory_Card_Threats>Угрозы</UIRethemedHistory_Card_Threats>
+  <UIRethemedHistory_PlayTime>{0} ч {1} мин</UIRethemedHistory_PlayTime>
+  <UIRethemedHistory_Arrived>Прибытие</UIRethemedHistory_Arrived>
+  <UIRethemedHistory_HallOfFame>Зал славы</UIRethemedHistory_HallOfFame>
+  <UIRethemedHistory_RecordSearchHint>Поиск рекордов или поселенцев...</UIRethemedHistory_RecordSearchHint>
+  <UIRethemedHistory_IncludeDead>И павшие</UIRethemedHistory_IncludeDead>
+  <UIRethemedHistory_IncludeDeadTip>Учитывать погибших поселенцев наравне с живыми.</UIRethemedHistory_IncludeDeadTip>
+  <UIRethemedHistory_NoRecords>Ни один поселенец пока не установил рекорд.</UIRethemedHistory_NoRecords>
+  <UIRethemedHistory_ColonyTotal>Всего по колонии</UIRethemedHistory_ColonyTotal>
+  <UIRethemedHistory_RecordTip>Лидирует {0} с результатом {1}. Все поселенцы вместе: {2}.\n\n{3}</UIRethemedHistory_RecordTip>
+  <UIRethemedHistory_RecordLook>Щёлкните, чтобы посмотреть на него.</UIRethemedHistory_RecordLook>
+  <UIRethemedHistory_RecordDead>Погиб.</UIRethemedHistory_RecordDead>
+  <UIRethemedHistory_Milestones>Вехи</UIRethemedHistory_Milestones>
+  <UIRethemedHistory_NoMilestones>Вех пока нет.</UIRethemedHistory_NoMilestones>
+</LanguageData>

@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedArchitect_ModName>UI Rethemed - Проекты</UIRethemedArchitect_ModName>
+  <UIRethemedArchitect_PartFailed>UI Rethemed - Проекты: ошибка при отрисовке одного из меню, поэтому до перезапуска игры показывается стандартное. Проблема: {0}</UIRethemedArchitect_PartFailed>
+  <UIRethemedArchitect_OpenSettings>Настройки</UIRethemedArchitect_OpenSettings>
+  <UIRethemedArchitect_TabFailed>UI Rethemed - Проекты: ошибка при отрисовке вкладки «Проекты», поэтому до перезапуска игры показывается стандартная вкладка. Проблема: {0}</UIRethemedArchitect_TabFailed>
+
+  <UIRethemedArchitect_Settings_Window>Окно</UIRethemedArchitect_Settings_Window>
+  <UIRethemedArchitect_Settings_WindowSummary>{0} × {1}</UIRethemedArchitect_Settings_WindowSummary>
+  <UIRethemedArchitect_Settings_Cards>Карточки</UIRethemedArchitect_Settings_Cards>
+  <UIRethemedArchitect_Settings_CardsSummary>{0} пикс.</UIRethemedArchitect_Settings_CardsSummary>
+  <UIRethemedArchitect_Settings_DetailsCard>Панель подробностей</UIRethemedArchitect_Settings_DetailsCard>
+  <UIRethemedArchitect_Settings_FactsSummary>Характеристик: {0}</UIRethemedArchitect_Settings_FactsSummary>
+  <UIRethemedArchitect_Settings_MaterialMenu>Меню материалов</UIRethemedArchitect_Settings_MaterialMenu>
+  <UIRethemedArchitect_Settings_ColumnsSummary>Столбцов: {0}</UIRethemedArchitect_Settings_ColumnsSummary>
+  <UIRethemedArchitect_Settings_Off>Выкл.</UIRethemedArchitect_Settings_Off>
+  <UIRethemedArchitect_Settings_Vanilla>Стандартное</UIRethemedArchitect_Settings_Vanilla>
+  <UIRethemedArchitect_Settings_DetailDescription>Описание</UIRethemedArchitect_Settings_DetailDescription>
+  <UIRethemedArchitect_Settings_DetailDescriptionTip>Показывает игровое описание на карточке под названием.</UIRethemedArchitect_Settings_DetailDescriptionTip>
+  <UIRethemedArchitect_Settings_DetailCost>Стоимость</UIRethemedArchitect_Settings_DetailCost>
+  <UIRethemedArchitect_Settings_DetailCostTip>Показывает каждый нужный материал в сравнении с запасами колонии и общую стоимость.</UIRethemedArchitect_Settings_DetailCostTip>
+  <UIRethemedArchitect_Settings_DetailNeeds>Требования</UIRethemedArchitect_Settings_DetailNeeds>
+  <UIRethemedArchitect_Settings_DetailNeedsTip>Показывает нужные навыки и исследования — красным, пока ни у кого нет навыка или исследование не завершено.</UIRethemedArchitect_Settings_DetailNeedsTip>
+  <UIRethemedArchitect_Settings_Facts>Характеристики</UIRethemedArchitect_Settings_Facts>
+  <UIRethemedArchitect_Settings_FactsHint>Что подробности сообщают о строительстве и свойствах постройки. Каждая характеристика показывается только там, где применима, для выбранного материала.</UIRethemedArchitect_Settings_FactsHint>
+  <UIRethemedArchitect_Settings_PickerColumns>Столбцы</UIRethemedArchitect_Settings_PickerColumns>
+  <UIRethemedArchitect_Settings_PickerColumnsHint>Что меню материалов и виды выпадающего списка сравнивают для каждого варианта. Щёлкните по заголовку столбца в меню, чтобы сортировать по нему. Меню расширяется под них вплоть до ширины экрана.</UIRethemedArchitect_Settings_PickerColumnsHint>
+  <UIRethemedArchitect_Settings_StatDefaults>По умолчанию</UIRethemedArchitect_Settings_StatDefaults>
+  <UIRethemedArchitect_Settings_StatDefaultsTip>Возвращает то, что показывалось до ваших изменений.</UIRethemedArchitect_Settings_StatDefaultsTip>
+  <UIRethemedArchitect_Settings_FactsDefaultsConfirm>Вернуть характеристики, которые подробности показывали изначально? Ваши отметки будут потеряны.</UIRethemedArchitect_Settings_FactsDefaultsConfirm>
+  <UIRethemedArchitect_Settings_ColumnsDefaultsConfirm>Вернуть исходные столбцы меню материалов? Ваши отметки будут потеряны.</UIRethemedArchitect_Settings_ColumnsDefaultsConfirm>
+  <UIRethemedArchitect_Settings_AtDefault>Уже как было изначально.</UIRethemedArchitect_Settings_AtDefault>
+  <UIRethemedArchitect_Settings_StatSearchHint>Найти характеристику...</UIRethemedArchitect_Settings_StatSearchHint>
+  <UIRethemedArchitect_Settings_NoStats>Нет характеристик, подходящих под поиск.</UIRethemedArchitect_Settings_NoStats>
+  <UIRethemedArchitect_Settings_ArchitectTab>Вкладка «Проекты»</UIRethemedArchitect_Settings_ArchitectTab>
+  <UIRethemedArchitect_Settings_ArchitectTabTip>Заменяет вкладку «Проекты» большим оформленным окном: ваши категории и группы слева, их содержимое в виде карточек посередине, а подробности о том, на что вы навели, — справа, с поиском и меню сортировки. Снимите галочку, чтобы вернуть стандартную вкладку.</UIRethemedArchitect_Settings_ArchitectTabTip>
+  <UIRethemedArchitect_Settings_Replaced>{0} добавляет собственное окно проектов, поэтому оно используется вместо этого.</UIRethemedArchitect_Settings_Replaced>
+  <UIRethemedArchitect_Settings_Width>Ширина окна: {0}</UIRethemedArchitect_Settings_Width>
+  <UIRethemedArchitect_Settings_WidthTip>Ширина вкладки «Проекты» — от 80% до 200% обычной, но не шире экрана. В узком окне подробности скрываются, чтобы оставить место карточкам.</UIRethemedArchitect_Settings_WidthTip>
+  <UIRethemedArchitect_Settings_Height>Высота окна: {0}</UIRethemedArchitect_Settings_Height>
+  <UIRethemedArchitect_Settings_HeightTip>Высота вкладки «Проекты» — от 80% до 150% обычной. Она по-прежнему стоит на нижней панели и не выходит за верх экрана.</UIRethemedArchitect_Settings_HeightTip>
+  <UIRethemedArchitect_Settings_Columns>Ширина столбцов</UIRethemedArchitect_Settings_Columns>
+  <UIRethemedArchitect_Settings_ColumnsTip>Как ширина окна делится между категориями, карточками и подробностями. В сумме всегда 100%.</UIRethemedArchitect_Settings_ColumnsTip>
+  <UIRethemedArchitect_Settings_ListShare>Категории: {0}</UIRethemedArchitect_Settings_ListShare>
+  <UIRethemedArchitect_Settings_ListShareTip>Доля списка категорий в ширине окна. Карточки растягиваются или сжимаются, чтобы компенсировать разницу.</UIRethemedArchitect_Settings_ListShareTip>
+  <UIRethemedArchitect_Settings_GridShare>Карточки: {0}</UIRethemedArchitect_Settings_GridShare>
+  <UIRethemedArchitect_Settings_GridShareTip>Доля карточек в ширине окна. Разницу компенсируют сначала подробности, затем категории. Если подробности выключены, их долю тоже занимают карточки.</UIRethemedArchitect_Settings_GridShareTip>
+  <UIRethemedArchitect_Settings_DetailsShare>Подробности: {0}</UIRethemedArchitect_Settings_DetailsShare>
+  <UIRethemedArchitect_Settings_DetailsShareTip>Доля подробностей в ширине окна. Карточки растягиваются или сжимаются, чтобы компенсировать разницу.</UIRethemedArchitect_Settings_DetailsShareTip>
+  <UIRethemedArchitect_Settings_ResetColumns>Сбросить ширину столбцов</UIRethemedArchitect_Settings_ResetColumns>
+  <UIRethemedArchitect_Settings_ResetColumnsTip>Делит ширину окна как изначально: категории {0}, карточки {1}, подробности {2}.</UIRethemedArchitect_Settings_ResetColumnsTip>
+  <UIRethemedArchitect_Settings_ResetColumnsConfirm>Вернуть исходную ширину столбцов?</UIRethemedArchitect_Settings_ResetColumnsConfirm>
+  <UIRethemedArchitect_Settings_ItemSize>Размер карточки: {0} пикс.</UIRethemedArchitect_Settings_ItemSize>
+  <UIRethemedArchitect_Settings_ItemSizeTip>Размер изображения на каждой карточке. Меньше — больше помещается в ряд; больше — легче различать.</UIRethemedArchitect_Settings_ItemSizeTip>
+  <UIRethemedArchitect_Settings_ResetItemSize>Сбросить размер карточек</UIRethemedArchitect_Settings_ResetItemSize>
+  <UIRethemedArchitect_Settings_ResetItemSizeTip>Возвращает карточкам обычный размер — {0} пикс.</UIRethemedArchitect_Settings_ResetItemSizeTip>
+  <UIRethemedArchitect_Settings_ResetItemSizeConfirm>Вернуть карточкам обычный размер — {0} пикс.?</UIRethemedArchitect_Settings_ResetItemSizeConfirm>
+  <UIRethemedArchitect_Settings_Labels>Названия под карточками</UIRethemedArchitect_Settings_Labels>
+  <UIRethemedArchitect_Settings_LabelsTip>Пишет название каждой карточки под изображением. Снимите галочку для более плотной сетки изображений; название тогда показывается при наведении.</UIRethemedArchitect_Settings_LabelsTip>
+  <UIRethemedArchitect_Settings_Details>Панель подробностей</UIRethemedArchitect_Settings_Details>
+  <UIRethemedArchitect_Settings_DetailsTip>Показывает рядом с карточками подробности о карточке под курсором или о выбранном: стоимость в сравнении с запасами колонии, строительство и свойства, нужные навыки и исследования, а также описание. Что именно показывать — выберите ниже.</UIRethemedArchitect_Settings_DetailsTip>
+  <UIRethemedArchitect_Settings_StockOutline>Обводка доступного</UIRethemedArchitect_Settings_StockOutline>
+  <UIRethemedArchitect_Settings_StockOutlineTip>Обводит каждую карточку в зависимости от того, хватает ли у колонии запасов для постройки: зелёным — хватает, синим — не хватает в выбранном материале, но хватает в другом (например, дерева, но не стали) или в другом виде из выпадающего списка, и красным — не подходит ничего из имеющегося. Приказы вроде «Отменить» и «Разобрать» ничего не стоят и не обводятся. Также включается и выключается кнопкой в заголовке вкладки.</UIRethemedArchitect_Settings_StockOutlineTip>
+  <UIRethemedArchitect_Stock>Можно построить?</UIRethemedArchitect_Stock>
+  <UIRethemedArchitect_StockToggleTip>Обводит каждую карточку по запасам: зелёным — можно построить, синим — только из другого материала или вида, красным — никак. Щёлкните, чтобы {0} обводку.</UIRethemedArchitect_StockToggleTip>
+  <UIRethemedArchitect_On>включить</UIRethemedArchitect_On>
+  <UIRethemedArchitect_Off>выключить</UIRethemedArchitect_Off>
+  <UIRethemedArchitect_Settings_Browsing>Просмотр</UIRethemedArchitect_Settings_Browsing>
+  <UIRethemedArchitect_Settings_Nest>Категории из {0}</UIRethemedArchitect_Settings_Nest>
+  <UIRethemedArchitect_Settings_NestTip>Показывает категории так, как их упорядочивает {0}: каждая главная категория — группа входящих в неё, а её собственное содержимое — в «Прочее». Это обычные группы, поэтому их можно переименовывать, перемещать, скрывать или удалять в раскладке меню и вкладывать в свои. Объединение эти категории не затрагивает. Снимите галочку, чтобы вернуться к простому списку; повторная отметка или «Сбросить раскладку» снова упорядочит их так.</UIRethemedArchitect_Settings_NestTip>
+  <UIRethemedArchitect_Settings_MergeModded>Объединять категории модов со стандартными</UIRethemedArchitect_Settings_MergeModded>
+  <UIRethemedArchitect_Settings_MergeModdedTip>Оставляет в списке только стандартные категории: добавленное модами попадает туда, куда подходит, — кровать из мода в «Мебель», генератор в «Электричество», турель в «Безопасность». То, что никуда не подходит, остаётся в собственной категории мода, без повторения инструментов, которые есть в других местах, вроде «Отменить» и «Разобрать», а опустевшая категория мода не показывается. Чтобы оставить отдельные категории целиком, используйте их кнопку объединения в раскладке меню. Снимите галочку, чтобы показывать категории модов в исходном виде.</UIRethemedArchitect_Settings_MergeModdedTip>
+  <UIRethemedArchitect_Settings_ExpandDropdowns>Показывать варианты выпадающих списков отдельно</UIRethemedArchitect_Settings_ExpandDropdowns>
+  <UIRethemedArchitect_Settings_ExpandDropdownsTip>Некоторые вещи представлены одной кнопкой со списком вариантов (например, ковры по цвету). Отметьте, чтобы каждому варианту выделить собственную карточку. В поиске и избранном они всегда показываются отдельно.</UIRethemedArchitect_Settings_ExpandDropdownsTip>
+  <UIRethemedArchitect_Settings_SearchDescriptions>Искать и в описаниях</UIRethemedArchitect_Settings_SearchDescriptions>
+  <UIRethemedArchitect_Settings_SearchDescriptionsTip>Находит также вещи, в описании которых есть введённое, а не только в названии.</UIRethemedArchitect_Settings_SearchDescriptionsTip>
+  <UIRethemedArchitect_Settings_FocusSearch>Сразу вводить текст в поиск</UIRethemedArchitect_Settings_FocusSearch>
+  <UIRethemedArchitect_Settings_FocusSearchTip>При открытии вкладки ставит курсор в поле поиска, чтобы можно было сразу печатать. Пока он там, нажатые клавиши идут в поиск, а не в камеру или горячие клавиши; щёлкните в любом другом месте или нажмите Escape, чтобы прекратить ввод.</UIRethemedArchitect_Settings_FocusSearchTip>
+  <UIRethemedArchitect_Settings_FoldOthers>Сворачивать другие группы</UIRethemedArchitect_Settings_FoldOthers>
+  <UIRethemedArchitect_Settings_FoldOthersTip>При открытии чего-либо в списке сворачивает все остальные открытые группы, оставляя только ту, по которой щёлкнули, чтобы список оставался коротким. Снимите галочку, чтобы группы оставались открытыми, пока вы сами их не свернёте.</UIRethemedArchitect_Settings_FoldOthersTip>
+  <UIRethemedArchitect_Settings_ThemedMenus>Оформленные меню</UIRethemedArchitect_Settings_ThemedMenus>
+  <UIRethemedArchitect_Settings_ThemedMenusTip>Показывает в стиле темы меню, открывающиеся по щелчку во вкладке: материалы с их требованиями и даваемыми характеристиками, виды из выпадающего списка (например, каменная плитка) со стоимостью и характеристиками, а цвета — сеткой образцов. Меню модов тоже оформляются, когда это возможно; остальные сохраняют свой вид. Снимите галочку, чтобы всегда использовать игровые меню.</UIRethemedArchitect_Settings_ThemedMenusTip>
+  <UIRethemedArchitect_Settings_ThemedControls>Оформленные элементы размещения</UIRethemedArchitect_Settings_ThemedControls>
+  <UIRethemedArchitect_Settings_ThemedControlsTip>Показывает кнопки поворота и стили рисования в стиле темы, пока вы что-то размещаете. Снимите галочку, чтобы всегда использовать игровые.</UIRethemedArchitect_Settings_ThemedControlsTip>
+  <UIRethemedArchitect_Settings_HideWhilePlacing>Скрывать вкладку при размещении</UIRethemedArchitect_Settings_HideWhilePlacing>
+  <UIRethemedArchitect_Settings_HideWhilePlacingTip>Скрывает вкладку «Проекты», когда вы выбрали в ней что-то вместе с материалом, чтобы вся карта была свободна, и возвращает её, когда вы прекращаете щелчком ПКМ или нажимаете кнопку «Проекты». Кнопки поворота, стили рисования и горячие клавиши показанных карточек продолжают работать.</UIRethemedArchitect_Settings_HideWhilePlacingTip>
+  <UIRethemedArchitect_Settings_ClearFavourites>Очистить избранное ({0})</UIRethemedArchitect_Settings_ClearFavourites>
+  <UIRethemedArchitect_Settings_ClearFavouritesTip>Убирает все карточки из избранного.</UIRethemedArchitect_Settings_ClearFavouritesTip>
+  <UIRethemedArchitect_Settings_ClearFavouritesConfirm>Убрать все карточки ({0}) из избранного? Отмечать звёздочкой придётся каждую заново.</UIRethemedArchitect_Settings_ClearFavouritesConfirm>
+  <UIRethemedArchitect_Settings_NoFavourites>В избранном нет карточек.</UIRethemedArchitect_Settings_NoFavourites>
+  <UIRethemedArchitect_Settings_ShowHidden>Снова показать скрытое ({0})</UIRethemedArchitect_Settings_ShowHidden>
+  <UIRethemedArchitect_Settings_ShowHiddenTip>Возвращает все карточки, скрытые через ПКМ.</UIRethemedArchitect_Settings_ShowHiddenTip>
+  <UIRethemedArchitect_Settings_ShowHiddenConfirm>Снова показать все скрытые карточки ({0})? Скрывать придётся каждую заново через ПКМ.</UIRethemedArchitect_Settings_ShowHiddenConfirm>
+  <UIRethemedArchitect_Settings_NoHidden>Скрытых карточек нет.</UIRethemedArchitect_Settings_NoHidden>
+  <UIRethemedArchitect_Settings_Style>Стиль</UIRethemedArchitect_Settings_Style>
+  <UIRethemedArchitect_Settings_Animations>Анимации</UIRethemedArchitect_Settings_Animations>
+  <UIRethemedArchitect_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedArchitect_Settings_SettingsGear>
+  <UIRethemedArchitect_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую эти настройки.</UIRethemedArchitect_Settings_SettingsGearTip>
+  <UIRethemedArchitect_Settings_AnimationsTip>Подсветка при наведении плавно появляется и исчезает, группы плавно раскрываются и сворачиваются, а узоры из шестиугольников медленно плывут. Снимите галочку, чтобы всё было неподвижно.</UIRethemedArchitect_Settings_AnimationsTip>
+
+  <UIRethemedArchitect_Layout>Раскладка меню</UIRethemedArchitect_Layout>
+  <UIRethemedArchitect_LayoutHint>Все кнопки списка вкладки «Проекты». Щёлкните по значку, чтобы сменить его, впишите своё название, задайте цвет цветовым кругом, перетаскивайте кнопки за точки, скрывайте их и объединяйте категории в группы: группа «Размещаемое» может вмещать «Мебель» и «Производство» под одной кнопкой. Категории модов идут после стандартных. При включённом в настройках объединении их содержимое попадает в подходящие стандартные (кнопка объединения сохраняет категорию целиком), поэтому большинство из них во вкладке не появляется.</UIRethemedArchitect_LayoutHint>
+  <UIRethemedArchitect_NewGroup>Новая группа</UIRethemedArchitect_NewGroup>
+  <UIRethemedArchitect_NewGroupTip>Добавляет группу в начало списка. Помещайте в неё категории кнопкой с папкой.</UIRethemedArchitect_NewGroupTip>
+  <UIRethemedArchitect_NewGroupName>Новая группа</UIRethemedArchitect_NewGroupName>
+  <UIRethemedArchitect_ResetLayout>Сбросить раскладку</UIRethemedArchitect_ResetLayout>
+  <UIRethemedArchitect_ResetLayoutTip>Возвращает все категории в стандартный порядок с собственными названиями и значками, без цвета, и удаляет ваши группы.</UIRethemedArchitect_ResetLayoutTip>
+  <UIRethemedArchitect_ResetLayoutConfirm>Сбросить список вкладки «Проекты»? Все категории вернутся в стандартный порядок с собственными названиями и значками, без цвета, а ваши группы будут удалены.</UIRethemedArchitect_ResetLayoutConfirm>
+  <UIRethemedArchitect_GroupEmpty>Пусто: перетащите сюда категории или используйте их кнопку с папкой.</UIRethemedArchitect_GroupEmpty>
+  <UIRethemedArchitect_ChangeIcon>Сменить значок</UIRethemedArchitect_ChangeIcon>
+  <UIRethemedArchitect_ChangeIconTip>Выбрать для этой кнопки другой значок: один из значков вкладки, изображение постройки или значок из ваших модов.</UIRethemedArchitect_ChangeIconTip>
+  <UIRethemedArchitect_Rename>Переименовать</UIRethemedArchitect_Rename>
+  <UIRethemedArchitect_RenameTip>Введите своё название для этой кнопки или оставьте пустым для обычного названия ({0}).</UIRethemedArchitect_RenameTip>
+  <UIRethemedArchitect_Drag>Перетащить</UIRethemedArchitect_Drag>
+  <UIRethemedArchitect_DragTip>Зажмите и тяните эту строку вверх или вниз по списку. Бросьте категорию на группу, чтобы поместить её внутрь, или между категориями группы, чтобы поставить туда. Отпустите вне списка, чтобы оставить на месте.</UIRethemedArchitect_DragTip>
+  <UIRethemedArchitect_MoveUp>Выше</UIRethemedArchitect_MoveUp>
+  <UIRethemedArchitect_MoveUpTip>Ctrl+щелчок — в начало списка.</UIRethemedArchitect_MoveUpTip>
+  <UIRethemedArchitect_MoveDown>Ниже</UIRethemedArchitect_MoveDown>
+  <UIRethemedArchitect_MoveDownTip>Ctrl+щелчок — в конец списка.</UIRethemedArchitect_MoveDownTip>
+  <UIRethemedArchitect_MoveToGroup>Группа</UIRethemedArchitect_MoveToGroup>
+  <UIRethemedArchitect_MoveToGroupTip>Поместить эту категорию в группу, переместить в другую или вынести обратно в начало списка.</UIRethemedArchitect_MoveToGroupTip>
+  <UIRethemedArchitect_NoGroup>Без группы (в начале списка)</UIRethemedArchitect_NoGroup>
+  <UIRethemedArchitect_IntoNewGroup>Новая группа...</UIRethemedArchitect_IntoNewGroup>
+  <UIRethemedArchitect_Hide>Скрыть</UIRethemedArchitect_Hide>
+  <UIRethemedArchitect_Show>Показать</UIRethemedArchitect_Show>
+  <UIRethemedArchitect_HideTip>Скрывает эту категорию из списка вкладки и из поиска. Щёлкните ещё раз, чтобы показать.</UIRethemedArchitect_HideTip>
+  <UIRethemedArchitect_HideGroupTip>Скрывает эту группу и все её категории из списка вкладки и из поиска. Щёлкните ещё раз, чтобы показать.</UIRethemedArchitect_HideGroupTip>
+  <UIRethemedArchitect_Merged>Объединено со стандартными</UIRethemedArchitect_Merged>
+  <UIRethemedArchitect_Separate>Отдельно</UIRethemedArchitect_Separate>
+  <UIRethemedArchitect_MergeTip>Подсвечено: содержимое категории этого мода показывается в подходящих стандартных категориях, а здесь остаётся только то, что никуда не подходит. Щёлкните, чтобы сохранить категорию целиком.</UIRethemedArchitect_MergeTip>
+  <UIRethemedArchitect_MergeOffTip>Объединение категорий модов со стандартными выключено в настройках слева.</UIRethemedArchitect_MergeOffTip>
+  <UIRethemedArchitect_DeleteGroup>Удалить группу</UIRethemedArchitect_DeleteGroup>
+  <UIRethemedArchitect_DeleteGroupTip>Удаляет эту группу. Её категории возвращаются в начало списка, на место группы.</UIRethemedArchitect_DeleteGroupTip>
+  <UIRethemedArchitect_DeleteGroupConfirm>Удалить группу «{0}»? Её категории вернутся в начало списка, но название, значок и цвет группы будут потеряны.</UIRethemedArchitect_DeleteGroupConfirm>
+
+  <UIRethemedArchitect_PickIcon>Значок для: {0}</UIRethemedArchitect_PickIcon>
+  <UIRethemedArchitect_IconPage_Icons>Значки</UIRethemedArchitect_IconPage_Icons>
+  <UIRethemedArchitect_IconPage_IconsTip>Собственные значки вкладки в её стиле.</UIRethemedArchitect_IconPage_IconsTip>
+  <UIRethemedArchitect_IconPage_Buildings>Постройки</UIRethemedArchitect_IconPage_Buildings>
+  <UIRethemedArchitect_IconPage_BuildingsTip>Изображение всего, что можно построить, из игры и ваших модов: например, кровать для группы «Спальня».</UIRethemedArchitect_IconPage_BuildingsTip>
+  <UIRethemedArchitect_IconPage_Mods>Из модов</UIRethemedArchitect_IconPage_Mods>
+  <UIRethemedArchitect_IconPage_ModsTip>Значки, которые ваши моды поставляют для своих категорий проектов.</UIRethemedArchitect_IconPage_ModsTip>
+  <UIRethemedArchitect_IconSearchHint>Поиск значков...</UIRethemedArchitect_IconSearchHint>
+  <UIRethemedArchitect_NoIcons>Нет значков, подходящих под поиск.</UIRethemedArchitect_NoIcons>
+  <UIRethemedArchitect_UseDefault>По умолчанию</UIRethemedArchitect_UseDefault>
+  <UIRethemedArchitect_UseDefaultTip>Возвращает кнопке обычный значок.</UIRethemedArchitect_UseDefaultTip>
+
+  <UIRethemedArchitect_Colour>Цвет</UIRethemedArchitect_Colour>
+  <UIRethemedArchitect_ColourTip>Выберите цвет кнопки этой категории во вкладке «Проекты». Кнопка подсвечивается им при каждом открытии вкладки.</UIRethemedArchitect_ColourTip>
+  <UIRethemedArchitect_ColourGroupTip>Выберите цвет кнопки этой группы во вкладке «Проекты». Кнопка подсвечивается им при каждом открытии вкладки; её категории сохраняют свои цвета.</UIRethemedArchitect_ColourGroupTip>
+  <UIRethemedArchitect_PickButtonColour>Цвет для: {0}</UIRethemedArchitect_PickButtonColour>
+  <UIRethemedArchitect_ColourWheel>Цветовой круг</UIRethemedArchitect_ColourWheel>
+  <UIRethemedArchitect_ColourWheelTip>Нажмите или тяните: по кругу — оттенок, к краю — насыщенность.</UIRethemedArchitect_ColourWheelTip>
+  <UIRethemedArchitect_ColourBrightness>Яркость</UIRethemedArchitect_ColourBrightness>
+  <UIRethemedArchitect_ColourBrightnessTip>Нажмите или тяните: левее — темнее, правее — ярче.</UIRethemedArchitect_ColourBrightnessTip>
+  <UIRethemedArchitect_ColourPreview>Во вкладке</UIRethemedArchitect_ColourPreview>
+  <UIRethemedArchitect_ColourHex>HEX-код</UIRethemedArchitect_ColourHex>
+  <UIRethemedArchitect_ColourHexTip>Цвет в виде шести шестнадцатеричных цифр, например 2C7AAC. Введите или вставьте код, чтобы применить его.</UIRethemedArchitect_ColourHexTip>
+  <UIRethemedArchitect_NoColour>Без цвета</UIRethemedArchitect_NoColour>
+  <UIRethemedArchitect_NoColourTip>Убирает цвет, и кнопка выглядит как остальные.</UIRethemedArchitect_NoColourTip>
+  <UIRethemedArchitect_ColourCancelTip>Возвращает цвет, который был при открытии.</UIRethemedArchitect_ColourCancelTip>
+
+  <UIRethemedArchitect_Title>Проекты</UIRethemedArchitect_Title>
+  <UIRethemedArchitect_Search>Поиск</UIRethemedArchitect_Search>
+  <UIRethemedArchitect_SearchHint>Искать везде...</UIRethemedArchitect_SearchHint>
+  <UIRethemedArchitect_SearchTip>Находит по названию всё, что можно построить или приказать, во всех категориях. Должно совпасть каждое введённое слово; начните слово с @, чтобы искать по названию мода (@vanilla). Enter выбирает первую найденную карточку, а щелчок по категории сужает поиск до неё.</UIRethemedArchitect_SearchTip>
+  <UIRethemedArchitect_SearchFound>Найдено: {0}</UIRethemedArchitect_SearchFound>
+  <UIRethemedArchitect_Style>Стили</UIRethemedArchitect_Style>
+  <UIRethemedArchitect_StyleTip>Выберите стили, в которых строятся ваши постройки (классический режим Ideology).</UIRethemedArchitect_StyleTip>
+
+  <UIRethemedArchitect_SortMenu>Сортировка и группировка</UIRethemedArchitect_SortMenu>
+  <UIRethemedArchitect_SortTip>Сортировка: {0}, {1}; группировка: {2}. Щёлкните, чтобы изменить сортировку и группировку карточек.</UIRethemedArchitect_SortTip>
+  <UIRethemedArchitect_SortBy>Сортировать по</UIRethemedArchitect_SortBy>
+  <UIRethemedArchitect_SortAgainTip>Щёлкните ещё раз, чтобы перевернуть.</UIRethemedArchitect_SortAgainTip>
+  <UIRethemedArchitect_MoreSorts>Ещё</UIRethemedArchitect_MoreSorts>
+  <UIRethemedArchitect_SortSearchHint>Найти характеристику...</UIRethemedArchitect_SortSearchHint>
+  <UIRethemedArchitect_NoSorts>Нет характеристик, подходящих под поиск.</UIRethemedArchitect_NoSorts>
+  <UIRethemedArchitect_Stat_WalkSpeed>Скорость ходьбы</UIRethemedArchitect_Stat_WalkSpeed>
+  <UIRethemedArchitect_Stat_WalkSpeedTip>Как быстро люди и животные передвигаются по этому, в доле от обычной скорости. Есть у полов и того, через что можно пройти; у стен нет.</UIRethemedArchitect_Stat_WalkSpeedTip>
+  <UIRethemedArchitect_Order>Порядок</UIRethemedArchitect_Order>
+  <UIRethemedArchitect_Ascending>По возрастанию</UIRethemedArchitect_Ascending>
+  <UIRethemedArchitect_AscendingTip>Сначала меньшие: от А до Я, самые дешёвые, самые быстрые.</UIRethemedArchitect_AscendingTip>
+  <UIRethemedArchitect_Descending>По убыванию</UIRethemedArchitect_Descending>
+  <UIRethemedArchitect_DescendingTip>Сначала большие: от Я до А, самые дорогие, самые долгие.</UIRethemedArchitect_DescendingTip>
+  <UIRethemedArchitect_GroupBy>Группировать по</UIRethemedArchitect_GroupBy>
+
+  <UIRethemedArchitect_Sort_Default>По умолчанию</UIRethemedArchitect_Sort_Default>
+  <UIRethemedArchitect_Sort_DefaultTip>Стандартный порядок: категории в вашей раскладке, затем собственный порядок каждой.</UIRethemedArchitect_Sort_DefaultTip>
+  <UIRethemedArchitect_Sort_Name>Название</UIRethemedArchitect_Sort_Name>
+  <UIRethemedArchitect_Sort_NameTip>По алфавиту.</UIRethemedArchitect_Sort_NameTip>
+  <UIRethemedArchitect_Sort_Cost>Стоимость</UIRethemedArchitect_Sort_Cost>
+  <UIRethemedArchitect_Sort_CostTip>Стоимость материалов в выбранном для постройки материале.</UIRethemedArchitect_Sort_CostTip>
+  <UIRethemedArchitect_Sort_Work>Объём работы</UIRethemedArchitect_Sort_Work>
+  <UIRethemedArchitect_Sort_WorkTip>Сколько времени занимает строительство.</UIRethemedArchitect_Sort_WorkTip>
+  <UIRethemedArchitect_Sort_Beauty>Красота</UIRethemedArchitect_Sort_Beauty>
+  <UIRethemedArchitect_Sort_BeautyTip>Насколько это повышает красоту комнаты.</UIRethemedArchitect_Sort_BeautyTip>
+  <UIRethemedArchitect_Sort_Comfort>Комфорт</UIRethemedArchitect_Sort_Comfort>
+  <UIRethemedArchitect_Sort_ComfortTip>Насколько удобно на этом сидеть или лежать.</UIRethemedArchitect_Sort_ComfortTip>
+  <UIRethemedArchitect_Sort_HitPoints>Прочность</UIRethemedArchitect_Sort_HitPoints>
+  <UIRethemedArchitect_Sort_HitPointsTip>Сколько урона выдерживает до разрушения.</UIRethemedArchitect_Sort_HitPointsTip>
+  <UIRethemedArchitect_Sort_Size>Размер</UIRethemedArchitect_Sort_Size>
+  <UIRethemedArchitect_Sort_SizeTip>Сколько клеток занимает.</UIRethemedArchitect_Sort_SizeTip>
+  <UIRethemedArchitect_Sort_Power>Электричество</UIRethemedArchitect_Sort_Power>
+  <UIRethemedArchitect_Sort_PowerTip>Сколько электричества потребляет; генераторы его производят, поэтому идут первыми.</UIRethemedArchitect_Sort_PowerTip>
+  <UIRethemedArchitect_Sort_TechLevel>Технологический уровень</UIRethemedArchitect_Sort_TechLevel>
+  <UIRethemedArchitect_Sort_TechLevelTip>От неолита до архотеха: собственный технологический уровень или уровень его исследования.</UIRethemedArchitect_Sort_TechLevelTip>
+  <UIRethemedArchitect_Sort_Skill>Навык строительства</UIRethemedArchitect_Sort_Skill>
+  <UIRethemedArchitect_Sort_SkillTip>Навык строительства, нужный поселенцу для постройки.</UIRethemedArchitect_Sort_SkillTip>
+  <UIRethemedArchitect_Sort_Mod>Мод</UIRethemedArchitect_Sort_Mod>
+  <UIRethemedArchitect_Sort_ModTip>Мод, из которого это взято, в порядке вашего списка модов.</UIRethemedArchitect_Sort_ModTip>
+
+  <UIRethemedArchitect_Group_Auto>Автоматически</UIRethemedArchitect_Group_Auto>
+  <UIRethemedArchitect_Group_AutoTip>По категориям, когда показано больше одной (группа, избранное, поиск); иначе без группировки.</UIRethemedArchitect_Group_AutoTip>
+  <UIRethemedArchitect_Group_None>Нет</UIRethemedArchitect_Group_None>
+  <UIRethemedArchitect_Group_NoneTip>Одна сетка без заголовков.</UIRethemedArchitect_Group_NoneTip>
+  <UIRethemedArchitect_Group_Category>Категория</UIRethemedArchitect_Group_Category>
+  <UIRethemedArchitect_Group_CategoryTip>Заголовок для каждой категории в порядке вашей раскладки.</UIRethemedArchitect_Group_CategoryTip>
+  <UIRethemedArchitect_Group_Mod>Мод</UIRethemedArchitect_Group_Mod>
+  <UIRethemedArchitect_Group_ModTip>Заголовок для каждого мода в порядке вашего списка модов.</UIRethemedArchitect_Group_ModTip>
+  <UIRethemedArchitect_Group_TechLevel>Технологический уровень</UIRethemedArchitect_Group_TechLevel>
+  <UIRethemedArchitect_Group_TechLevelTip>Заголовок для каждого технологического уровня, начиная с неолита.</UIRethemedArchitect_Group_TechLevelTip>
+  <UIRethemedArchitect_UnknownMod>Неизвестный мод</UIRethemedArchitect_UnknownMod>
+  <UIRethemedArchitect_NoTechLevel>Без технологического уровня</UIRethemedArchitect_NoTechLevel>
+
+  <UIRethemedArchitect_Categories>Категории</UIRethemedArchitect_Categories>
+  <UIRethemedArchitect_FromMod>Из {0}.</UIRethemedArchitect_FromMod>
+  <UIRethemedArchitect_NestOther>Прочее</UIRethemedArchitect_NestOther>
+  <UIRethemedArchitect_MergedFrom>{0}, из {1}</UIRethemedArchitect_MergedFrom>
+  <UIRethemedArchitect_GroupTip>Одна из ваших групп: показывает всё из входящих в неё категорий. Щёлкните ещё раз, чтобы свернуть.</UIRethemedArchitect_GroupTip>
+  <UIRethemedArchitect_Favourites>Избранное</UIRethemedArchitect_Favourites>
+  <UIRethemedArchitect_FavouritesTip>Всё, что вы отметили звёздочкой, из всех категорий. Отметьте карточку через ПКМ или в её подробностях.</UIRethemedArchitect_FavouritesTip>
+
+  <UIRethemedArchitect_Count>Элементов: {0}</UIRethemedArchitect_Count>
+  <UIRethemedArchitect_Results>Результаты поиска</UIRethemedArchitect_Results>
+  <UIRethemedArchitect_ResultsIn>Результаты поиска в категории «{0}»</UIRethemedArchitect_ResultsIn>
+  <UIRethemedArchitect_NoneFound>Ничего не найдено.</UIRethemedArchitect_NoneFound>
+  <UIRethemedArchitect_NoFavourites>Избранного пока нет. Щёлкните ПКМ по карточке, чтобы отметить её звёздочкой.</UIRethemedArchitect_NoFavourites>
+  <UIRethemedArchitect_NothingOpen>Выберите категорию слева.</UIRethemedArchitect_NothingOpen>
+  <UIRethemedArchitect_Favourite>Добавить в избранное</UIRethemedArchitect_Favourite>
+  <UIRethemedArchitect_Unfavourite>Убрать из избранного</UIRethemedArchitect_Unfavourite>
+  <UIRethemedArchitect_FavouriteTip>Избранное собирается вверху списка категорий из всех категорий.</UIRethemedArchitect_FavouriteTip>
+  <UIRethemedArchitect_InfoCard>Информационная карточка</UIRethemedArchitect_InfoCard>
+  <UIRethemedArchitect_InfoCardTip>Открывает полную информационную карточку со всеми характеристиками.</UIRethemedArchitect_InfoCardTip>
+  <UIRethemedArchitect_Unhide>Показать снова</UIRethemedArchitect_Unhide>
+  <UIRethemedArchitect_HiddenItems>Скрытые элементы</UIRethemedArchitect_HiddenItems>
+  <UIRethemedArchitect_HiddenTip>Скрыто: {0}. Щёлкните, чтобы показать их блёкло, — тогда можно щёлкнуть ПКМ по любому, чтобы вернуть его.</UIRethemedArchitect_HiddenTip>
+  <UIRethemedArchitect_HiddenShowingTip>Скрыто: {0}, показаны блёкло. Щёлкните ПКМ по любому, чтобы вернуть его, или здесь, чтобы снова скрыть все.</UIRethemedArchitect_HiddenShowingTip>
+  <UIRethemedArchitect_NoHiddenTip>Ничего не скрыто. Щёлкните ПКМ по карточке и выберите «Скрыть», чтобы убрать её из всех категорий, поиска и избранного.</UIRethemedArchitect_NoHiddenTip>
+  <UIRethemedArchitect_HiddenCardTip>Скрыто. Щёлкните ПКМ, чтобы показать снова.</UIRethemedArchitect_HiddenCardTip>
+  <UIRethemedArchitect_AllHidden>Здесь всё скрыто ({0}). Нажмите на глаз в заголовке, чтобы увидеть.</UIRethemedArchitect_AllHidden>
+
+  <UIRethemedArchitect_Details>Подробности</UIRethemedArchitect_Details>
+  <UIRethemedArchitect_DetailsHint>Наведите на карточку, чтобы увидеть подробности.</UIRethemedArchitect_DetailsHint>
+  <UIRethemedArchitect_Cost>Стоимость</UIRethemedArchitect_Cost>
+  <UIRethemedArchitect_CostTip>Нужно: {0} {1}; в запасах колонии: {2}.</UIRethemedArchitect_CostTip>
+  <UIRethemedArchitect_CostUncountedTip>Нужно: {0} {1}.</UIRethemedArchitect_CostUncountedTip>
+  <UIRethemedArchitect_Short>Не хватает</UIRethemedArchitect_Short>
+  <UIRethemedArchitect_ShortOther>Не хватает: попробуйте другой</UIRethemedArchitect_ShortOther>
+  <UIRethemedArchitect_StockNone>Ни в одном материале не хватает запасов для постройки.</UIRethemedArchitect_StockNone>
+  <UIRethemedArchitect_StockOther>Для выбранного варианта запасов не хватает, но хватает в другом материале или виде.</UIRethemedArchitect_StockOther>
+  <UIRethemedArchitect_Building>Постройка</UIRethemedArchitect_Building>
+  <UIRethemedArchitect_Needs>Требования</UIRethemedArchitect_Needs>
+  <UIRethemedArchitect_AllMet>Всё выполнено</UIRethemedArchitect_AllMet>
+  <UIRethemedArchitect_Missing>Не хватает</UIRethemedArchitect_Missing>
+  <UIRethemedArchitect_Use>Использование</UIRethemedArchitect_Use>
+  <UIRethemedArchitect_PowerUse>Потребление энергии</UIRethemedArchitect_PowerUse>
+  <UIRethemedArchitect_PowerUseTip>Сколько энергии потребляет из своей сети во время работы.</UIRethemedArchitect_PowerUseTip>
+  <UIRethemedArchitect_PowerOutput>Выработка энергии</UIRethemedArchitect_PowerOutput>
+  <UIRethemedArchitect_PowerOutputTip>Сколько энергии максимально добавляет в свою сеть.</UIRethemedArchitect_PowerOutputTip>
+  <UIRethemedArchitect_Researched>Исследовано</UIRethemedArchitect_Researched>
+  <UIRethemedArchitect_NotResearched>Не исследовано</UIRethemedArchitect_NotResearched>
+  <UIRethemedArchitect_OpenResearchTip>Щёлкните, чтобы открыть во вкладке «Технологии».</UIRethemedArchitect_OpenResearchTip>
+  <UIRethemedArchitect_SkillTip>Для постройки нужно: {1} {0}. Ваш лучший — {3}, уровень {2}.</UIRethemedArchitect_SkillTip>
+  <UIRethemedArchitect_SkillNoneTip>Для постройки нужно: {1} {0}, и ни у кого в колонии нет этого навыка.</UIRethemedArchitect_SkillNoneTip>
+  <UIRethemedArchitect_Chip_Disabled>Недоступно</UIRethemedArchitect_Chip_Disabled>
+  <UIRethemedArchitect_Chip_Material>Материал</UIRethemedArchitect_Chip_Material>
+  <UIRethemedArchitect_Chip_MaterialTip>Строится из материала «{0}», если при щелчке не выбрать другой.</UIRethemedArchitect_Chip_MaterialTip>
+  <UIRethemedArchitect_Chip_HotKeyTip>Нажмите {0}, пока это показано, чтобы выбрать.</UIRethemedArchitect_Chip_HotKeyTip>
+
+  <UIRethemedArchitect_RotateLeft>Повернуть влево</UIRethemedArchitect_RotateLeft>
+  <UIRethemedArchitect_RotateRight>Повернуть вправо</UIRethemedArchitect_RotateRight>
+  <UIRethemedArchitect_Facing>Направление</UIRethemedArchitect_Facing>
+  <UIRethemedArchitect_FacingTip>Куда будет обращено при размещении. Поворачивайте кнопками, их клавишами или щелчком средней кнопки мыши.</UIRethemedArchitect_FacingTip>
+  <UIRethemedArchitect_DrawStyle>Стиль рисования</UIRethemedArchitect_DrawStyle>
+  <UIRethemedArchitect_StyleListTip>Форма, которую вы растягиваете на карте. Щёлкните для полного списка.</UIRethemedArchitect_StyleListTip>
+  <UIRethemedArchitect_PreviousStyle>Предыдущий стиль</UIRethemedArchitect_PreviousStyle>
+  <UIRethemedArchitect_NextStyle>Следующий стиль</UIRethemedArchitect_NextStyle>
+
+  <UIRethemedArchitect_MaterialFor>Построить «{0}» из...</UIRethemedArchitect_MaterialFor>
+  <UIRethemedArchitect_Material>Материал</UIRethemedArchitect_Material>
+  <UIRethemedArchitect_MaterialOrderTip>Щёлкните для собственного порядка меню.</UIRethemedArchitect_MaterialOrderTip>
+  <UIRethemedArchitect_StockTip>Сколько нужно каждого материала в сравнении с запасами колонии.</UIRethemedArchitect_StockTip>
+  <UIRethemedArchitect_SortHeadingTip>Щёлкните, чтобы сортировать по этому, ещё раз — в обратном порядке, и ещё раз — в стандартном порядке. Лучшее в каждом столбце — зелёным.</UIRethemedArchitect_SortHeadingTip>
+  <UIRethemedArchitect_PickKind>Выберите: {0}</UIRethemedArchitect_PickKind>
+  <UIRethemedArchitect_Kind>Вид</UIRethemedArchitect_Kind>
+  <UIRethemedArchitect_ChoiceSearchHint>Поиск...</UIRethemedArchitect_ChoiceSearchHint>
+  <UIRethemedArchitect_NoChoices>Ничего не найдено.</UIRethemedArchitect_NoChoices>
+  <UIRethemedArchitect_PickColour>Выберите цвет</UIRethemedArchitect_PickColour>
+  <UIRethemedArchitect_NotEnough>Не хватает запасов: недостаёт {0}.</UIRethemedArchitect_NotEnough>
+
+  <UIRethemedArchitect_ManageAreasTip>Создавайте, переименовывайте, перекрашивайте и удаляйте зоны, которые можно назначать поселенцам.</UIRethemedArchitect_ManageAreasTip>
+  <UIRethemedArchitect_NoAreas>Зон пока нет. Создайте зону кнопкой «Новая зона».</UIRethemedArchitect_NoAreas>
+  <UIRethemedArchitect_NewAreaTip>Добавить пустую зону, готовую к рисованию на карте.</UIRethemedArchitect_NewAreaTip>
+  <UIRethemedArchitect_AreaColour>Сменить цвет</UIRethemedArchitect_AreaColour>
+  <UIRethemedArchitect_AreaColourTip>Выберите цвет, которым отображается эта зона.</UIRethemedArchitect_AreaColourTip>
+  <UIRethemedArchitect_AreaExpandTip>Нарисовать больше этой зоны на карте.</UIRethemedArchitect_AreaExpandTip>
+  <UIRethemedArchitect_AreaShrinkTip>Стереть части этой зоны на карте.</UIRethemedArchitect_AreaShrinkTip>
+  <UIRethemedArchitect_AreaInvertTip>Поменять местами то, что внутри зоны, и то, что вне её, по всей карте.</UIRethemedArchitect_AreaInvertTip>
+  <UIRethemedArchitect_AreaRenameTip>Дать этой зоне новое название.</UIRethemedArchitect_AreaRenameTip>
+  <UIRethemedArchitect_AreaCopyTip>Создать новую зону на тех же клетках.</UIRethemedArchitect_AreaCopyTip>
+  <UIRethemedArchitect_AreaDeleteTip>Удалить эту зону. Поселенцы, ограниченные ею, станут неограниченными.</UIRethemedArchitect_AreaDeleteTip>
+</LanguageData>

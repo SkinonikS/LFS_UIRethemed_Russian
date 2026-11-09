@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedFactions_Hegemony_ManageAgreements.label>управление соглашениями</UIRethemedFactions_Hegemony_ManageAgreements.label>
+  <UIRethemedFactions_Hegemony_ManageAgreements.description>Открыть дипломатию и заключённые соглашения этой фракции.</UIRethemedFactions_Hegemony_ManageAgreements.description>
+  <UIRethemedFactions_Hegemony_ManageAgreements.disabledTip>Нельзя заключать дипломатические соглашения со своей собственной фракцией.</UIRethemedFactions_Hegemony_ManageAgreements.disabledTip>
+  <UIRethemedFactions_Hegemony_Vassalage.label>вассалитет</UIRethemedFactions_Hegemony_Vassalage.label>
+  <UIRethemedFactions_Hegemony_Vassalage.description>Открыть вкладку «Вассалитет» поселения этой фракции, являющегося вашим вассалом.</UIRethemedFactions_Hegemony_Vassalage.description>
+</LanguageData>

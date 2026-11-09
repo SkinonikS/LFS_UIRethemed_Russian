@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Bio_Backstory>Предыстория</UIRethemedInspectorTabs_Bio_Backstory>
+  <UIRethemedInspectorTabs_Bio_Skills>Навыки</UIRethemedInspectorTabs_Bio_Skills>
+  <UIRethemedInspectorTabs_Bio_Age>Возраст</UIRethemedInspectorTabs_Bio_Age>
+  <UIRethemedInspectorTabs_Bio_Guilty>Виновен</UIRethemedInspectorTabs_Bio_Guilty>
+  <UIRethemedInspectorTabs_Bio_Banish>Изгнать</UIRethemedInspectorTabs_Bio_Banish>
+  <UIRethemedInspectorTabs_Bio_RenameDesc>Дать {PAWN_nameDef} новое имя.</UIRethemedInspectorTabs_Bio_RenameDesc>
+  <UIRethemedInspectorTabs_Bio_RenounceDesc>Отказаться от одного из королевских титулов ({PAWN_nameDef}).</UIRethemedInspectorTabs_Bio_RenounceDesc>
+  <UIRethemedInspectorTabs_Bio_ClickToViewGenes>Нажмите, чтобы посмотреть гены</UIRethemedInspectorTabs_Bio_ClickToViewGenes>
+  <UIRethemedInspectorTabs_Bio_Genes>Активные гены</UIRethemedInspectorTabs_Bio_Genes>
+  <UIRethemedInspectorTabs_Bio_AndMore>и ещё {0}</UIRethemedInspectorTabs_Bio_AndMore>
+  <UIRethemedInspectorTabs_Bio_Relations>Отношения</UIRethemedInspectorTabs_Bio_Relations>
+  <UIRethemedInspectorTabs_Bio_Relation>Отношение</UIRethemedInspectorTabs_Bio_Relation>
+  <UIRethemedInspectorTabs_Bio_Memes>Мемы</UIRethemedInspectorTabs_Bio_Memes>
+  <UIRethemedInspectorTabs_Bio_FavoriteColor>Любимый цвет</UIRethemedInspectorTabs_Bio_FavoriteColor>
+  <UIRethemedInspectorTabs_Bio_Quest>Задание</UIRethemedInspectorTabs_Bio_Quest>
+  <UIRethemedInspectorTabs_Bio_Trait>Черта</UIRethemedInspectorTabs_Bio_Trait>
+  <UIRethemedInspectorTabs_Bio_TraitSuppressed>Черта (подавлена)</UIRethemedInspectorTabs_Bio_TraitSuppressed>
+  <UIRethemedInspectorTabs_Bio_TraitFromGene>Черта от гена: {0}</UIRethemedInspectorTabs_Bio_TraitFromGene>
+  <UIRethemedInspectorTabs_Bio_Ability>Способность</UIRethemedInspectorTabs_Bio_Ability>
+  <UIRethemedInspectorTabs_Bio_SkillLevel>Уровень {0}  ·  {1}</UIRethemedInspectorTabs_Bio_SkillLevel>
+  <UIRethemedInspectorTabs_Bio_RowLevel>Уровень {0}</UIRethemedInspectorTabs_Bio_RowLevel>
+  <UIRethemedInspectorTabs_Bio_NextLevel>Уровень {0}  ›  {1}</UIRethemedInspectorTabs_Bio_NextLevel>
+  <UIRethemedInspectorTabs_Bio_MaxLevel>Уровень {0}  ·  макс.</UIRethemedInspectorTabs_Bio_MaxLevel>
+  <UIRethemedInspectorTabs_Bio_NoWork>Не делает: {0}</UIRethemedInspectorTabs_Bio_NoWork>
+</LanguageData>

@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedColonistCard_ModName>UI Rethemed - Карточка поселенца</UIRethemedColonistCard_ModName>
+  <UIRethemedColonistCard_Settings_Parts>Переоформленные части (снимите галочку для стандартных)</UIRethemedColonistCard_Settings_Parts>
+  <UIRethemedColonistCard_Settings_Card>Карточка поселенца</UIRethemedColonistCard_Settings_Card>
+  <UIRethemedColonistCard_Settings_CardTip>Панель осмотра в левом нижнем углу — для поселенцев и всего, что вы выбираете, — в стиле окон вкладок инспектора над ней: имя на тёмном заголовке с зелёными сотами и шестерёнкой настроек; портрет пешки рядом с метками пола, возраста, фракции и текущего занятия; полосы в виде индикаторов с квадратным значком, как во вкладке «Вещи»; остальная информация — списком. Кнопки, полосы и сведения, добавленные другими модами, сохраняются и оформляются вместе с ней.</UIRethemedColonistCard_Settings_CardTip>
+  <UIRethemedColonistCard_Settings_Card_Section>Карточка поселенца</UIRethemedColonistCard_Settings_Card_Section>
+  <UIRethemedColonistCard_Settings_ModPortrait>Портрет из {0}</UIRethemedColonistCard_Settings_ModPortrait>
+  <UIRethemedColonistCard_Settings_ModPortraitTip>Показывать в слоте карточки портрет из {0} вместо игрового и не показывать тот, что {0} рисует рядом с карточкой. Для пешек без такого портрета остаётся игровой.</UIRethemedColonistCard_Settings_ModPortraitTip>
+  <UIRethemedColonistCard_Settings_Glance>Потребности и навыки с первого взгляда</UIRethemedColonistCard_Settings_Glance>
+  <UIRethemedColonistCard_Settings_GlanceTip>Карточка пешки также показывает внизу потребности в виде полос и навыки с уровнями и интересами, как в RimHUD, — не нужно открывать вкладки «Нужды» или «Персона». Пока пешка выбрана, карточка ровно такой высоты, какая нужна её сведениям, потребностям и навыкам, без лишнего места.</UIRethemedColonistCard_Settings_GlanceTip>
+  <UIRethemedColonistCard_Settings_GlanceNeeds>Потребности</UIRethemedColonistCard_Settings_GlanceNeeds>
+  <UIRethemedColonistCard_Settings_GlanceNeedsTip>Показывать потребности пешки. Если потребности выключены, навыки занимают всю ширину.</UIRethemedColonistCard_Settings_GlanceNeedsTip>
+  <UIRethemedColonistCard_Settings_GlanceSkills>Навыки</UIRethemedColonistCard_Settings_GlanceSkills>
+  <UIRethemedColonistCard_Settings_GlanceSkillsTip>Показывать навыки пешки. Если навыки выключены, потребности занимают всю ширину.</UIRethemedColonistCard_Settings_GlanceSkillsTip>
+  <UIRethemedColonistCard_Glance_Level>Уровень</UIRethemedColonistCard_Glance_Level>
+  <UIRethemedColonistCard_Glance_OpenNeeds>Нажмите, чтобы открыть вкладку «Нужды».</UIRethemedColonistCard_Glance_OpenNeeds>
+  <UIRethemedColonistCard_Glance_OpenBio>Нажмите, чтобы открыть вкладку «Персона».</UIRethemedColonistCard_Glance_OpenBio>
+  <UIRethemedColonistCard_OpenHealth>Нажмите, чтобы открыть вкладку «Здоровье».</UIRethemedColonistCard_OpenHealth>
+  <UIRethemedColonistCard_OpenSchedule>Нажмите, чтобы открыть «Режим дня».</UIRethemedColonistCard_OpenSchedule>
+  <UIRethemedColonistCard_OpenAreas>Нажмите, чтобы выбрать зону, в которой может находиться пешка.</UIRethemedColonistCard_OpenAreas>
+  <UIRethemedColonistCard_OpenFaction>Нажмите, чтобы посмотреть эту фракцию.</UIRethemedColonistCard_OpenFaction>
+  <UIRethemedColonistCard_OpenGenes>Нажмите, чтобы открыть вкладку «Гены».</UIRethemedColonistCard_OpenGenes>
+  <UIRethemedColonistCard_Status_Title>Эффекты состояния</UIRethemedColonistCard_Status_Title>
+  <UIRethemedColonistCard_Status_None>Нет эффектов</UIRethemedColonistCard_Status_None>
+  <UIRethemedColonistCard_Status_NoneTip>Сейчас на {0} ничего не действует. Горение, оглушение, психические состояния, вдохновения и другие эффекты показываются здесь своими цветами.</UIRethemedColonistCard_Status_NoneTip>
+  <UIRethemedColonistCard_AreaMenu>Разрешённая зона: {0}</UIRethemedColonistCard_AreaMenu>
+  <UIRethemedColonistCard_SelectKind>Нажмите, чтобы оставить выбранными только этих.</UIRethemedColonistCard_SelectKind>
+  <UIRethemedColonistCard_SelectOne>Нажмите, чтобы выбрать только этого. Shift+клик — снять выбор.</UIRethemedColonistCard_SelectOne>
+  <UIRethemedColonistCard_Settings_TabsAlign>Кнопки вкладок выравниваются от края карточки</UIRethemedColonistCard_Settings_TabsAlign>
+  <UIRethemedColonistCard_Settings_TabsAlignTip>От какого края карточки начинается ряд кнопок вкладок. Свободный от края конец ряда скруглён, пока на нём не окажется окно вкладки.</UIRethemedColonistCard_Settings_TabsAlignTip>
+  <UIRethemedColonistCard_Settings_TabsLeft>Левый край</UIRethemedColonistCard_Settings_TabsLeft>
+  <UIRethemedColonistCard_Settings_TabsRight>Правый край</UIRethemedColonistCard_Settings_TabsRight>
+  <UIRethemedColonistCard_OpenSettings>Настройки</UIRethemedColonistCard_OpenSettings>
+  <UIRethemedColonistCard_Settings_SettingsGear>Шестерёнка настроек в заголовке</UIRethemedColonistCard_Settings_SettingsGear>
+  <UIRethemedColonistCard_Settings_SettingsGearTip>Показывать в конце заголовка карточки шестерёнку, открывающую эти настройки.</UIRethemedColonistCard_Settings_SettingsGearTip>
+  <UIRethemedColonistCard_LookAt>Нажмите, чтобы посмотреть на {0}.</UIRethemedColonistCard_LookAt>
+  <UIRethemedColonistCard_Age_Life>Жизнь</UIRethemedColonistCard_Age_Life>
+  <UIRethemedColonistCard_Age_LifeValue>{0} из {1} лет</UIRethemedColonistCard_Age_LifeValue>
+  <UIRethemedColonistCard_Age_Chronological>Хронологический возраст</UIRethemedColonistCard_Age_Chronological>
+  <UIRethemedColonistCard_Age_NextBirthday>Следующий день рождения</UIRethemedColonistCard_Age_NextBirthday>
+  <UIRethemedColonistCard_Age_In>через {0}</UIRethemedColonistCard_Age_In>
+  <UIRethemedColonistCard_Age_NotAgeing>Не стареет</UIRethemedColonistCard_Age_NotAgeing>
+  <UIRethemedColonistCard_Age_NewCondition>Новое возрастное состояние</UIRethemedColonistCard_Age_NewCondition>
+  <UIRethemedColonistCard_Age_None>Невозможно</UIRethemedColonistCard_Age_None>
+  <UIRethemedColonistCard_Settings_Width>Ширина карточки: {0} ({1} пикс.)</UIRethemedColonistCard_Settings_Width>
+  <UIRethemedColonistCard_Settings_WidthTip>Ширина карточки поселенца — от 70% до 130% обычной. Больше вкладок всё равно расширяют её, а кнопки рядом с карточкой сдвигаются вместе с ней. Если карточка уже ряда вкладок, вкладки сужаются под неё (если только кнопки вкладок не стандартные — тогда карточка не становится уже них).</UIRethemedColonistCard_Settings_WidthTip>
+  <UIRethemedColonistCard_Settings_Height>Высота карточки: {0} ({1} пикс.)</UIRethemedColonistCard_Settings_Height>
+  <UIRethemedColonistCard_Settings_HeightTip>Высота карточки поселенца на карте — от 70% до 130% обычной. Вкладки и их окна над ней двигаются вместе с её верхом. Если карточка ниже обычной, список сведений прокручивается. Карточка пешки с потребностями и навыками имеет высоту по своему содержимому.</UIRethemedColonistCard_Settings_HeightTip>
+  <UIRethemedColonistCard_Settings_Tabs>Кнопки вкладок</UIRethemedColonistCard_Settings_Tabs>
+  <UIRethemedColonistCard_Settings_TabsTip>Ряд кнопок над карточкой, открывающих вкладки «Журнал», «Вещи», «Социум», «Персона» и другие, в виде тёмных вкладок темы с подсвеченной зелёным открытой. Включая вкладки, добавленные другими модами.</UIRethemedColonistCard_Settings_TabsTip>
+  <UIRethemedColonistCard_Settings_Style>Стиль</UIRethemedColonistCard_Settings_Style>
+  <UIRethemedColonistCard_Settings_Animations>Анимации</UIRethemedColonistCard_Settings_Animations>
+  <UIRethemedColonistCard_Settings_AnimationsTip>Соты в заголовке и слот портрета медленно плывут, подсветка вкладок и полос при наведении плавно появляется и исчезает, жизненный показатель в опасности пульсирует, а при выборе нового объекта под заголовком карточки раскрывается линия. Снимите галочку, чтобы всё было неподвижно.</UIRethemedColonistCard_Settings_AnimationsTip>
+</LanguageData>

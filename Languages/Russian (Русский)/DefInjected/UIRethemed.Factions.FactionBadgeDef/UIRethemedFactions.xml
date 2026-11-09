@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedFactions_Hegemony_AtWar.label>в войне</UIRethemedFactions_Hegemony_AtWar.label>
+  <UIRethemedFactions_Hegemony_AtWar.description>По данным Hegemony, эта фракция воюет с вами.</UIRethemedFactions_Hegemony_AtWar.description>
+  <UIRethemedFactions_FactionStability_Fracturing.label>раскалывается</UIRethemedFactions_FactionStability_Fracturing.label>
+  <UIRethemedFactions_FactionStability_Fracturing.description>Стабильность этой фракции рушится: она может распасться.</UIRethemedFactions_FactionStability_Fracturing.description>
+  <UIRethemedFactions_SimpleWarrants_Open.label>открытые ордера</UIRethemedFactions_SimpleWarrants_Open.label>
+  <UIRethemedFactions_SimpleWarrants_Open.description>У этой фракции есть ордера, которые вы можете взять.</UIRethemedFactions_SimpleWarrants_Open.description>
+</LanguageData>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedFactions_Hegemony.label>гегемония</UIRethemedFactions_Hegemony.label>
+  <UIRethemedFactions_Hegemony.rows.0.label>территория</UIRethemedFactions_Hegemony.rows.0.label>
+  <UIRethemedFactions_Hegemony.rows.0.description>Клетки мира, на которые претендует эта фракция, по данным Hegemony.</UIRethemedFactions_Hegemony.rows.0.description>
+  <UIRethemedFactions_Hegemony.rows.0.format>{0} клеток</UIRethemedFactions_Hegemony.rows.0.format>
+  <UIRethemedFactions_Hegemony.rows.1.label>в войне</UIRethemedFactions_Hegemony.rows.1.label>
+  <UIRethemedFactions_Hegemony.rows.1.description>По данным Hegemony, эта фракция воюет с вами.</UIRethemedFactions_Hegemony.rows.1.description>
+  <UIRethemedFactions_Hegemony.rows.1.format>С вами</UIRethemedFactions_Hegemony.rows.1.format>
+  <UIRethemedFactions_Hegemony.rows.2.label>ваши вассалы</UIRethemedFactions_Hegemony.rows.2.label>
+  <UIRethemedFactions_Hegemony.rows.2.description>Её поселения, являющиеся вашими вассалами в Hegemony. Они отмечены в разделе «Поселения», а кнопка «Вассалитет» — в разделе «Действия».</UIRethemedFactions_Hegemony.rows.2.description>
+  <UIRethemedFactions_Hegemony.rows.3.label>ценности</UIRethemedFactions_Hegemony.rows.3.label>
+  <UIRethemedFactions_Hegemony.rows.3.description>Что для неё важно, исходя из черт лидера и мемов, в Hegemony. Эффекты и приоритеты фракции — в «Обзоре» поселения.</UIRethemedFactions_Hegemony.rows.3.description>
+  <UIRethemedFactions_Hegemony.strips.0.label>соглашения</UIRethemedFactions_Hegemony.strips.0.label>
+  <UIRethemedFactions_Hegemony.strips.0.description>Действующие соглашения между этой фракцией и вами.</UIRethemedFactions_Hegemony.strips.0.description>
+  <UIRethemedFactions_Hegemony.strips.0.chips.0.label>перемирие</UIRethemedFactions_Hegemony.strips.0.chips.0.label>
+  <UIRethemedFactions_Hegemony.strips.0.chips.0.description>С вами действует перемирие.</UIRethemedFactions_Hegemony.strips.0.chips.0.description>
+  <UIRethemedFactions_Hegemony.strips.0.chips.1.label>оборонительный пакт</UIRethemedFactions_Hegemony.strips.0.chips.1.label>
+  <UIRethemedFactions_Hegemony.strips.0.chips.1.description>Они придут к вам на защиту, а вы — к ним.</UIRethemedFactions_Hegemony.strips.0.chips.1.description>
+  <UIRethemedFactions_Hegemony.strips.0.chips.2.label>открытые границы</UIRethemedFactions_Hegemony.strips.0.chips.2.label>
+  <UIRethemedFactions_Hegemony.strips.0.chips.2.description>Ваши люди могут пересекать их территорию.</UIRethemedFactions_Hegemony.strips.0.chips.2.description>
+  <UIRethemedFactions_Hegemony.strips.0.chips.3.label>ваши границы открыты</UIRethemedFactions_Hegemony.strips.0.chips.3.label>
+  <UIRethemedFactions_Hegemony.strips.0.chips.3.description>Их люди могут пересекать вашу территорию.</UIRethemedFactions_Hegemony.strips.0.chips.3.description>
+  <UIRethemedFactions_Hegemony.strips.0.chips.4.label>торговое соглашение</UIRethemedFactions_Hegemony.strips.0.chips.4.label>
+  <UIRethemedFactions_Hegemony.strips.0.chips.4.description>С вами действует торговое соглашение.</UIRethemedFactions_Hegemony.strips.0.chips.4.description>
+  <UIRethemedFactions_Hegemony.strips.1.label>воюет с</UIRethemedFactions_Hegemony.strips.1.label>
+  <UIRethemedFactions_Hegemony.strips.1.description>Другие фракции, с которыми она воюет по данным Hegemony.</UIRethemedFactions_Hegemony.strips.1.description>
+  <UIRethemedFactions_Hegemony.strips.1.factionTip>{0} воюет с {1}.</UIRethemedFactions_Hegemony.strips.1.factionTip>
+  <UIRethemedFactions_Hegemony_Power.label>мощь</UIRethemedFactions_Hegemony_Power.label>
+  <UIRethemedFactions_Hegemony_Power.rows.0.label>экономика</UIRethemedFactions_Hegemony_Power.rows.0.label>
+  <UIRethemedFactions_Hegemony_Power.rows.0.description>Учтённое благосостояние, материалы, еда и богатство в пути; для колоний игрока — богатство карты.</UIRethemedFactions_Hegemony_Power.rows.0.description>
+  <UIRethemedFactions_Hegemony_Power.rows.1.label>армия</UIRethemedFactions_Hegemony_Power.rows.1.label>
+  <UIRethemedFactions_Hegemony_Power.rows.1.description>Оценка здоровых войск, активных механоидов, вооружённых рабов, снаряжения и технологий. Это не прогноз победы.</UIRethemedFactions_Hegemony_Power.rows.1.description>
+  <UIRethemedFactions_Hegemony_Power.rows.2.label>поселения</UIRethemedFactions_Hegemony_Power.rows.2.label>
+  <UIRethemedFactions_Hegemony_Power.rows.2.description>Поселения, входящие в учтённые владения этой фракции.</UIRethemedFactions_Hegemony_Power.rows.2.description>
+  <UIRethemedFactions_Hegemony_Power.rows.3.label>население</UIRethemedFactions_Hegemony_Power.rows.3.label>
+  <UIRethemedFactions_Hegemony_Power.rows.3.description>Учтённое население, входящее в оценку мощи этой фракции.</UIRethemedFactions_Hegemony_Power.rows.3.description>
+  <UIRethemedFactions_Hegemony_Power.rows.4.label>технологии</UIRethemedFactions_Hegemony_Power.rows.4.label>
+  <UIRethemedFactions_Hegemony_Power.rows.4.description>Технологии, учтённые в оценке мощи этой фракции.</UIRethemedFactions_Hegemony_Power.rows.4.description>
+  <UIRethemedFactions_FactionStability.label>стабильность</UIRethemedFactions_FactionStability.label>
+  <UIRethemedFactions_FactionStability.rows.0.label>стабильность</UIRethemedFactions_FactionStability.rows.0.label>
+  <UIRethemedFactions_FactionStability.rows.0.description>Насколько прочно держится эта фракция. Убийство, похищение, вербовка или обращение тех, в чьих руках её власть, расшатывает её.</UIRethemedFactions_FactionStability.rows.0.description>
+  <UIRethemedFactions_FactionStability.rows.0.format>{0}, стабильна</UIRethemedFactions_FactionStability.rows.0.format>
+  <UIRethemedFactions_FactionStability.rows.1.label>стабильность</UIRethemedFactions_FactionStability.rows.1.label>
+  <UIRethemedFactions_FactionStability.rows.1.description>Насколько прочно держится эта фракция. Убийство, похищение, вербовка или обращение тех, в чьих руках её власть, расшатывает её.</UIRethemedFactions_FactionStability.rows.1.description>
+  <UIRethemedFactions_FactionStability.rows.1.format>{0}, неспокойно</UIRethemedFactions_FactionStability.rows.1.format>
+  <UIRethemedFactions_FactionStability.rows.2.label>стабильность</UIRethemedFactions_FactionStability.rows.2.label>
+  <UIRethemedFactions_FactionStability.rows.2.description>Насколько прочно держится эта фракция. Убийство, похищение, вербовка или обращение тех, в чьих руках её власть, расшатывает её.</UIRethemedFactions_FactionStability.rows.2.description>
+  <UIRethemedFactions_FactionStability.rows.2.format>{0}, волнения</UIRethemedFactions_FactionStability.rows.2.format>
+  <UIRethemedFactions_FactionStability.rows.3.label>стабильность</UIRethemedFactions_FactionStability.rows.3.label>
+  <UIRethemedFactions_FactionStability.rows.3.description>Насколько прочно держится эта фракция. Убийство, похищение, вербовка или обращение тех, в чьих руках её власть, расшатывает её.</UIRethemedFactions_FactionStability.rows.3.description>
+  <UIRethemedFactions_FactionStability.rows.3.format>{0}, распадается</UIRethemedFactions_FactionStability.rows.3.format>
+  <UIRethemedFactions_FactionStability.rows.4.label>базовый уровень</UIRethemedFactions_FactionStability.rows.4.label>
+  <UIRethemedFactions_FactionStability.rows.4.description>К какому уровню стремится стабильность, если её ничто не расшатывает.</UIRethemedFactions_FactionStability.rows.4.description>
+  <UIRethemedFactions_FactionStability.rows.5.label>отделилась от</UIRethemedFactions_FactionStability.rows.5.label>
+  <UIRethemedFactions_FactionStability.rows.5.description>Фракция, от которой откололась эта.</UIRethemedFactions_FactionStability.rows.5.description>
+  <UIRethemedFactions_IdeologyLeadership.label>государственность</UIRethemedFactions_IdeologyLeadership.label>
+  <UIRethemedFactions_IdeologyLeadership.rows.0.label>пакты</UIRethemedFactions_IdeologyLeadership.rows.0.label>
+  <UIRethemedFactions_IdeologyLeadership.rows.0.description>Действующие пакты с этой фракцией.</UIRethemedFactions_IdeologyLeadership.rows.0.description>
+  <UIRethemedFactions_IdeologyLeadership.rows.1.label>внедрённые агенты</UIRethemedFactions_IdeologyLeadership.rows.1.label>
+  <UIRethemedFactions_IdeologyLeadership.rows.1.description>Ваши агенты, внедрённые в эту фракцию.</UIRethemedFactions_IdeologyLeadership.rows.1.description>
+  <UIRethemedFactions_SimpleLeadership.label>руководство</UIRethemedFactions_SimpleLeadership.label>
+  <UIRethemedFactions_SimpleLeadership.rows.0.label>лидеры баз</UIRethemedFactions_SimpleLeadership.rows.0.label>
+  <UIRethemedFactions_SimpleLeadership.rows.0.description>Те, кто руководит поселениями этой фракции под началом её лидера.</UIRethemedFactions_SimpleLeadership.rows.0.description>
+  <UIRethemedFactions_SimpleWarrants.label>ордера</UIRethemedFactions_SimpleWarrants.label>
+  <UIRethemedFactions_SimpleWarrants.rows.0.label>открытые ордера</UIRethemedFactions_SimpleWarrants.rows.0.label>
+  <UIRethemedFactions_SimpleWarrants.rows.0.description>Выданные этой фракцией ордера, которые вы можете взять.</UIRethemedFactions_SimpleWarrants.rows.0.description>
+  <UIRethemedFactions_SimpleWarrants.rows.1.label>принятые вами</UIRethemedFactions_SimpleWarrants.rows.1.label>
+  <UIRethemedFactions_SimpleWarrants.rows.1.description>Ордера этой фракции, которые вы приняли и ещё не выполнили.</UIRethemedFactions_SimpleWarrants.rows.1.description>
+  <UIRethemedFactions_VFEClassical_Senate.label>сенат</UIRethemedFactions_VFEClassical_Senate.label>
+  <UIRethemedFactions_VFEClassical_Senate.rows.0.label>сенаторы на вашей стороне</UIRethemedFactions_VFEClassical_Senate.rows.0.label>
+  <UIRethemedFactions_VFEClassical_Senate.rows.0.description>Сенаторы этой фракции, благосклонные к вам.</UIRethemedFactions_VFEClassical_Senate.rows.0.description>
+  <UIRethemedFactions_VFEClassical_Senate.rows.1.label>сенаторы</UIRethemedFactions_VFEClassical_Senate.rows.1.label>
+  <UIRethemedFactions_VFEClassical_Senate.rows.1.description>Сколько сенаторов у этой фракции.</UIRethemedFactions_VFEClassical_Senate.rows.1.description>
+  <UIRethemedFactions_VFEClassical_Senate.rows.2.label>сенат</UIRethemedFactions_VFEClassical_Senate.rows.2.label>
+  <UIRethemedFactions_VFEClassical_Senate.rows.2.description>Вы склонили на свою сторону весь сенат.</UIRethemedFactions_VFEClassical_Senate.rows.2.description>
+  <UIRethemedFactions_VFEClassical_Senate.rows.2.format>Единодушно за вас</UIRethemedFactions_VFEClassical_Senate.rows.2.format>
+  <UIRethemedFactions_FactionTerritories.label>территория</UIRethemedFactions_FactionTerritories.label>
+  <UIRethemedFactions_FactionTerritories.rows.0.label>занятые клетки</UIRethemedFactions_FactionTerritories.rows.0.label>
+  <UIRethemedFactions_FactionTerritories.rows.0.description>Клетки мира, на которые претендует эта фракция, по данным Faction Territories и Vassalage. Спорная клетка засчитывается каждой претендующей фракции.</UIRethemedFactions_FactionTerritories.rows.0.description>
+  <UIRethemedFactions_FactionTerritories.rows.0.format>{0} клеток</UIRethemedFactions_FactionTerritories.rows.0.format>
+  <UIRethemedFactions_FactionTerritories.rows.1.label>вассальные аванпосты</UIRethemedFactions_FactionTerritories.rows.1.label>
+  <UIRethemedFactions_FactionTerritories.rows.1.description>Её бывшие поселения, ставшие вашими вассальными аванпостами.</UIRethemedFactions_FactionTerritories.rows.1.description>
+  <UIRethemedFactions_FactionTerritories.rows.2.label>очки вассалитета</UIRethemedFactions_FactionTerritories.rows.2.label>
+  <UIRethemedFactions_FactionTerritories.rows.2.description>Очки, накопленные вашими вассалами из этой фракции.</UIRethemedFactions_FactionTerritories.rows.2.description>
+  <UIRethemedFactions_AirTerritories.label>воздушное пространство</UIRethemedFactions_AirTerritories.label>
+  <UIRethemedFactions_AirTerritories.rows.0.label>разрешение на пролёт</UIRethemedFactions_AirTerritories.rows.0.label>
+  <UIRethemedFactions_AirTerritories.rows.0.description>Вы можете пролетать через воздушное пространство этой фракции.</UIRethemedFactions_AirTerritories.rows.0.description>
+  <UIRethemedFactions_AirTerritories.rows.1.label>осталось пролётов</UIRethemedFactions_AirTerritories.rows.1.label>
+  <UIRethemedFactions_AirTerritories.rows.1.description>Сколько ещё полётов покрывает ваше разрешение.</UIRethemedFactions_AirTerritories.rows.1.description>
+  <UIRethemedFactions_RoadsOfTheRim.label>строительство дорог</UIRethemedFactions_RoadsOfTheRim.label>
+  <UIRethemedFactions_RoadsOfTheRim.rows.0.label>дорожные бригады</UIRethemedFactions_RoadsOfTheRim.rows.0.label>
+  <UIRethemedFactions_RoadsOfTheRim.rows.0.description>Эта фракция помогает строить одну из ваших дорог. Помощь будет стоить репутации, когда работа закончится.</UIRethemedFactions_RoadsOfTheRim.rows.0.description>
+  <UIRethemedFactions_RoadsOfTheRim.rows.0.format>Помогают сейчас</UIRethemedFactions_RoadsOfTheRim.rows.0.format>
+  <UIRethemedFactions_RoadsOfTheRim.rows.1.label>дорожные бригады</UIRethemedFactions_RoadsOfTheRim.rows.1.label>
+  <UIRethemedFactions_RoadsOfTheRim.rows.1.description>Эта фракция недавно помогала с дорогой и какое-то время не сможет снова.</UIRethemedFactions_RoadsOfTheRim.rows.1.description>
+  <UIRethemedFactions_RoadsOfTheRim.rows.1.format>Через {0} дн.</UIRethemedFactions_RoadsOfTheRim.rows.1.format>
+</LanguageData>

@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedMainBar_ModName>UI Rethemed - Главная панель</UIRethemedMainBar_ModName>
+  <UIRethemedMainBar_BarFailed>UI Rethemed - Главная панель: ошибка при отрисовке главной панели, поэтому до перезапуска игры показывается стандартная панель. Ошибка: {0}</UIRethemedMainBar_BarFailed>
+  <UIRethemedMainBar_Settings_MainButtons>Главная панель</UIRethemedMainBar_Settings_MainButtons>
+  <UIRethemedMainBar_Settings_Bar>Панель</UIRethemedMainBar_Settings_Bar>
+  <UIRethemedMainBar_Settings_BarSummary>{0}, {1} пикс.</UIRethemedMainBar_Settings_BarSummary>
+  <UIRethemedMainBar_Settings_Buttons>Кнопки</UIRethemedMainBar_Settings_Buttons>
+  <UIRethemedMainBar_Settings_Readouts>Индикаторы и элементы управления</UIRethemedMainBar_Settings_Readouts>
+  <UIRethemedMainBar_Settings_ReadoutsSummary>Показано: {0}</UIRethemedMainBar_Settings_ReadoutsSummary>
+  <UIRethemedMainBar_Settings_Vanilla>Стандартная</UIRethemedMainBar_Settings_Vanilla>
+  <UIRethemedMainBar_Settings_AtDefault>Уже как было изначально.</UIRethemedMainBar_Settings_AtDefault>
+  <UIRethemedMainBar_Settings_ResetBarHeight>Сбросить размер панели</UIRethemedMainBar_Settings_ResetBarHeight>
+  <UIRethemedMainBar_Settings_ResetBarHeightTip>Возвращает панели обычный размер — {0} пикс.</UIRethemedMainBar_Settings_ResetBarHeightTip>
+  <UIRethemedMainBar_Settings_ResetBarHeightConfirm>Вернуть панели обычный размер — {0} пикс.?</UIRethemedMainBar_Settings_ResetBarHeightConfirm>
+  <UIRethemedMainBar_Settings_ResetOpacity>Сбросить непрозрачность</UIRethemedMainBar_Settings_ResetOpacity>
+  <UIRethemedMainBar_Settings_ResetOpacityTip>Снова делает фон панели сплошным.</UIRethemedMainBar_Settings_ResetOpacityTip>
+  <UIRethemedMainBar_Settings_ResetOpacityConfirm>Снова сделать фон панели сплошным?</UIRethemedMainBar_Settings_ResetOpacityConfirm>
+  <UIRethemedMainBar_Settings_ResetNameLength>Сбросить длину названий</UIRethemedMainBar_Settings_ResetNameLength>
+  <UIRethemedMainBar_Settings_ResetNameLengthTip>Возвращает максимальную длину названий к обычным {0} символам.</UIRethemedMainBar_Settings_ResetNameLengthTip>
+  <UIRethemedMainBar_Settings_ResetNameLengthConfirm>Вернуть максимальную длину названий к обычным {0} символам?</UIRethemedMainBar_Settings_ResetNameLengthConfirm>
+  <UIRethemedMainBar_Settings_ResetPadding>Сбросить отступы</UIRethemedMainBar_Settings_ResetPadding>
+  <UIRethemedMainBar_Settings_ResetPaddingTip>Возвращает отступ вокруг кнопок и индикаторов панели к обычным {0} пикс.</UIRethemedMainBar_Settings_ResetPaddingTip>
+  <UIRethemedMainBar_Settings_ResetPaddingConfirm>Вернуть отступ вокруг кнопок и индикаторов панели к обычным {0} пикс.?</UIRethemedMainBar_Settings_ResetPaddingConfirm>
+  <UIRethemedMainBar_Settings_MainButtonsTip>Ряд главных кнопок внизу экрана в виде квадратных кнопок-значков, прижатых влево, с меню справа; панель можно перенести к любому краю экрана. Включая кнопки, добавленные другими модами.</UIRethemedMainBar_Settings_MainButtonsTip>
+  <UIRethemedMainBar_Settings_BarEdge>Край панели</UIRethemedMainBar_Settings_BarEdge>
+  <UIRethemedMainBar_Settings_BarEdgeTip>Край экрана, вдоль которого идёт панель. Сверху окна вкладок свисают от неё в левом верхнем углу (меню — в правом верхнем), так же как они стоят в нижних углах при панели снизу. Слева или справа это столбец значков с элементами управления и меню внизу, чуть шире, если этого требуют индикаторы: они становятся плитками (температура, значки погоды и сезона, час, FPS), а всё остальное — во всплывающих карточках. Окна вкладок открываются рядом с ней сверху. Всё, что было у этого края (панель поселенцев, ресурсы, оповещения и письма, панель осмотра), отодвигается. Панель осмотра остаётся в левом нижнем углу. Меню проектов открывается у панели, как окна вкладок, с командами рядом и информационным блоком под ним.</UIRethemedMainBar_Settings_BarEdgeTip>
+  <UIRethemedMainBar_BarEdge_Bottom>Снизу</UIRethemedMainBar_BarEdge_Bottom>
+  <UIRethemedMainBar_BarEdge_Top>Сверху</UIRethemedMainBar_BarEdge_Top>
+  <UIRethemedMainBar_BarEdge_Left>Слева</UIRethemedMainBar_BarEdge_Left>
+  <UIRethemedMainBar_BarEdge_Right>Справа</UIRethemedMainBar_BarEdge_Right>
+  <UIRethemedMainBar_Settings_ButtonStyle>Кнопки показывают</UIRethemedMainBar_Settings_ButtonStyle>
+  <UIRethemedMainBar_Settings_ButtonStyleTip>Что показывают кнопки панели: значки в виде квадратов, названия («Проекты», «Работа», ...) или значок с названием рядом. Кнопки с названиями шириной по названию и по-прежнему прижаты влево. Кнопка или группа может показывать что-то своё — это задаётся её кнопкой «Показывает» в раскладке кнопок.</UIRethemedMainBar_Settings_ButtonStyleTip>
+  <UIRethemedMainBar_Settings_ButtonsSummaryOwn>{0}, своих: {1}</UIRethemedMainBar_Settings_ButtonsSummaryOwn>
+  <UIRethemedMainBar_ButtonShows>Показывает</UIRethemedMainBar_ButtonShows>
+  <UIRethemedMainBar_OwnStyle>Показывает: {0}</UIRethemedMainBar_OwnStyle>
+  <UIRethemedMainBar_ButtonShowsTip>Что эта кнопка показывает на панели: значок, название или и то и другое — независимо от настройки панели «Кнопки показывают», так что одни могут быть значками, а другие названиями. Подсвечена, пока у неё свой стиль.</UIRethemedMainBar_ButtonShowsTip>
+  <UIRethemedMainBar_ButtonShowsGroupTip>Что кнопка этой группы показывает на панели: значок, название или и то и другое — независимо от настройки панели «Кнопки показывают». Её кнопки сохраняют свои стили. Подсвечена, пока у неё свой стиль.</UIRethemedMainBar_ButtonShowsGroupTip>
+  <UIRethemedMainBar_ButtonShowsSideBar>Панель слева или справа — всегда столбец значков, поэтому это действует только сверху или снизу.</UIRethemedMainBar_ButtonShowsSideBar>
+  <UIRethemedMainBar_StyleOfBar>Как у панели ({0})</UIRethemedMainBar_StyleOfBar>
+  <UIRethemedMainBar_Layout>Раскладка кнопок</UIRethemedMainBar_Layout>
+  <UIRethemedMainBar_LayoutHint>Перетащите кнопки в нужном порядке на панели, слева направо (сверху вниз на боковой панели). Создайте группу, чтобы собрать несколько кнопок под одной: нажмите её на панели — и они выдвинутся. Нажмите на значок кнопки, чтобы сменить его, и впишите новое название поверх старого, чтобы переименовать. Меню остаётся в конце, а кнопки из модов, добавленных позже, встают на своё обычное место.</UIRethemedMainBar_LayoutHint>
+  <UIRethemedMainBar_NewGroup>Новая группа</UIRethemedMainBar_NewGroup>
+  <UIRethemedMainBar_NewGroupTip>Добавляет на панель кнопку, содержащую другие. Она не открывает своего окна: нажатие выдвигает кнопки внутри неё.</UIRethemedMainBar_NewGroupTip>
+  <UIRethemedMainBar_NewGroupName>Новая группа</UIRethemedMainBar_NewGroupName>
+  <UIRethemedMainBar_GroupName>Группа</UIRethemedMainBar_GroupName>
+  <UIRethemedMainBar_GroupEmpty>Пусто, поэтому группы нет на панели: перетащите сюда кнопки или используйте их кнопку с папкой.</UIRethemedMainBar_GroupEmpty>
+  <UIRethemedMainBar_AddSeparator>Добавить разделитель</UIRethemedMainBar_AddSeparator>
+  <UIRethemedMainBar_AddSeparatorTip>Добавляет промежуток с линией в конец списка — перетащите его куда нужно.</UIRethemedMainBar_AddSeparatorTip>
+  <UIRethemedMainBar_Separator>Разделитель</UIRethemedMainBar_Separator>
+  <UIRethemedMainBar_RemoveSeparator>Убрать этот разделитель</UIRethemedMainBar_RemoveSeparator>
+  <UIRethemedMainBar_ResetLayout>Сбросить раскладку</UIRethemedMainBar_ResetLayout>
+  <UIRethemedMainBar_ResetLayoutTip>Вернуть игровой порядок: без групп и разделителей, ничего не скрыто, все названия и значки обычные, без цветов.</UIRethemedMainBar_ResetLayoutTip>
+  <UIRethemedMainBar_ResetLayoutConfirm>Вернуть панели игровой порядок? Это удалит ваши группы и разделители, покажет всё скрытое и сбросит ваши названия, значки и цвета.</UIRethemedMainBar_ResetLayoutConfirm>
+  <UIRethemedMainBar_Drag>Переместить</UIRethemedMainBar_Drag>
+  <UIRethemedMainBar_DragTip>Перетащите, чтобы переместить. Бросьте кнопку на группу, чтобы поместить её в группу.</UIRethemedMainBar_DragTip>
+  <UIRethemedMainBar_ChangeIcon>Сменить значок</UIRethemedMainBar_ChangeIcon>
+  <UIRethemedMainBar_ChangeIconTip>Выбрать для этого другой значок.</UIRethemedMainBar_ChangeIconTip>
+  <UIRethemedMainBar_DeleteGroup>Удалить группу</UIRethemedMainBar_DeleteGroup>
+  <UIRethemedMainBar_DeleteGroupTip>Удаляет группу. Кнопки из неё остаются на её месте в списке.</UIRethemedMainBar_DeleteGroupTip>
+  <UIRethemedMainBar_DeleteGroupConfirm>Удалить группу «{0}»? Её кнопки останутся на её месте в списке, но название, значок и цвет группы будут потеряны.</UIRethemedMainBar_DeleteGroupConfirm>
+  <UIRethemedMainBar_Colour>Цвет</UIRethemedMainBar_Colour>
+  <UIRethemedMainBar_ColourTip>Выберите цвет этой кнопки на панели. Пока её вкладка открыта, кнопка подсвечена этим цветом, а её соты — более светлым оттенком вместо зелёного цвета темы; когда закрыта — обведена им бледным контуром.</UIRethemedMainBar_ColourTip>
+  <UIRethemedMainBar_ColourGroupTip>Выберите цвет кнопки этой группы на панели. Пока её кнопки выдвинуты или открыта одна из их вкладок, она подсвечена этим цветом, а её соты — более светлым оттенком вместо зелёного цвета темы; когда закрыта — обведена им бледным контуром. Её кнопки сохраняют свои цвета.</UIRethemedMainBar_ColourGroupTip>
+  <UIRethemedMainBar_PickButtonColour>Цвет для: {0}</UIRethemedMainBar_PickButtonColour>
+  <UIRethemedMainBar_ColourWheel>Цветовой круг</UIRethemedMainBar_ColourWheel>
+  <UIRethemedMainBar_ColourWheelTip>Нажмите или тяните: по кругу — оттенок, к краю — насыщенность.</UIRethemedMainBar_ColourWheelTip>
+  <UIRethemedMainBar_ColourBrightness>Яркость</UIRethemedMainBar_ColourBrightness>
+  <UIRethemedMainBar_ColourBrightnessTip>Нажмите или тяните: левее — темнее, правее — ярче.</UIRethemedMainBar_ColourBrightnessTip>
+  <UIRethemedMainBar_ColourPreview>Открыто на панели</UIRethemedMainBar_ColourPreview>
+  <UIRethemedMainBar_ColourHex>HEX-код</UIRethemedMainBar_ColourHex>
+  <UIRethemedMainBar_ColourHexTip>Цвет в виде шести шестнадцатеричных цифр, например 2C7AAC. Введите или вставьте код, чтобы применить его.</UIRethemedMainBar_ColourHexTip>
+  <UIRethemedMainBar_NoColour>Без цвета</UIRethemedMainBar_NoColour>
+  <UIRethemedMainBar_NoColourTip>Убирает цвет, и кнопка подсвечивается зелёным цветом темы, как остальные.</UIRethemedMainBar_NoColourTip>
+  <UIRethemedMainBar_ColourCancelTip>Возвращает цвет, который был при открытии.</UIRethemedMainBar_ColourCancelTip>
+  <UIRethemedMainBar_Show>Показать</UIRethemedMainBar_Show>
+  <UIRethemedMainBar_Hide>Скрыть</UIRethemedMainBar_Hide>
+  <UIRethemedMainBar_HideTip>Показывает или скрывает эту кнопку на панели. Её горячая клавиша работает и в скрытом виде.</UIRethemedMainBar_HideTip>
+  <UIRethemedMainBar_HideGroupTip>Показывает или скрывает эту группу и её кнопки на панели. Их горячие клавиши работают и в скрытом виде.</UIRethemedMainBar_HideGroupTip>
+  <UIRethemedMainBar_MoveToGroup>Поместить в группу</UIRethemedMainBar_MoveToGroup>
+  <UIRethemedMainBar_MoveToGroupTip>Помещает эту кнопку в группу или убирает из группы.</UIRethemedMainBar_MoveToGroupTip>
+  <UIRethemedMainBar_MoveUp>Выше</UIRethemedMainBar_MoveUp>
+  <UIRethemedMainBar_MoveUpTip>Перемещает на одну позицию вверх. Ctrl+щелчок — в начало списка.</UIRethemedMainBar_MoveUpTip>
+  <UIRethemedMainBar_MoveDown>Ниже</UIRethemedMainBar_MoveDown>
+  <UIRethemedMainBar_MoveDownTip>Перемещает на одну позицию вниз. Ctrl+щелчок — в конец списка.</UIRethemedMainBar_MoveDownTip>
+  <UIRethemedMainBar_Rename>Название</UIRethemedMainBar_Rename>
+  <UIRethemedMainBar_RenameTip>Название на панели и во всплывающей карточке. Оставьте пустым для обычного названия — «{0}». До {1} символов; панель показывает первые {2} (задаётся параметром «Самое длинное название»).</UIRethemedMainBar_RenameTip>
+  <UIRethemedMainBar_NoGroup>Без группы (в начале списка)</UIRethemedMainBar_NoGroup>
+  <UIRethemedMainBar_IntoNewGroup>Новая группа...</UIRethemedMainBar_IntoNewGroup>
+  <UIRethemedMainBar_PickIcon>Значок для: {0}</UIRethemedMainBar_PickIcon>
+  <UIRethemedMainBar_IconSearchHint>Поиск значков</UIRethemedMainBar_IconSearchHint>
+  <UIRethemedMainBar_NoIcons>Подходящих значков нет</UIRethemedMainBar_NoIcons>
+  <UIRethemedMainBar_UseDefault>По умолчанию</UIRethemedMainBar_UseDefault>
+  <UIRethemedMainBar_UseDefaultTip>Вернуть обычный значок.</UIRethemedMainBar_UseDefaultTip>
+  <UIRethemedMainBar_EditButton_GameIcons>RimWorld</UIRethemedMainBar_EditButton_GameIcons>
+  <UIRethemedMainBar_EditButton_ModIcons>Другие моды</UIRethemedMainBar_EditButton_ModIcons>
+  <UIRethemedMainBar_EditButton_PhosphorIcons>Phosphor Icons</UIRethemedMainBar_EditButton_PhosphorIcons>
+  <UIRethemedMainBar_Settings_NameLength>Самое длинное название: {0} симв.</UIRethemedMainBar_Settings_NameLength>
+  <UIRethemedMainBar_Settings_NameLengthTip>Максимум символов названия кнопки, показываемых на панели. Более длинные названия обрезаются с «...», чтобы панель оставалась компактной; наведите на кнопку, чтобы увидеть название целиком.</UIRethemedMainBar_Settings_NameLengthTip>
+  <UIRethemedMainBar_Settings_BarHeight>Размер панели: {0} пикс.</UIRethemedMainBar_Settings_BarHeight>
+  <UIRethemedMainBar_Settings_BarHeightTip>Высота панели (каждого её ряда, если кнопки переносятся) или ширина при расположении слева или справа, при масштабе интерфейса 100%. Кнопки, индикаторы и их значки увеличиваются и уменьшаются вместе с ней, а всё, что находится рядом с панелью, сдвигается соответственно.</UIRethemedMainBar_Settings_BarHeightTip>
+  <UIRethemedMainBar_Settings_ButtonPadding>Отступ кнопок: {0} пикс.</UIRethemedMainBar_Settings_ButtonPadding>
+  <UIRethemedMainBar_Settings_ButtonPaddingOff>Отступ кнопок: выкл.</UIRethemedMainBar_Settings_ButtonPaddingOff>
+  <UIRethemedMainBar_Settings_ButtonPaddingTip>Промежуток вокруг кнопок и индикаторов панели при масштабе интерфейса 100%. Уберите его полностью, чтобы кнопки заполняли высоту панели и стояли вплотную.</UIRethemedMainBar_Settings_ButtonPaddingTip>
+  <UIRethemedMainBar_Settings_RoundedButtons>Скруглённые углы</UIRethemedMainBar_Settings_RoundedButtons>
+  <UIRethemedMainBar_Settings_RoundedButtonsTip>Скруглять углы кнопок и индикаторов панели. Снимите галочку для прямых углов.</UIRethemedMainBar_Settings_RoundedButtonsTip>
+  <UIRethemedMainBar_Settings_FillBar>Заполнять панель</UIRethemedMainBar_Settings_FillBar>
+  <UIRethemedMainBar_Settings_FillBarTip>Расширять кнопки так, чтобы каждый их ряд доходил до индикаторов на другом конце панели. Сначала растут самые узкие, чтобы кнопки вышли как можно ровнее, и ни одна не становится уже.</UIRethemedMainBar_Settings_FillBarTip>
+  <UIRethemedMainBar_Settings_BarBackground>Фон панели</UIRethemedMainBar_Settings_BarBackground>
+  <UIRethemedMainBar_Settings_BarBackgroundTip>Полоса, рисуемая под кнопками и индикаторами. Снимите галочку, чтобы оставить только кнопки и индикаторы поверх карты.</UIRethemedMainBar_Settings_BarBackgroundTip>
+  <UIRethemedMainBar_Settings_BarOpacity>Непрозрачность панели: {0}</UIRethemedMainBar_Settings_BarOpacity>
+  <UIRethemedMainBar_Settings_BarOpacityTip>Насколько сплошной фон панели. Кнопки и индикаторы на нём остаются непрозрачными.</UIRethemedMainBar_Settings_BarOpacityTip>
+  <UIRethemedMainBar_ButtonStyle_Icons>Значки</UIRethemedMainBar_ButtonStyle_Icons>
+  <UIRethemedMainBar_ButtonStyle_Names>Названия</UIRethemedMainBar_ButtonStyle_Names>
+  <UIRethemedMainBar_ButtonStyle_IconsAndNames>Значки и названия</UIRethemedMainBar_ButtonStyle_IconsAndNames>
+  <UIRethemedMainBar_Settings_ControlsInBar>Время и настройки игры на панели</UIRethemedMainBar_Settings_ControlsInBar>
+  <UIRethemedMainBar_Settings_ControlsInBarTip>Переносит элементы управления из правого нижнего угла на панель: дата, погода и температура — в виде индикаторов, а кнопки открывают рядом с панелью скорости времени и переключатели слоёв. Горячие клавиши работают как обычно. Снимите галочку, чтобы оставить стандартные элементы в углу.</UIRethemedMainBar_Settings_ControlsInBarTip>
+  <UIRethemedMainBar_Settings_ControlsWrapFirst>Сначала переносить элементы управления</UIRethemedMainBar_Settings_ControlsWrapFirst>
+  <UIRethemedMainBar_Settings_ControlsWrapFirstTip>Когда кнопки, индикаторы и элементы управления не помещаются в один ряд, первыми вниз уходят индикаторы и элементы управления: кнопки остаются в первом ряду, ближайшие к меню элементы заполняют остаток ряда, а остальные уходят в конец второго ряда (в следующий столбец боковой панели). Кнопки переносятся только после них, когда первый ряд уже не вмещает их все. Меню остаётся в конце первого ряда. Снимите галочку, чтобы все элементы управления оставались в первом ряду, а переносились кнопки.</UIRethemedMainBar_Settings_ControlsWrapFirstTip>
+  <UIRethemedMainBar_Settings_PerformanceTip>Индикатор на панели: кадров и игровых тиков в секунду; наведите, чтобы сравнить тики с целевыми для текущей скорости.</UIRethemedMainBar_Settings_PerformanceTip>
+  <UIRethemedMainBar_Settings_ItemModeTip>Где показывается «{0}». «Нет» — не показывается (горячие клавиши работают), «Стандарт» — как в игре, в углу над панелью, «В теме» — на панели.</UIRethemedMainBar_Settings_ItemModeTip>
+  <UIRethemedMainBar_Settings_ItemModeNoVanillaTip>Где показывается «{0}»: на панели или нигде. В игре нет собственного индикатора для этого.</UIRethemedMainBar_Settings_ItemModeNoVanillaTip>
+  <UIRethemedMainBar_Settings_LearningHelperTip>Снимите галочку, чтобы выключить его, и он больше не будет показываться в правом верхнем углу. Это собственная настройка игры — та же галочка, что и в «Настройках».</UIRethemedMainBar_Settings_LearningHelperTip>
+  <UIRethemedMainBar_Settings_ClockTip>Наличие часов — это собственная настройка часов игры, поэтому их выключение здесь выключает и её.</UIRethemedMainBar_Settings_ClockTip>
+  <UIRethemedMainBar_ItemMode_None>Нет</UIRethemedMainBar_ItemMode_None>
+  <UIRethemedMainBar_ItemMode_Vanilla>Стандарт</UIRethemedMainBar_ItemMode_Vanilla>
+  <UIRethemedMainBar_ItemMode_Themed>В теме</UIRethemedMainBar_ItemMode_Themed>
+  <UIRethemedMainBar_Settings_DateFormat>Формат даты</UIRethemedMainBar_Settings_DateFormat>
+  <UIRethemedMainBar_Settings_DateFormatTip>Как индикатор даты пишет день, квадрум и год: словами, как в игре, или числами в нужном порядке, квадрум — номером (от 1 до 4, от Мартомая до Декавраля). Части, отключённые в «Дата показывает», не выводятся.</UIRethemedMainBar_Settings_DateFormatTip>
+  <UIRethemedMainBar_DateFormat_Words>5 Мартомая, 5502</UIRethemedMainBar_DateFormat_Words>
+  <UIRethemedMainBar_DateFormat_YearQuadrumDay>ГГГГ-КК-ДД</UIRethemedMainBar_DateFormat_YearQuadrumDay>
+  <UIRethemedMainBar_DateFormat_DayQuadrumYear>ДД-КК-ГГГГ</UIRethemedMainBar_DateFormat_DayQuadrumYear>
+  <UIRethemedMainBar_DateFormat_QuadrumDayYear>КК-ДД-ГГГГ</UIRethemedMainBar_DateFormat_QuadrumDayYear>
+  <UIRethemedMainBar_DateFormat_YearDayQuadrum>ГГГГ-ДД-КК</UIRethemedMainBar_DateFormat_YearDayQuadrum>
+  <UIRethemedMainBar_DateFormat_DayYearQuadrum>ДД-ГГГГ-КК</UIRethemedMainBar_DateFormat_DayYearQuadrum>
+  <UIRethemedMainBar_DateFormat_QuadrumYearDay>КК-ГГГГ-ДД</UIRethemedMainBar_DateFormat_QuadrumYearDay>
+  <UIRethemedMainBar_BarItem_Performance>FPS и TPS</UIRethemedMainBar_BarItem_Performance>
+  <UIRethemedMainBar_BarItem_Date>Дата</UIRethemedMainBar_BarItem_Date>
+  <UIRethemedMainBar_BarItem_Temperature>Температура и погода</UIRethemedMainBar_BarItem_Temperature>
+  <UIRethemedMainBar_BarItem_Wind>Ветер</UIRethemedMainBar_BarItem_Wind>
+  <UIRethemedMainBar_BarItem_Clock>Часы</UIRethemedMainBar_BarItem_Clock>
+  <UIRethemedMainBar_BarItem_Speed>Скорость времени</UIRethemedMainBar_BarItem_Speed>
+  <UIRethemedMainBar_BarItem_PlaySettings>Настройки игры</UIRethemedMainBar_BarItem_PlaySettings>
+  <UIRethemedMainBar_Settings_InstantReadouts>Мгновенные индикаторы</UIRethemedMainBar_Settings_InstantReadouts>
+  <UIRethemedMainBar_Settings_InstantReadoutsTip>Пересчитывает индикаторы каждый кадр, как в игре, поэтому температура сразу следует за курсором из комнаты в комнату, даже на паузе. Сильнее нагружает. Пока включено, заменяет параметр «Обновление индикаторов».</UIRethemedMainBar_Settings_InstantReadoutsTip>
+  <UIRethemedMainBar_Settings_ReadoutRefresh>Обновление индикаторов</UIRethemedMainBar_Settings_ReadoutRefresh>
+  <UIRethemedMainBar_Settings_ReadoutRefreshTip>Как часто пересчитываются индикаторы температуры, погоды и даты, в игровом времени. Реже — меньше нагрузка; они всё равно обновляются сразу при смене карты, открытии мира или смене погоды. Часы идут по реальным минутам, а индикатор FPS и TPS — по своему полусекундному счёту.</UIRethemedMainBar_Settings_ReadoutRefreshTip>
+  <UIRethemedMainBar_ReadoutRefresh_Live>Каждый тик</UIRethemedMainBar_ReadoutRefresh_Live>
+  <UIRethemedMainBar_ReadoutRefresh_QuarterHour>Каждые 15 игровых минут</UIRethemedMainBar_ReadoutRefresh_QuarterHour>
+  <UIRethemedMainBar_ReadoutRefresh_HalfHour>Каждые 30 игровых минут</UIRethemedMainBar_ReadoutRefresh_HalfHour>
+  <UIRethemedMainBar_ReadoutRefresh_Hour>Каждый игровой час</UIRethemedMainBar_ReadoutRefresh_Hour>
+  <UIRethemedMainBar_Settings_ReadoutColours>Цветные индикаторы</UIRethemedMainBar_Settings_ReadoutColours>
+  <UIRethemedMainBar_Settings_ReadoutColoursTip>Окрашивает индикаторы как их всплывающие карточки: температуру — от синего до красного в зависимости от того, насколько холодно или жарко для года этой карты, сезон — его цветом, а FPS и TPS — от зелёного до красного в зависимости от того, насколько игра успевает за своей скоростью. Снимите галочку для обычного текста.</UIRethemedMainBar_Settings_ReadoutColoursTip>
+  <UIRethemedMainBar_Settings_ReadoutIcons>Значки погоды и сезона</UIRethemedMainBar_Settings_ReadoutIcons>
+  <UIRethemedMainBar_Settings_ReadoutIconsTip>Показывает погоду и сезон значками вместо названий: солнце или луна для ясного неба, облака для дождя, снега, грозы и тумана, собственный значок для событий вроде кислотного смога или вулканической зимы, а росток, солнце, лист или снежинка — для весны, лета, осени и зимы (горячий или холодный термометр там, где сезон никогда не меняется). Значок сезона окрашивается в его цвет при включённых «Цветных индикаторах». Наведите на индикатор, чтобы увидеть название. Погода из другого мода без подходящего значка сохраняет название.</UIRethemedMainBar_Settings_ReadoutIconsTip>
+  <UIRethemedMainBar_Settings_DateParts>Дата показывает</UIRethemedMainBar_Settings_DateParts>
+  <UIRethemedMainBar_Settings_DatePartsTip>Какие части даты показывает индикатор: час и сезон в верхней строке, день, квадрум и год — ниже. Снимите ненужные, чтобы сделать его короче; наведите на индикатор, чтобы увидеть дату целиком. Если всё снято, индикатора даты нет.</UIRethemedMainBar_Settings_DatePartsTip>
+  <UIRethemedMainBar_DatePart_Hour>Час</UIRethemedMainBar_DatePart_Hour>
+  <UIRethemedMainBar_DatePart_Season>Сезон</UIRethemedMainBar_DatePart_Season>
+  <UIRethemedMainBar_DatePart_Day>День</UIRethemedMainBar_DatePart_Day>
+  <UIRethemedMainBar_DatePart_Quadrum>Квадрум</UIRethemedMainBar_DatePart_Quadrum>
+  <UIRethemedMainBar_DatePart_Year>Год</UIRethemedMainBar_DatePart_Year>
+  <UIRethemedMainBar_Settings_SettingsGear>Карточка настроек в меню</UIRethemedMainBar_Settings_SettingsGear>
+  <UIRethemedMainBar_Settings_SettingsGearTip>Добавляет под ссылками меню карточку с шестерёнкой, открывающую эти настройки.</UIRethemedMainBar_Settings_SettingsGearTip>
+  <UIRethemedMainBar_Settings_Style>Стиль</UIRethemedMainBar_Settings_Style>
+  <UIRethemedMainBar_Settings_Animations>Анимации</UIRethemedMainBar_Settings_Animations>
+  <UIRethemedMainBar_Settings_AnimationsTip>Открытая вкладка, текущая скорость и включённые переключатели показывают медленно плывущий узор из шестиугольников. Подсветка при наведении плавно появляется и исчезает, всплывающие карточки проявляются с раскрывающейся под заголовком линией, панели скорости и слоёв выезжают из панели с появляющимися слотами, а кнопка скорости вздрагивает при смене скорости и мягко пульсирует — жёлтым на паузе и зелёным во время игры, тем быстрее, чем выше скорость. Снимите галочку, чтобы всё было неподвижно.</UIRethemedMainBar_Settings_AnimationsTip>
+  <UIRethemedMainBar_TimeSpeed>Скорость времени</UIRethemedMainBar_TimeSpeed>
+  <UIRethemedMainBar_TimeSpeedTip>Нажмите, чтобы выбрать скорость; горячие клавиши работают как обычно.</UIRethemedMainBar_TimeSpeedTip>
+  <UIRethemedMainBar_TimeSpeedTipSmartSpeed>Нажмите, чтобы выбрать скорость; горячие клавиши работают как обычно. ПКМ — задать скорость событий Smart Speed.</UIRethemedMainBar_TimeSpeedTipSmartSpeed>
+  <UIRethemedMainBar_Speed_Paused>Пауза</UIRethemedMainBar_Speed_Paused>
+  <UIRethemedMainBar_Speed_Normal>Обычная скорость</UIRethemedMainBar_Speed_Normal>
+  <UIRethemedMainBar_Speed_Fast>Быстро</UIRethemedMainBar_Speed_Fast>
+  <UIRethemedMainBar_Speed_Superfast>Очень быстро</UIRethemedMainBar_Speed_Superfast>
+  <UIRethemedMainBar_Speed_Ultrafast>Сверхбыстро</UIRethemedMainBar_Speed_Ultrafast>
+  <UIRethemedMainBar_MenuLinks>Ссылки</UIRethemedMainBar_MenuLinks>
+  <UIRethemedMainBar_OpenSettings>Настройки панели</UIRethemedMainBar_OpenSettings>
+  <UIRethemedMainBar_OpenSettingsTip>Открывает настройки UI Rethemed - Главная панель: край панели, кнопки, индикаторы и внешний вид.</UIRethemedMainBar_OpenSettingsTip>
+  <UIRethemedMainBar_Date_DaysPassed>Дней с прибытия</UIRethemedMainBar_Date_DaysPassed>
+  <UIRethemedMainBar_Date_Season>Местный сезон</UIRethemedMainBar_Date_Season>
+  <UIRethemedMainBar_Date_Year>Год</UIRethemedMainBar_Date_Year>
+  <UIRethemedMainBar_Date_DayOfYear>День {0} из {1}</UIRethemedMainBar_Date_DayOfYear>
+  <UIRethemedMainBar_Date_DayOfQuadrum>{0} из {1}</UIRethemedMainBar_Date_DayOfQuadrum>
+  <UIRethemedMainBar_Temp_Title>Температура</UIRethemedMainBar_Temp_Title>
+  <UIRethemedMainBar_Temp_Outdoors>Снаружи</UIRethemedMainBar_Temp_Outdoors>
+  <UIRethemedMainBar_Temp_Seasonal>Средняя за сезон</UIRethemedMainBar_Temp_Seasonal>
+  <UIRethemedMainBar_Temp_Steady>Одинаковая круглый год</UIRethemedMainBar_Temp_Steady>
+  <UIRethemedMainBar_Temp_Weather>Погода</UIRethemedMainBar_Temp_Weather>
+  <UIRethemedMainBar_Wind_Title>Ветер</UIRethemedMainBar_Wind_Title>
+  <UIRethemedMainBar_Wind_Note>По всей карте. Значение над панелью — для точки под курсором.</UIRethemedMainBar_Wind_Note>
+  <UIRethemedMainBar_Wind_Tip>{0}, {1} в направлении {2}</UIRethemedMainBar_Wind_Tip>
+  <UIRethemedMainBar_Wind_Speed>{0} м/с</UIRethemedMainBar_Wind_Speed>
+  <UIRethemedMainBar_Wind_Strength>Сила</UIRethemedMainBar_Wind_Strength>
+  <UIRethemedMainBar_Wind_Towards>Дует в направлении</UIRethemedMainBar_Wind_Towards>
+  <UIRethemedMainBar_Wind_Pressure>Атмосферное давление</UIRethemedMainBar_Wind_Pressure>
+  <UIRethemedMainBar_Wind_Hectopascals>{0} гПа</UIRethemedMainBar_Wind_Hectopascals>
+  <UIRethemedMainBar_Wind_Humidity>Влажность</UIRethemedMainBar_Wind_Humidity>
+  <UIRethemedMainBar_Wind_Rain>Дождь</UIRethemedMainBar_Wind_Rain>
+  <UIRethemedMainBar_Wind_Snow>Снег</UIRethemedMainBar_Wind_Snow>
+  <UIRethemedMainBar_Wind_MmPerHour>{0} мм/ч</UIRethemedMainBar_Wind_MmPerHour>
+  <UIRethemedMainBar_Wind_Calm>Штиль</UIRethemedMainBar_Wind_Calm>
+  <UIRethemedMainBar_Wind_Light>Лёгкий ветерок</UIRethemedMainBar_Wind_Light>
+  <UIRethemedMainBar_Wind_Breeze>Бриз</UIRethemedMainBar_Wind_Breeze>
+  <UIRethemedMainBar_Wind_Strong>Сильный ветер</UIRethemedMainBar_Wind_Strong>
+  <UIRethemedMainBar_Wind_Gale>Шторм</UIRethemedMainBar_Wind_Gale>
+  <UIRethemedMainBar_Wind_Storm>Буря</UIRethemedMainBar_Wind_Storm>
+  <UIRethemedMainBar_Wind_Hurricane>Ураган</UIRethemedMainBar_Wind_Hurricane>
+  <UIRethemedMainBar_Perf_Title>Производительность</UIRethemedMainBar_Perf_Title>
+  <UIRethemedMainBar_Perf_Tip>Кадров и игровых тиков в секунду, подсчитано за последние полсекунды.</UIRethemedMainBar_Perf_Tip>
+  <UIRethemedMainBar_Perf_Fps>{0} FPS</UIRethemedMainBar_Perf_Fps>
+  <UIRethemedMainBar_Perf_Tps>{0} TPS</UIRethemedMainBar_Perf_Tps>
+  <UIRethemedMainBar_Perf_FramesPerSecond>Кадров в секунду</UIRethemedMainBar_Perf_FramesPerSecond>
+  <UIRethemedMainBar_Perf_TicksPerSecond>Тиков в секунду</UIRethemedMainBar_Perf_TicksPerSecond>
+  <UIRethemedMainBar_Perf_Target>Цель при этой скорости</UIRethemedMainBar_Perf_Target>
+  <UIRethemedMainBar_Search_Title>Поиск</UIRethemedMainBar_Search_Title>
+  <UIRethemedMainBar_Search_Hint>Поиск по вкладкам и меню панели</UIRethemedMainBar_Search_Hint>
+  <UIRethemedMainBar_Search_Found>Найдено: {0}</UIRethemedMainBar_Search_Found>
+  <UIRethemedMainBar_Search_Favourites>Избранное</UIRethemedMainBar_Search_Favourites>
+  <UIRethemedMainBar_Search_All>Все</UIRethemedMainBar_Search_All>
+  <UIRethemedMainBar_Search_NoMatches>На панели ничего не найдено по запросу «{0}».</UIRethemedMainBar_Search_NoMatches>
+  <UIRethemedMainBar_Search_Hidden>Скрыто</UIRethemedMainBar_Search_Hidden>
+  <UIRethemedMainBar_Search_HiddenTip>Скрыто с панели в раскладке кнопок, поэтому доступно только здесь и по горячей клавише.</UIRethemedMainBar_Search_HiddenTip>
+  <UIRethemedMainBar_Search_Favourite>Добавить в избранное</UIRethemedMainBar_Search_Favourite>
+  <UIRethemedMainBar_Search_Unfavourite>Убрать из избранного</UIRethemedMainBar_Search_Unfavourite>
+  <UIRethemedMainBar_Search_FavouriteTip>Избранное держится вверху этой карточки.</UIRethemedMainBar_Search_FavouriteTip>
+  <UIRethemedMainBar_Search_CantOpen>Сейчас нельзя открыть.</UIRethemedMainBar_Search_CantOpen>
+  <UIRethemedMainBar_Settings_SearchFocus>Сразу вводить текст в поиск</UIRethemedMainBar_Settings_SearchFocus>
+  <UIRethemedMainBar_Settings_SearchFocusTip>Карточка кнопки «Поиск» при открытии перехватывает клавиатуру, так что можно сразу ввести, что ищете, и нажать Enter, чтобы открыть первое совпадение. Пока она открыта, клавиши камеры и горячие клавиши идут в поиск; снимите галочку, чтобы сначала щёлкать по полю поиска.</UIRethemedMainBar_Settings_SearchFocusTip>
+  <UIRethemedMainBar_PlaySettings>Слои и настройки</UIRethemedMainBar_PlaySettings>
+  <UIRethemedMainBar_PlaySettingsTip>Зоны, красота, крыши, плодородие, автоматическая домашняя зона, автоматическое восстановление, поиск по карте и многое другое.</UIRethemedMainBar_PlaySettingsTip>
+</LanguageData>

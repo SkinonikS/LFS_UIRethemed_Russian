@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedMainBar_Search.label>поиск</UIRethemedMainBar_Search.label>
+  <UIRethemedMainBar_Search.description>Поиск по всем вкладкам и меню панели, включая скрытые, и их открытие. Отмечайте звёздочкой самые используемые, чтобы они были вверху.</UIRethemedMainBar_Search.description>
+  <UIRethemedNotifications_Calendar.label>календарь</UIRethemedNotifications_Calendar.label>
+  <UIRethemedNotifications_Calendar.description>Посмотреть, что впереди: дни рождения, ритуалы, а также окончания заданий, событий и прочего.</UIRethemedNotifications_Calendar.description>
+</LanguageData>

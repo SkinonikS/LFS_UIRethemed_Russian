@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedNotifications_ModName>UI Rethemed - Уведомления</UIRethemedNotifications_ModName>
+  <UIRethemedNotifications_Settings_Parts>Оформленные части</UIRethemedNotifications_Settings_Parts>
+  <UIRethemedNotifications_Settings_Letters>Письма</UIRethemedNotifications_Settings_Letters>
+  <UIRethemedNotifications_Settings_LettersTip>Письма сбоку экрана — тёмные карточки одной ширины вместо конвертов, с цветной полосой сверху и узором из шестиугольников, затухающим вправо: красные со знаком «стоп» для набегов и смертей, жёлтые со знаком предупреждения для опасностей и плохих новостей, зелёные с галочкой для хороших новостей и синие с «i» для всего остального. Наведите, чтобы прочитать, щёлкните, чтобы открыть, ПКМ — чтобы закрыть, как и раньше, а средняя кнопка мыши переходит к тому, о чём письмо, не открывая и не закрывая его.</UIRethemedNotifications_Settings_LettersTip>
+  <UIRethemedNotifications_Settings_MiddleClickJump>Средняя кнопка — переход</UIRethemedNotifications_Settings_MiddleClickJump>
+  <UIRethemedNotifications_Settings_MiddleClickJumpTip>Щелчок средней кнопкой по письму переходит к тому, о чём оно, и выделяет это, как его кнопка «Перейти», оставляя письмо в стопке неоткрытым. Снимите галочку, чтобы оставить среднюю кнопку игре или другому моду, который её использует.</UIRethemedNotifications_Settings_MiddleClickJumpTip>
+  <UIRethemedNotifications_Settings_Conditions>Игровые условия</UIRethemedNotifications_Settings_Conditions>
+  <UIRethemedNotifications_Settings_ConditionsTip>Условия рядом с письмами (похолодание, психический гул, любые из модов) — тонкие полупрозрачные строки со значком цвета новости, которая о них объявила, и тонкой линией снизу, показывающей оставшееся время. Наведите для подробностей, щёлкните, чтобы перейти к причине, как и раньше.</UIRethemedNotifications_Settings_ConditionsTip>
+  <UIRethemedNotifications_Settings_Alerts>Оповещения</UIRethemedNotifications_Settings_Alerts>
+  <UIRethemedNotifications_Settings_AlertsTip>Оповещения рядом с письмами («Нужна тёплая одежда», любые из модов) — такие же тонкие строки: красные со знаком «стоп» для критических, жёлтые со знаком предупреждения для важных, синие с «i» для остальных. Наведите, чтобы прочитать, щёлкните, чтобы перейти к проблеме, как и раньше. ПКМ — отложить или скрыть навсегда.</UIRethemedNotifications_Settings_AlertsTip>
+  <UIRethemedNotifications_Settings_Calendar>Вкладка «Календарь»</UIRethemedNotifications_Settings_Calendar>
+  <UIRethemedNotifications_Settings_CalendarTip>Кнопка «Календарь» на нижней панели, показывающая предстоящие события по дням: дни рождения и ритуалы, а также окончания заданий, игровых условий, вдохновений, пребывания торговых кораблей и прочего. Снимите галочку, чтобы убрать кнопку.</UIRethemedNotifications_Settings_CalendarTip>
+  <UIRethemedNotifications_Settings_Style>Стиль</UIRethemedNotifications_Settings_Style>
+  <UIRethemedNotifications_Settings_CalendarWidth>Ширина календаря: {0}</UIRethemedNotifications_Settings_CalendarWidth>
+  <UIRethemedNotifications_Settings_CalendarWidthTip>Ширина вкладки «Календарь», вплоть до ширины экрана. Изначально {0}.</UIRethemedNotifications_Settings_CalendarWidthTip>
+  <UIRethemedNotifications_Settings_CalendarHeight>Высота календаря: {0}</UIRethemedNotifications_Settings_CalendarHeight>
+  <UIRethemedNotifications_Settings_CalendarHeightTip>Высота вкладки «Календарь», вплоть до верха экрана. Изначально {0}.</UIRethemedNotifications_Settings_CalendarHeightTip>
+  <UIRethemedNotifications_Settings_Animations>Анимации</UIRethemedNotifications_Settings_Animations>
+  <UIRethemedNotifications_Settings_AnimationsTip>Узор из шестиугольников на карточках медленно плывёт, а подсветка при наведении плавно появляется и исчезает. Снимите галочку, чтобы всё было неподвижно.</UIRethemedNotifications_Settings_AnimationsTip>
+  <UIRethemedNotifications_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedNotifications_Settings_SettingsGear>
+  <UIRethemedNotifications_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую эти настройки.</UIRethemedNotifications_Settings_SettingsGearTip>
+  <UIRethemedNotifications_OpenSettings>Настройки</UIRethemedNotifications_OpenSettings>
+  <UIRethemedNotifications_Settings_Position>Расположение</UIRethemedNotifications_Settings_Position>
+  <UIRethemedNotifications_Settings_PositionTip>Где на экране находятся игровые условия, письма и оповещения — вместе, как в игре над датой. Сверху и посередине они свисают вниз: сначала условия, затем самое новое письмо, не перекрывая панель поселенцев. Слева внизу они стоят на нижней панели, над панелью осмотра, пока она открыта, а сведения о клетке под курсором поднимаются над ними; выше по левому краю — рядом со списком ресурсов. Часть, возвращённая к стандартному виду, остаётся на стандартном месте.</UIRethemedNotifications_Settings_PositionTip>
+  <UIRethemedNotifications_Position_TopRight>Справа сверху</UIRethemedNotifications_Position_TopRight>
+  <UIRethemedNotifications_Position_MiddleRight>Справа посередине</UIRethemedNotifications_Position_MiddleRight>
+  <UIRethemedNotifications_Position_BottomRight>Справа снизу (стандарт)</UIRethemedNotifications_Position_BottomRight>
+  <UIRethemedNotifications_Position_TopLeft>Слева сверху</UIRethemedNotifications_Position_TopLeft>
+  <UIRethemedNotifications_Position_MiddleLeft>Слева посередине</UIRethemedNotifications_Position_MiddleLeft>
+  <UIRethemedNotifications_Position_BottomLeft>Слева снизу</UIRethemedNotifications_Position_BottomLeft>
+  <UIRethemedNotifications_PartFailed>UI Rethemed - Уведомления: проблема с частью «{0}», до перезапуска игры используется стандартный вид. Проблема: {1}</UIRethemedNotifications_PartFailed>
+  <UIRethemedNotifications_Part_Letters>письма</UIRethemedNotifications_Part_Letters>
+  <UIRethemedNotifications_Part_Conditions>игровые условия</UIRethemedNotifications_Part_Conditions>
+  <UIRethemedNotifications_Part_Alerts>оповещения</UIRethemedNotifications_Part_Alerts>
+  <UIRethemedNotifications_Part_Position>настройка расположения</UIRethemedNotifications_Part_Position>
+  <UIRethemedNotifications_Part_Tips>всплывающие карточки</UIRethemedNotifications_Part_Tips>
+  <UIRethemedNotifications_Part_Calendar>календарь</UIRethemedNotifications_Part_Calendar>
+  <UIRethemedNotifications_Calendar>Календарь</UIRethemedNotifications_Calendar>
+  <UIRethemedNotifications_Calendar_Today>Сегодня</UIRethemedNotifications_Calendar_Today>
+  <UIRethemedNotifications_Calendar_TodayTip>События на сегодня.</UIRethemedNotifications_Calendar_TodayTip>
+  <UIRethemedNotifications_Calendar_Tomorrow>Завтра</UIRethemedNotifications_Calendar_Tomorrow>
+  <UIRethemedNotifications_Calendar_Soon>Скоро</UIRethemedNotifications_Calendar_Soon>
+  <UIRethemedNotifications_Calendar_SoonTip>События в ближайшие {0} дн. после сегодняшнего.</UIRethemedNotifications_Calendar_SoonTip>
+  <UIRethemedNotifications_Calendar_InRange>В этом промежутке</UIRethemedNotifications_Calendar_InRange>
+  <UIRethemedNotifications_Calendar_InRangeTip>Все события на показанные дни.</UIRethemedNotifications_Calendar_InRangeTip>
+  <UIRethemedNotifications_Calendar_Range>Промежуток</UIRethemedNotifications_Calendar_Range>
+  <UIRethemedNotifications_Calendar_Kinds>Виды</UIRethemedNotifications_Calendar_Kinds>
+  <UIRethemedNotifications_Calendar_Range_Week>Эта неделя</UIRethemedNotifications_Calendar_Range_Week>
+  <UIRethemedNotifications_Calendar_Range_WeekTip>{0} дн. вокруг сегодняшнего — один ряд квадрума. Собственных недель в RimWorld нет. Число — сколько событий в нём осталось.</UIRethemedNotifications_Calendar_Range_WeekTip>
+  <UIRethemedNotifications_Calendar_Range_Quadrum>Этот квадрум</UIRethemedNotifications_Calendar_Range_Quadrum>
+  <UIRethemedNotifications_Calendar_Range_QuadrumTip>{0} дн. этого квадрума — месяца RimWorld. Число — сколько событий в нём осталось.</UIRethemedNotifications_Calendar_Range_QuadrumTip>
+  <UIRethemedNotifications_Calendar_Range_Year>Этот год</UIRethemedNotifications_Calendar_Range_Year>
+  <UIRethemedNotifications_Calendar_Range_YearTip>{0} дн. этого года, по ряду на каждый квадрум. Число — сколько событий в нём осталось.</UIRethemedNotifications_Calendar_Range_YearTip>
+  <UIRethemedNotifications_Calendar_Range_TwoYears>Следующие 2 года</UIRethemedNotifications_Calendar_Range_TwoYears>
+  <UIRethemedNotifications_Calendar_Range_TwoYearsTip>Следующие 2 года начиная с этого квадрума, по ряду на каждый квадрум. Число — сколько в них событий.</UIRethemedNotifications_Calendar_Range_TwoYearsTip>
+  <UIRethemedNotifications_Calendar_Title_Year>Год {0}</UIRethemedNotifications_Calendar_Title_Year>
+  <UIRethemedNotifications_Calendar_Title_Years>Годы с {0} по {1}</UIRethemedNotifications_Calendar_Title_Years>
+  <UIRethemedNotifications_Calendar_Title_Span>{0} — {1}</UIRethemedNotifications_Calendar_Title_Span>
+  <UIRethemedNotifications_Calendar_ShortDay>{0} {1}</UIRethemedNotifications_Calendar_ShortDay>
+  <UIRethemedNotifications_Calendar_ComingUp>Предстоящее</UIRethemedNotifications_Calendar_ComingUp>
+  <UIRethemedNotifications_Calendar_Filters>Фильтры</UIRethemedNotifications_Calendar_Filters>
+  <UIRethemedNotifications_Calendar_FiltersReset>Сбросить фильтры</UIRethemedNotifications_Calendar_FiltersReset>
+  <UIRethemedNotifications_Calendar_FiltersResetTip>Снова показать события всех видов за этот квадрум.</UIRethemedNotifications_Calendar_FiltersResetTip>
+  <UIRethemedNotifications_Calendar_FilterCountTip>Число — сколько событий этого вида на показанные дни. Щёлкните, чтобы показывать только их; если ничего не выбрано, показывается всё.</UIRethemedNotifications_Calendar_FilterCountTip>
+  <UIRethemedNotifications_Calendar_QuadrumYear>{0} {1}</UIRethemedNotifications_Calendar_QuadrumYear>
+  <UIRethemedNotifications_Calendar_Next>Позже</UIRethemedNotifications_Calendar_Next>
+  <UIRethemedNotifications_Calendar_NextNone>Календарь заглядывает вперёд на {0} г.</UIRethemedNotifications_Calendar_NextNone>
+  <UIRethemedNotifications_Calendar_Previous>Раньше</UIRethemedNotifications_Calendar_Previous>
+  <UIRethemedNotifications_Calendar_PreviousNone>Календарь смотрит только вперёд.</UIRethemedNotifications_Calendar_PreviousNone>
+  <UIRethemedNotifications_Calendar_BackToTodayTip>Вернуться к дням вокруг сегодняшнего и списку предстоящего.</UIRethemedNotifications_Calendar_BackToTodayTip>
+  <UIRethemedNotifications_Calendar_ClearDay>Показать всё</UIRethemedNotifications_Calendar_ClearDay>
+  <UIRethemedNotifications_Calendar_ClearDayTip>Вернуться к списку предстоящего.</UIRethemedNotifications_Calendar_ClearDayTip>
+  <UIRethemedNotifications_Calendar_More>+ещё {0}</UIRethemedNotifications_Calendar_More>
+  <UIRethemedNotifications_Calendar_DayEmpty>В этот день ничего нет.</UIRethemedNotifications_Calendar_DayEmpty>
+  <UIRethemedNotifications_Calendar_NothingAhead>В этом промежутке ничего нет.</UIRethemedNotifications_Calendar_NothingAhead>
+  <UIRethemedNotifications_Calendar_ClickTip>Щёлкните, чтобы перейти.</UIRethemedNotifications_Calendar_ClickTip>
+  <UIRethemedNotifications_Calendar_In>через {0}</UIRethemedNotifications_Calendar_In>
+  <UIRethemedNotifications_Calendar_Now>в любой момент</UIRethemedNotifications_Calendar_Now>
+  <UIRethemedNotifications_Calendar_Ends>Окончание: {0}</UIRethemedNotifications_Calendar_Ends>
+  <UIRethemedNotifications_Calendar_Birthday>{0}: исполняется {1}</UIRethemedNotifications_Calendar_Birthday>
+  <UIRethemedNotifications_Calendar_BirthdayGrowth>{0}: исполняется {1} — момент роста</UIRethemedNotifications_Calendar_BirthdayGrowth>
+  <UIRethemedNotifications_Calendar_BirthdayAdult>{0}: исполняется {1} — становится взрослым</UIRethemedNotifications_Calendar_BirthdayAdult>
+  <UIRethemedNotifications_Calendar_BirthdayTip>Дни рождения считаются по биологическому возрасту, как и игровые письма о днях рождения, поэтому дата может отличаться от даты рождения в биографии. Дети взрослеют быстрее взрослых — согласно настройкам сложности рассказчика — и отмечают несколько дней рождения в год.</UIRethemedNotifications_Calendar_BirthdayTip>
+  <UIRethemedNotifications_Calendar_RitualTip>Дата ритуала «{0}», проводимого раз в год.</UIRethemedNotifications_Calendar_RitualTip>
+  <UIRethemedNotifications_Calendar_RitualEnds>{0}: последний шанс</UIRethemedNotifications_Calendar_RitualEnds>
+  <UIRethemedNotifications_Calendar_RitualEndsTip>Заканчивается возможность провести «{0}».</UIRethemedNotifications_Calendar_RitualEndsTip>
+  <UIRethemedNotifications_Calendar_OfferEnds>Предложение истекает: {0}</UIRethemedNotifications_Calendar_OfferEnds>
+  <UIRethemedNotifications_Calendar_Due>{0}: ожидаются роды</UIRethemedNotifications_Calendar_Due>
+  <UIRethemedNotifications_Calendar_DueTip>При текущей скорости беременности. Она зависит от того, насколько хорошо питается мать.</UIRethemedNotifications_Calendar_DueTip>
+  <UIRethemedNotifications_Calendar_WearsOff>{0}: заканчивается «{1}»</UIRethemedNotifications_Calendar_WearsOff>
+  <UIRethemedNotifications_Calendar_InspirationEnds>{0}: заканчивается «{1}»</UIRethemedNotifications_Calendar_InspirationEnds>
+  <UIRethemedNotifications_Calendar_ShipLeaves>{0} улетает</UIRethemedNotifications_Calendar_ShipLeaves>
+  <UIRethemedNotifications_Calendar_ShipLeavesTip>Поторгуйте с ним через консоль связи, пока он не покинул зону связи.</UIRethemedNotifications_Calendar_ShipLeavesTip>
+  <UIRethemedNotifications_Calendar_PlaceEnds>{0} исчезает</UIRethemedNotifications_Calendar_PlaceEnds>
+  <UIRethemedNotifications_Calendar_PlaceRaid>Набеги из: {0}</UIRethemedNotifications_Calendar_PlaceRaid>
+  <UIRethemedNotifications_Calendar_PlaceHostile>{0}: фракция становится враждебной</UIRethemedNotifications_Calendar_PlaceHostile>
+  <UIRethemedNotifications_Calendar_PermitReady>{0}: «{1}» готово</UIRethemedNotifications_Calendar_PermitReady>
+  <UIRethemedNotifications_Calendar_GravshipReady>Гравикорабль готов</UIRethemedNotifications_Calendar_GravshipReady>
+  <UIRethemedNotifications_Calendar_GravshipReadyTip>Двигатель гравикорабля остыл, и он снова может взлететь.</UIRethemedNotifications_Calendar_GravshipReadyTip>
+
+  <UIRethemedNotifications_Settings_PartsHint>Какие части интерфейса оформлены. Снимите галочку, чтобы вернуть стандартную; её собственные параметры уйдут вместе с ней.</UIRethemedNotifications_Settings_PartsHint>
+  <UIRethemedNotifications_Settings_PartsSummary>Оформлено: {0} из {1}</UIRethemedNotifications_Settings_PartsSummary>
+  <UIRethemedNotifications_Settings_PartFailedNote>Произошла ошибка, поэтому до перезапуска игры используется стандартный вид.</UIRethemedNotifications_Settings_PartFailedNote>
+  <UIRethemedNotifications_Settings_NoParts>Все части возвращены к стандартным, поэтому настраивать здесь больше нечего. Отметьте часть в «Оформленных частях», чтобы увидеть её параметры.</UIRethemedNotifications_Settings_NoParts>
+  <UIRethemedNotifications_Settings_StillSummary>Неподвижно</UIRethemedNotifications_Settings_StillSummary>
+  <UIRethemedNotifications_Settings_MiddleClickSummary>Переход средней кнопкой</UIRethemedNotifications_Settings_MiddleClickSummary>
+  <UIRethemedNotifications_Settings_AlertsSummary>Скрыто: {0}</UIRethemedNotifications_Settings_AlertsSummary>
+  <UIRethemedNotifications_Settings_CalendarSummary>{0} × {1}</UIRethemedNotifications_Settings_CalendarSummary>
+  <UIRethemedNotifications_Settings_ResetSize>Сбросить размер</UIRethemedNotifications_Settings_ResetSize>
+  <UIRethemedNotifications_Settings_ResetSizeTip>Вернуть вкладке «Календарь» обычный размер — {0}.</UIRethemedNotifications_Settings_ResetSizeTip>
+  <UIRethemedNotifications_Settings_ResetSizeConfirm>Вернуть вкладке «Календарь» размер {0}? Заданные вами ширина и высота будут потеряны.</UIRethemedNotifications_Settings_ResetSizeConfirm>
+  <UIRethemedNotifications_Settings_AtDefault>Размер уже обычный.</UIRethemedNotifications_Settings_AtDefault>
+  <UIRethemedNotifications_Settings_ShowAgainTip>Снова показывать «{0}», когда возникает эта проблема.</UIRethemedNotifications_Settings_ShowAgainTip>
+  <UIRethemedNotifications_Settings_ShowAllTip>Снова показать все скрытые оповещения. С подтверждением.</UIRethemedNotifications_Settings_ShowAllTip>
+  <UIRethemedNotifications_RightClick_MenuNote>Вернуться, отложить или скрыть — через меню</UIRethemedNotifications_RightClick_MenuNote>
+  <UIRethemedNotifications_RightClick_SnoozeNote>Сразу, на время откладывания, заданное ниже</UIRethemedNotifications_RightClick_SnoozeNote>
+  <UIRethemedNotifications_RightClick_HideNote>Сразу, во всех сохранениях</UIRethemedNotifications_RightClick_HideNote>
+  <UIRethemedNotifications_Part_Settings>страница настроек</UIRethemedNotifications_Part_Settings>
+  <UIRethemedNotifications_Settings_RightClick>ПКМ по оповещению</UIRethemedNotifications_Settings_RightClick>
+  <UIRethemedNotifications_Settings_RightClickTip>Что делает щелчок ПКМ по оповещению. Его меню позволяет перейти назад по объектам оповещения, отложить его или скрыть навсегда. Либо ПКМ может сразу отложить его или сразу скрыть навсегда.</UIRethemedNotifications_Settings_RightClickTip>
+  <UIRethemedNotifications_RightClick_Menu>Открывает меню</UIRethemedNotifications_RightClick_Menu>
+  <UIRethemedNotifications_RightClick_Snooze>Откладывает</UIRethemedNotifications_RightClick_Snooze>
+  <UIRethemedNotifications_RightClick_Hide>Скрывает навсегда</UIRethemedNotifications_RightClick_Hide>
+  <UIRethemedNotifications_Settings_SnoozeLength>Откладывать оповещения на: {0}</UIRethemedNotifications_Settings_SnoozeLength>
+  <UIRethemedNotifications_Settings_SnoozeLengthTip>Как долго отложенное оповещение не показывается, в игровом времени: на паузе время стоит, а на высоких скоростях идёт быстрее. Если проблема за это время исчезнет, откладывание заканчивается, и оповещение покажется, когда она возникнет снова. Откладывание действует до загрузки другого сохранения. Изначально {0}.</UIRethemedNotifications_Settings_SnoozeLengthTip>
+  <UIRethemedNotifications_InGameHour>1 игровой час</UIRethemedNotifications_InGameHour>
+  <UIRethemedNotifications_InGameHours>{0} игровых ч.</UIRethemedNotifications_InGameHours>
+  <UIRethemedNotifications_InGameDay>1 игровой день</UIRethemedNotifications_InGameDay>
+  <UIRethemedNotifications_InGameDays>{0} игровых дн.</UIRethemedNotifications_InGameDays>
+  <UIRethemedNotifications_Settings_HiddenAlerts>Скрытые оповещения ({0})</UIRethemedNotifications_Settings_HiddenAlerts>
+  <UIRethemedNotifications_Settings_HiddenAlertsHint>Оповещения, скрытые вами навсегда во всех сохранениях через ПКМ. Покажите оповещение снова, чтобы вернуть его.</UIRethemedNotifications_Settings_HiddenAlertsHint>
+  <UIRethemedNotifications_Settings_ShowAgain>Показать снова</UIRethemedNotifications_Settings_ShowAgain>
+  <UIRethemedNotifications_Settings_ShowAll>Показать все снова</UIRethemedNotifications_Settings_ShowAll>
+  <UIRethemedNotifications_Settings_ConfirmShowAll>Снова показать все скрытые оповещения ({0})? Скрывать придётся каждое заново через меню ПКМ.</UIRethemedNotifications_Settings_ConfirmShowAll>
+  <UIRethemedNotifications_Settings_NoneHidden>Скрытых оповещений нет.</UIRethemedNotifications_Settings_NoneHidden>
+  <UIRethemedNotifications_Settings_WakeAll>Вернуть отложенные ({0})</UIRethemedNotifications_Settings_WakeAll>
+  <UIRethemedNotifications_Settings_WakeAllTip>Вернуть все отложенные в этой игре оповещения прямо сейчас, не дожидаясь окончания откладывания.</UIRethemedNotifications_Settings_WakeAllTip>
+  <UIRethemedNotifications_Settings_WakeAllNoGame>Оповещения откладываются в рамках игры. Загрузите игру, чтобы вернуть её отложенные оповещения.</UIRethemedNotifications_Settings_WakeAllNoGame>
+  <UIRethemedNotifications_Menu_GoTo>Перейти</UIRethemedNotifications_Menu_GoTo>
+  <UIRethemedNotifications_Menu_JumpTo>Перейти к нему</UIRethemedNotifications_Menu_JumpTo>
+  <UIRethemedNotifications_Menu_Next>Перейти к следующему</UIRethemedNotifications_Menu_Next>
+  <UIRethemedNotifications_Menu_Previous>Назад к предыдущему</UIRethemedNotifications_Menu_Previous>
+  <UIRethemedNotifications_Menu_PutAway>Убрать</UIRethemedNotifications_Menu_PutAway>
+  <UIRethemedNotifications_Menu_Snooze>Отложить на {0}</UIRethemedNotifications_Menu_Snooze>
+  <UIRethemedNotifications_Menu_SnoozeNote>Вернётся после этого или раньше, если проблема исчезнет</UIRethemedNotifications_Menu_SnoozeNote>
+  <UIRethemedNotifications_Menu_SnoozeTip>Скрывает это оповещение на {0} (на паузе время стоит), затем оно вернётся. Если проблема исчезнет раньше, откладывание закончится, и вы увидите оповещение, когда она возникнет снова. Длительность задаётся в настройках мода.</UIRethemedNotifications_Menu_SnoozeTip>
+  <UIRethemedNotifications_Menu_Hide>Скрыть навсегда</UIRethemedNotifications_Menu_Hide>
+  <UIRethemedNotifications_Menu_HideNote>Во всех сохранениях, пока вы не покажете его снова</UIRethemedNotifications_Menu_HideNote>
+  <UIRethemedNotifications_Menu_HideTip>Больше никогда не показывать это оповещение ни в одном сохранении. Вернуть его можно в разделе «Скрытые оповещения» настроек мода.</UIRethemedNotifications_Menu_HideTip>
+  <UIRethemedNotifications_Snoozed>«{0}» отложено на {1}.</UIRethemedNotifications_Snoozed>
+  <UIRethemedNotifications_HiddenForGood>«{0}» скрыто навсегда. Вернуть можно в настройках мода.</UIRethemedNotifications_HiddenForGood>
+</LanguageData>

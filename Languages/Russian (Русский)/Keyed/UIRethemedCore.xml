@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedCore_ModName>UI Rethemed - Ядро</UIRethemedCore_ModName>
+  <UIRethemedCore_AreaColour>Сменить цвет</UIRethemedCore_AreaColour>
+  <UIRethemedCore_AreaColourTip>Выберите цвет, которым отображается эта зона.</UIRethemedCore_AreaColourTip>
+  <UIRethemedCore_AreaCopyTip>Создать новую зону на тех же клетках.</UIRethemedCore_AreaCopyTip>
+  <UIRethemedCore_AreaDeleteTip>Удалить эту зону. Поселенцы и животные, ограниченные ею, станут неограниченными.</UIRethemedCore_AreaDeleteTip>
+  <UIRethemedCore_AreaExpandTip>Нарисовать больше этой зоны на карте.</UIRethemedCore_AreaExpandTip>
+  <UIRethemedCore_AreaInvertTip>Поменять местами то, что внутри зоны, и то, что вне её, по всей карте.</UIRethemedCore_AreaInvertTip>
+  <UIRethemedCore_AreaRenameTip>Дать этой зоне новое название.</UIRethemedCore_AreaRenameTip>
+  <UIRethemedCore_AreaShrinkTip>Стереть части этой зоны на карте.</UIRethemedCore_AreaShrinkTip>
+  <UIRethemedCore_Ascending>По возрастанию</UIRethemedCore_Ascending>
+  <UIRethemedCore_AscendingTip>Сначала меньшие, или от А до Я.</UIRethemedCore_AscendingTip>
+  <UIRethemedCore_ChoiceSearchHint>Поиск...</UIRethemedCore_ChoiceSearchHint>
+  <UIRethemedCore_Descending>По убыванию</UIRethemedCore_Descending>
+  <UIRethemedCore_DescendingTip>Сначала большие, или от Я до А.</UIRethemedCore_DescendingTip>
+  <UIRethemedCore_GraphHint>Перетаскивайте для перемещения, колесо — масштаб. Нажмите на пузырь, чтобы увидеть его сбоку.</UIRethemedCore_GraphHint>
+  <UIRethemedCore_GroupBy>Группировать по</UIRethemedCore_GroupBy>
+  <UIRethemedCore_MenuFailed>В оформленном меню произошла ошибка, и оно закрылось: {0}</UIRethemedCore_MenuFailed>
+  <UIRethemedCore_MenuFor>{0} для {1}</UIRethemedCore_MenuFor>
+  <UIRethemedCore_Order>Порядок</UIRethemedCore_Order>
+  <UIRethemedCore_SortAgainTip>Нажмите на уже выбранную сортировку, чтобы перевернуть её.</UIRethemedCore_SortAgainTip>
+  <UIRethemedCore_SortBy>Сортировать по</UIRethemedCore_SortBy>
+  <UIRethemedCore_SortMenu>Сортировка</UIRethemedCore_SortMenu>
+  <UIRethemedCore_NewAreaTip>Добавить пустую зону, готовую к рисованию на карте.</UIRethemedCore_NewAreaTip>
+  <UIRethemedCore_NoAreas>Зон пока нет. Создайте зону кнопкой «Новая зона».</UIRethemedCore_NoAreas>
+  <UIRethemedCore_OpenSettings>Настройки</UIRethemedCore_OpenSettings>
+  <UIRethemedCore_PartFailed>В «{0}» произошла ошибка; до перезапуска игры используется стандартный интерфейс: {1}</UIRethemedCore_PartFailed>
+  <UIRethemedCore_Pin>Закрепить</UIRethemedCore_Pin>
+  <UIRethemedCore_PinTip>Закреплённые остаются вверху списка.</UIRethemedCore_PinTip>
+  <UIRethemedCore_ResetView>Сбросить вид</UIRethemedCore_ResetView>
+  <UIRethemedCore_ResetViewTip>Вернуть к исходному виду, вписав в панель.</UIRethemedCore_ResetViewTip>
+  <UIRethemedCore_Settings_Animations>Анимации</UIRethemedCore_Settings_Animations>
+  <UIRethemedCore_Settings_AnimationsTip>Затухание при наведении, движение сот и линия в заголовке — во всех модах UI Rethemed, построенных на этом.</UIRethemedCore_Settings_AnimationsTip>
+  <UIRethemedCore_Settings_CentreColumnTip>Какую часть ширины окна занимает столбец «{0}». Столбцы по бокам от него сжимаются или растягиваются на одинаковую величину, чтобы компенсировать разницу.</UIRethemedCore_Settings_CentreColumnTip>
+  <UIRethemedCore_Settings_Column>{0}: {1}</UIRethemedCore_Settings_Column>
+  <UIRethemedCore_Settings_Columns>Ширина столбцов</UIRethemedCore_Settings_Columns>
+  <UIRethemedCore_Settings_ColumnsTip>Как ширина окна делится между столбцами «{0}», «{1}» и «{2}». В сумме всегда 100%.</UIRethemedCore_Settings_ColumnsTip>
+  <UIRethemedCore_Settings_FitHeight>По высоте экрана</UIRethemedCore_Settings_FitHeight>
+  <UIRethemedCore_Settings_FitHeightTip>Делает окно «{0}» максимально высоким: оно по-прежнему стоит на нижней панели, а его верх достигает верха экрана. Снимите галочку, чтобы задать высоту вручную.</UIRethemedCore_Settings_FitHeightTip>
+  <UIRethemedCore_Settings_FitWidth>По ширине экрана</UIRethemedCore_Settings_FitWidth>
+  <UIRethemedCore_Settings_FitWidthTip>Делает окно «{0}» шириной во весь экран, от левого края до правого. Снимите галочку, чтобы задать ширину вручную.</UIRethemedCore_Settings_FitWidthTip>
+  <UIRethemedCore_Settings_Height>Высота окна: {0}</UIRethemedCore_Settings_Height>
+  <UIRethemedCore_Settings_HeightTip>Высота окна «{0}» — от {1} до {2} от обычной. Оно по-прежнему стоит на нижней панели и никогда не выходит за верх экрана.</UIRethemedCore_Settings_HeightTip>
+  <UIRethemedCore_Settings_ResetColumns>Сбросить ширину столбцов</UIRethemedCore_Settings_ResetColumns>
+  <UIRethemedCore_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedCore_Settings_SettingsGear>
+  <UIRethemedCore_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую настройки этого мода.</UIRethemedCore_Settings_SettingsGearTip>
+  <UIRethemedCore_Settings_SideColumnTip>Какую часть ширины окна занимает столбец «{0}». Средний столбец «{1}» растягивается или сжимается, чтобы компенсировать разницу.</UIRethemedCore_Settings_SideColumnTip>
+  <UIRethemedCore_Settings_Style>Стиль</UIRethemedCore_Settings_Style>
+  <UIRethemedCore_Settings_Width>Ширина окна: {0}</UIRethemedCore_Settings_Width>
+  <UIRethemedCore_Settings_WidthTip>Ширина окна «{0}» — от {1} до {2} от обычной, но не шире экрана.</UIRethemedCore_Settings_WidthTip>
+  <UIRethemedCore_TipsPart>Оформленные подсказки</UIRethemedCore_TipsPart>
+  <UIRethemedCore_TrendAgo>{0} назад</UIRethemedCore_TrendAgo>
+  <UIRethemedCore_TrendEmpty>Идёт запись: заполнится по ходу игры.</UIRethemedCore_TrendEmpty>
+  <UIRethemedCore_TrendNow>Сейчас</UIRethemedCore_TrendNow>
+  <UIRethemedCore_Unpin>Открепить</UIRethemedCore_Unpin>
+</LanguageData>

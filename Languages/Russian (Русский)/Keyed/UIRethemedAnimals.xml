@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedAnimals_ModName>UI Rethemed - Питомцы</UIRethemedAnimals_ModName>
+  <UIRethemedAnimals_Title>Питомцы</UIRethemedAnimals_Title>
+
+  <UIRethemedAnimals_TabFailed>В оформленной вкладке «Питомцы» произошла ошибка, поэтому до перезапуска используется стандартная: {0}</UIRethemedAnimals_TabFailed>
+  <UIRethemedAnimals_PartFailed>В оформленном окне произошла ошибка, поэтому до перезапуска используется стандартное: {0}</UIRethemedAnimals_PartFailed>
+
+  <UIRethemedAnimals_OpenSettings>Настройки</UIRethemedAnimals_OpenSettings>
+  <UIRethemedAnimals_Search>Поиск</UIRethemedAnimals_Search>
+  <UIRethemedAnimals_SearchHint>Поиск животных...</UIRethemedAnimals_SearchHint>
+  <UIRethemedAnimals_SearchTip>Ищет по имени, виду, хозяину и зоне каждого животного. Должно совпасть каждое слово.</UIRethemedAnimals_SearchTip>
+  <UIRethemedAnimals_SearchFound>Найдено: {0}</UIRethemedAnimals_SearchFound>
+  <UIRethemedAnimals_Stat_Animals>Животные</UIRethemedAnimals_Stat_Animals>
+  <UIRethemedAnimals_Stat_AnimalsTip>Сколько животных у колонии на этой карте.</UIRethemedAnimals_Stat_AnimalsTip>
+  <UIRethemedAnimals_Stat_PregnantTip>Сколько из них беременны.</UIRethemedAnimals_Stat_PregnantTip>
+  <UIRethemedAnimals_Stat_BondedTip>Сколько связаны узами с поселенцем.</UIRethemedAnimals_Stat_BondedTip>
+  <UIRethemedAnimals_Stat_TrainedTip>Сколько обучены послушанию и потому могут иметь хозяина.</UIRethemedAnimals_Stat_TrainedTip>
+  <UIRethemedAnimals_Stat_Nutrition>Питательности в день</UIRethemedAnimals_Stat_Nutrition>
+  <UIRethemedAnimals_Stat_NutritionTip>Сколько питательности всё стадо съедает за день при текущем темпе голода. Одна единица сена или корма — 0,05; простая еда — 0,9.</UIRethemedAnimals_Stat_NutritionTip>
+  <UIRethemedAnimals_Stat_Value>Стоимость стада</UIRethemedAnimals_Stat_Value>
+  <UIRethemedAnimals_Stat_ValueTip>Общая стоимость всех животных на этой карте, в серебре.</UIRethemedAnimals_Stat_ValueTip>
+  <UIRethemedAnimals_Stat_ToGo>На забой</UIRethemedAnimals_Stat_ToGo>
+  <UIRethemedAnimals_Stat_ToGoTip>Отмечено на забой: {0}, сверх лимита автозабоя: {1}.</UIRethemedAnimals_Stat_ToGoTip>
+
+  <UIRethemedAnimals_Filters>Фильтры</UIRethemedAnimals_Filters>
+  <UIRethemedAnimals_Reset>Сбросить фильтры</UIRethemedAnimals_Reset>
+  <UIRethemedAnimals_ResetTip>Снова показать всех животных.</UIRethemedAnimals_ResetTip>
+  <UIRethemedAnimals_Group_Kinds>Животные</UIRethemedAnimals_Group_Kinds>
+  <UIRethemedAnimals_KindTip>Показать только «{0}», чтобы кнопки под списком действовали на всех них.</UIRethemedAnimals_KindTip>
+  <UIRethemedAnimals_Group_Sex>Пол</UIRethemedAnimals_Group_Sex>
+  <UIRethemedAnimals_Group_Age>Возраст</UIRethemedAnimals_Group_Age>
+  <UIRethemedAnimals_Group_Traits>Особенности</UIRethemedAnimals_Group_Traits>
+  <UIRethemedAnimals_Group_Orders>Приказы</UIRethemedAnimals_Group_Orders>
+  <UIRethemedAnimals_Group_Areas>Содержится в</UIRethemedAnimals_Group_Areas>
+  <UIRethemedAnimals_Sex_Male>Самец</UIRethemedAnimals_Sex_Male>
+  <UIRethemedAnimals_Sex_Female>Самка</UIRethemedAnimals_Sex_Female>
+  <UIRethemedAnimals_Stage_Young>Детёныш</UIRethemedAnimals_Stage_Young>
+  <UIRethemedAnimals_Stage_YoungTip>Ещё не может размножаться.</UIRethemedAnimals_Stage_YoungTip>
+  <UIRethemedAnimals_Stage_Adult>Взрослый</UIRethemedAnimals_Stage_Adult>
+  <UIRethemedAnimals_Stage_AdultTip>Может размножаться.</UIRethemedAnimals_Stage_AdultTip>
+  <UIRethemedAnimals_TraitCycleTip>Щёлкните, чтобы показать только их, ещё раз — скрыть их, и ещё раз — отключить фильтр.</UIRethemedAnimals_TraitCycleTip>
+  <UIRethemedAnimals_Trait_Pregnant>Беременна</UIRethemedAnimals_Trait_Pregnant>
+  <UIRethemedAnimals_Trait_PregnantTip>Вынашивает потомство, насколько можно судить.</UIRethemedAnimals_Trait_PregnantTip>
+  <UIRethemedAnimals_Trait_Bonded>Узы</UIRethemedAnimals_Trait_Bonded>
+  <UIRethemedAnimals_Trait_BondedTip>Связан узами с поселенцем.</UIRethemedAnimals_Trait_BondedTip>
+  <UIRethemedAnimals_Trait_Trained>Послушный</UIRethemedAnimals_Trait_Trained>
+  <UIRethemedAnimals_Trait_TrainedTip>Обучен послушанию и может иметь хозяина.</UIRethemedAnimals_Trait_TrainedTip>
+  <UIRethemedAnimals_Trait_Sterile>Бесплоден</UIRethemedAnimals_Trait_Sterile>
+  <UIRethemedAnimals_Trait_SterileTip>Не может иметь потомство.</UIRethemedAnimals_Trait_SterileTip>
+  <UIRethemedAnimals_Trait_Hurt>Ранен</UIRethemedAnimals_Trait_Hurt>
+  <UIRethemedAnimals_Trait_HurtTip>Здоровье не полное или нужно лечение.</UIRethemedAnimals_Trait_HurtTip>
+  <UIRethemedAnimals_PenAnimals>Загонные животные</UIRethemedAnimals_PenAnimals>
+  <UIRethemedAnimals_PenAnimalsTip>Сельскохозяйственные животные, которых водят на верёвке и держат в загонах. Зоны на них не действуют.</UIRethemedAnimals_PenAnimalsTip>
+  <UIRethemedAnimals_Mark_Slaughter>Забой</UIRethemedAnimals_Mark_Slaughter>
+  <UIRethemedAnimals_Mark_SlaughterTip>Отмечено на забой.</UIRethemedAnimals_Mark_SlaughterTip>
+  <UIRethemedAnimals_Mark_Release>Выпуск</UIRethemedAnimals_Mark_Release>
+  <UIRethemedAnimals_Mark_ReleaseTip>Отмечено для выпуска в дикую природу.</UIRethemedAnimals_Mark_ReleaseTip>
+  <UIRethemedAnimals_Mark_Culled>Следующий на забой</UIRethemedAnimals_Mark_Culled>
+  <UIRethemedAnimals_Mark_CulledTip>Сверх лимита автозабоя: дрессировщик забьёт это животное, когда освободится.</UIRethemedAnimals_Mark_CulledTip>
+  <UIRethemedAnimals_Mark_Unmarked>Без приказов</UIRethemedAnimals_Mark_Unmarked>
+  <UIRethemedAnimals_Mark_UnmarkedTip>Ни для чего не отмечено и в пределах всех лимитов автозабоя.</UIRethemedAnimals_Mark_UnmarkedTip>
+  <UIRethemedAnimals_AutoSlaughterTip>Задайте, сколько животных каждого вида держать. Всех сверх лимита забивают.</UIRethemedAnimals_AutoSlaughterTip>
+  <UIRethemedAnimals_ManageAreasTip>Создавайте, переименовывайте, перекрашивайте и удаляйте зоны, в которых можно держать животных.</UIRethemedAnimals_ManageAreasTip>
+
+  <UIRethemedAnimals_Animals>Животные</UIRethemedAnimals_Animals>
+  <UIRethemedAnimals_AnimalCount>Животных: {0}</UIRethemedAnimals_AnimalCount>
+  <UIRethemedAnimals_OneAnimal>1 животное</UIRethemedAnimals_OneAnimal>
+  <UIRethemedAnimals_ShownOf>Показано {0} из {1}</UIRethemedAnimals_ShownOf>
+  <UIRethemedAnimals_NoAnimals>У колонии здесь пока нет животных.</UIRethemedAnimals_NoAnimals>
+  <UIRethemedAnimals_NoneShown>Нет животных, подходящих под эти фильтры.</UIRethemedAnimals_NoneShown>
+  <UIRethemedAnimals_Name>Имя</UIRethemedAnimals_Name>
+  <UIRethemedAnimals_SortTip>Щёлкните, чтобы сортировать по этому столбцу, ещё раз — в обратном порядке, и ещё раз — вернуть обычный порядок.</UIRethemedAnimals_SortTip>
+  <UIRethemedAnimals_RowTip>Щёлкните, чтобы выбрать. Ctrl+щелчок добавляет к выбранному, Shift+щелчок — диапазон животных.
+
+Двойной щелчок — перейти к нему на карте. ПКМ — другие действия.</UIRethemedAnimals_RowTip>
+  <UIRethemedAnimals_AreaTip>Щёлкните, чтобы выбрать, где держать это животное.</UIRethemedAnimals_AreaTip>
+  <UIRethemedAnimals_NextToGo>Следующий на забой</UIRethemedAnimals_NextToGo>
+  <UIRethemedAnimals_GroupRowTip>Щёлкните, чтобы свернуть или развернуть эту группу.</UIRethemedAnimals_GroupRowTip>
+  <UIRethemedAnimals_NameKind>{0}, {1}</UIRethemedAnimals_NameKind>
+  <UIRethemedAnimals_GroupAverageTip>Среднее по животным этой группы ({0}).</UIRethemedAnimals_GroupAverageTip>
+  <UIRethemedAnimals_PickGroup>Выбрать всех</UIRethemedAnimals_PickGroup>
+  <UIRethemedAnimals_PickGroupTip>Выбрать всех в этой группе, чтобы кнопки под списком действовали на них. Щёлкните ещё раз, чтобы снять выбор.</UIRethemedAnimals_PickGroupTip>
+  <UIRethemedAnimals_GroupBy>Группировать по</UIRethemedAnimals_GroupBy>
+  <UIRethemedAnimals_GroupByTip>Выберите, по чему группировать список.</UIRethemedAnimals_GroupByTip>
+  <UIRethemedAnimals_SortMenu>Сортировка и группировка</UIRethemedAnimals_SortMenu>
+  <UIRethemedAnimals_SortButtonTip>Сортировка: {0}, {1}. Группировка: {2}.</UIRethemedAnimals_SortButtonTip>
+  <UIRethemedAnimals_SortBy>Сортировать по</UIRethemedAnimals_SortBy>
+  <UIRethemedAnimals_SortDefault>По умолчанию</UIRethemedAnimals_SortDefault>
+  <UIRethemedAnimals_SortAgainTip>Щёлкните, чтобы сортировать по этому, и ещё раз — перевернуть.</UIRethemedAnimals_SortAgainTip>
+  <UIRethemedAnimals_Order>Порядок</UIRethemedAnimals_Order>
+  <UIRethemedAnimals_Ascending>По возрастанию</UIRethemedAnimals_Ascending>
+  <UIRethemedAnimals_AscendingTip>Сначала наименьшие.</UIRethemedAnimals_AscendingTip>
+  <UIRethemedAnimals_Descending>По убыванию</UIRethemedAnimals_Descending>
+  <UIRethemedAnimals_DescendingTip>Сначала наибольшие.</UIRethemedAnimals_DescendingTip>
+  <UIRethemedAnimals_FollowDrafted>Следовать в призыве</UIRethemedAnimals_FollowDrafted>
+  <UIRethemedAnimals_FollowFieldwork>Следовать на полевых работах</UIRethemedAnimals_FollowFieldwork>
+  <UIRethemedAnimals_RandomizeTip>Выбрать новое случайное имя.</UIRethemedAnimals_RandomizeTip>
+  <UIRethemedAnimals_GroupBy_Species>Вид</UIRethemedAnimals_GroupBy_Species>
+  <UIRethemedAnimals_GroupBy_Area>Зона</UIRethemedAnimals_GroupBy_Area>
+  <UIRethemedAnimals_GroupBy_Master>Хозяин</UIRethemedAnimals_GroupBy_Master>
+  <UIRethemedAnimals_GroupBy_Stage>Стадия жизни</UIRethemedAnimals_GroupBy_Stage>
+  <UIRethemedAnimals_GroupBy_None>Без заголовков</UIRethemedAnimals_GroupBy_None>
+  <UIRethemedAnimals_NoMaster>Без хозяина</UIRethemedAnimals_NoMaster>
+  <UIRethemedAnimals_Col_Health>Здоровье</UIRethemedAnimals_Col_Health>
+  <UIRethemedAnimals_Col_HealthTip>Насколько каждое животное близко к полному здоровью.</UIRethemedAnimals_Col_HealthTip>
+  <UIRethemedAnimals_Col_Food>Сытость</UIRethemedAnimals_Col_Food>
+  <UIRethemedAnimals_Col_FoodTip>Насколько сыто каждое животное.</UIRethemedAnimals_Col_FoodTip>
+  <UIRethemedAnimals_Col_Product>Продукция</UIRethemedAnimals_Col_Product>
+  <UIRethemedAnimals_Col_ProductTip>Насколько близка к готовности шерсть или молоко, или следующее яйцо.</UIRethemedAnimals_Col_ProductTip>
+  <UIRethemedAnimals_Col_Training>Дрессировка</UIRethemedAnimals_Col_Training>
+  <UIRethemedAnimals_Col_TrainingTip>Чему каждое животное уже обучено (ярко) и чему ещё учится (тускло). Настраивается в подробностях.</UIRethemedAnimals_Col_TrainingTip>
+  <UIRethemedAnimals_Col_Orders>Приказы</UIRethemedAnimals_Col_Orders>
+  <UIRethemedAnimals_Col_OrdersTip>Что назначено каждому животному, например следовать за хозяином или идти на забой. Настраивается в подробностях.</UIRethemedAnimals_Col_OrdersTip>
+  <UIRethemedAnimals_Learned>Обучено: {0}</UIRethemedAnimals_Learned>
+  <UIRethemedAnimals_Learning>Учится: {0}</UIRethemedAnimals_Learning>
+  <UIRethemedAnimals_TrainSteps>Пройдено этапов: {0} из {1}.</UIRethemedAnimals_TrainSteps>
+  <UIRethemedAnimals_ConfirmOrder>{0}: животных — {1}. Вы уверены?</UIRethemedAnimals_ConfirmOrder>
+  <UIRethemedAnimals_Locate>Показать на карте</UIRethemedAnimals_Locate>
+  <UIRethemedAnimals_InfoCard>Информационная карточка</UIRethemedAnimals_InfoCard>
+  <UIRethemedAnimals_Rename>Переименовать</UIRethemedAnimals_Rename>
+  <UIRethemedAnimals_LocateTip>Закрыть эту вкладку и перейти к этому животному на карте.</UIRethemedAnimals_LocateTip>
+  <UIRethemedAnimals_InfoCardTip>Открыть игровую информационную карточку этого животного.</UIRethemedAnimals_InfoCardTip>
+  <UIRethemedAnimals_RenameTip>Дать этому животному новое имя.</UIRethemedAnimals_RenameTip>
+
+  <UIRethemedAnimals_ActOnOne>Изменить: {0}</UIRethemedAnimals_ActOnOne>
+  <UIRethemedAnimals_ActOnPicked>Изменить выбранных ({0})</UIRethemedAnimals_ActOnPicked>
+  <UIRethemedAnimals_ActOnShown>Изменить всех показанных ({0})</UIRethemedAnimals_ActOnShown>
+  <UIRethemedAnimals_ActOnAll>Изменить всех животных ({0})</UIRethemedAnimals_ActOnAll>
+  <UIRethemedAnimals_BulkTip>Кнопки здесь меняют всех этих животных сразу. Выберите животных в списке или отфильтруйте его, чтобы определить, каких именно.</UIRethemedAnimals_BulkTip>
+  <UIRethemedAnimals_BulkNoneTip>Животные не показаны, поэтому менять нечего.</UIRethemedAnimals_BulkNoneTip>
+  <UIRethemedAnimals_MenuFor>{0} для {1}</UIRethemedAnimals_MenuFor>
+  <UIRethemedAnimals_MenuAnimals>животных: {0}</UIRethemedAnimals_MenuAnimals>
+  <UIRethemedAnimals_ChoiceSearchHint>Поиск...</UIRethemedAnimals_ChoiceSearchHint>
+  <UIRethemedAnimals_ClearPicked>Снять выбор</UIRethemedAnimals_ClearPicked>
+  <UIRethemedAnimals_ClearPickedTip>Снова действовать на всех показанных животных.</UIRethemedAnimals_ClearPickedTip>
+  <UIRethemedAnimals_Bulk_Area>Зона</UIRethemedAnimals_Bulk_Area>
+  <UIRethemedAnimals_Bulk_AreaTip>Держать этих животных в одной зоне. Животных в загонах это не касается.</UIRethemedAnimals_Bulk_AreaTip>
+  <UIRethemedAnimals_Bulk_Master>Хозяин</UIRethemedAnimals_Bulk_Master>
+  <UIRethemedAnimals_Bulk_MasterTip>Назначить этим животным хозяина. Меняются только обученные послушанию и только с поселенцем, способным с ними управиться.</UIRethemedAnimals_Bulk_MasterTip>
+  <UIRethemedAnimals_Bulk_Medical>Медицинский уход</UIRethemedAnimals_Bulk_Medical>
+  <UIRethemedAnimals_Bulk_MedicalTip>Задать медицинский уход для этих животных.</UIRethemedAnimals_Bulk_MedicalTip>
+  <UIRethemedAnimals_Bulk_Orders>Дрессировка и приказы</UIRethemedAnimals_Bulk_Orders>
+  <UIRethemedAnimals_Bulk_OrdersTip>Включить или выключить галочку для всех этих животных — от дрессировки до забоя.</UIRethemedAnimals_Bulk_OrdersTip>
+  <UIRethemedAnimals_Menu_Colonists>Поселенцы</UIRethemedAnimals_Menu_Colonists>
+  <UIRethemedAnimals_Menu_Obedient>Послушных: {0} из {1}</UIRethemedAnimals_Menu_Obedient>
+  <UIRethemedAnimals_Menu_CareLevel>Уровень ухода</UIRethemedAnimals_Menu_CareLevel>
+  <UIRethemedAnimals_Menu_Mixed>Разный</UIRethemedAnimals_Menu_Mixed>
+  <UIRethemedAnimals_Menu_Training>Дрессировка</UIRethemedAnimals_Menu_Training>
+  <UIRethemedAnimals_Menu_Orders>Приказы</UIRethemedAnimals_Menu_Orders>
+  <UIRethemedAnimals_MasterNote>{0} {1} · хозяин для {2}</UIRethemedAnimals_MasterNote>
+  <UIRethemedAnimals_MasterNoneNote>Ни за кем не следует</UIRethemedAnimals_MasterNoneNote>
+  <UIRethemedAnimals_MasterSome>Может управиться с {0} из этих {1} животных. Остальные останутся как есть.</UIRethemedAnimals_MasterSome>
+  <UIRethemedAnimals_NoOrder>Ни одному из этих животных это нельзя назначить.</UIRethemedAnimals_NoOrder>
+  <UIRethemedAnimals_CantBeMaster>Этот поселенец не может управиться ни с одним из этих животных.</UIRethemedAnimals_CantBeMaster>
+  <UIRethemedAnimals_NoAreaAnimals>Ни одно из этих животных нельзя ограничить зоной.</UIRethemedAnimals_NoAreaAnimals>
+  <UIRethemedAnimals_NoTrainedAnimals>Ни одно из этих животных не обучено послушанию.</UIRethemedAnimals_NoTrainedAnimals>
+
+  <UIRethemedAnimals_Details>Подробности</UIRethemedAnimals_Details>
+  <UIRethemedAnimals_PickAnimal>Выберите животное, чтобы узнать больше.</UIRethemedAnimals_PickAnimal>
+  <UIRethemedAnimals_KindAge>{0}, {1}</UIRethemedAnimals_KindAge>
+  <UIRethemedAnimals_HealthTip>Насколько это животное близко к полному здоровью.</UIRethemedAnimals_HealthTip>
+  <UIRethemedAnimals_MasterTip>Щёлкните, чтобы выбрать, за кем следует это животное.</UIRethemedAnimals_MasterTip>
+  <UIRethemedAnimals_Card_Condition>Состояние</UIRethemedAnimals_Card_Condition>
+  <UIRethemedAnimals_Card_Production>Продукция</UIRethemedAnimals_Card_Production>
+  <UIRethemedAnimals_Card_Training>Дрессировка</UIRethemedAnimals_Card_Training>
+  <UIRethemedAnimals_Card_Orders>Уход и приказы</UIRethemedAnimals_Card_Orders>
+  <UIRethemedAnimals_Card_Bonds>Узы</UIRethemedAnimals_Card_Bonds>
+  <UIRethemedAnimals_Card_Worth>Содержание и стоимость</UIRethemedAnimals_Card_Worth>
+  <UIRethemedAnimals_StepsShort>{0}/{1}</UIRethemedAnimals_StepsShort>
+  <UIRethemedAnimals_Stat_NutritionOne>Питательности в день</UIRethemedAnimals_Stat_NutritionOne>
+  <UIRethemedAnimals_Stat_NutritionOneTip>Сколько питательности это животное съедает за день при текущем темпе голода.</UIRethemedAnimals_Stat_NutritionOneTip>
+  <UIRethemedAnimals_Stat_ValueOne>Рыночная стоимость</UIRethemedAnimals_Stat_ValueOne>
+  <UIRethemedAnimals_Stat_ValueOneTip>Сколько стоит это животное.</UIRethemedAnimals_Stat_ValueOneTip>
+
+  <UIRethemedAnimals_SlaughterSearchHint>Поиск среди всех животных...</UIRethemedAnimals_SlaughterSearchHint>
+  <UIRethemedAnimals_Going>На забой</UIRethemedAnimals_Going>
+  <UIRethemedAnimals_GoingTip>Сколько сверх лимита — их забьют, когда освободится дрессировщик.</UIRethemedAnimals_GoingTip>
+  <UIRethemedAnimals_GoingList>Следующие на забой: {0}</UIRethemedAnimals_GoingList>
+  <UIRethemedAnimals_NoLimitsShown>Нечего показать. Выключите «Только имеющиеся животные» или найдите нужное поиском.</UIRethemedAnimals_NoLimitsShown>
+  <UIRethemedAnimals_ClearLimit>Убрать этот лимит</UIRethemedAnimals_ClearLimit>
+  <UIRethemedAnimals_OnlyOwned>Только имеющиеся животные</UIRethemedAnimals_OnlyOwned>
+  <UIRethemedAnimals_OnlyOwnedTip>Показывать только животных, которые есть у колонии здесь или для которых заданы лимиты. Поиск по-прежнему находит любых животных.</UIRethemedAnimals_OnlyOwnedTip>
+  <UIRethemedAnimals_ClearLimits>Сбросить лимиты</UIRethemedAnimals_ClearLimits>
+  <UIRethemedAnimals_ClearLimitsTip>Убрать все лимиты на этой карте.</UIRethemedAnimals_ClearLimitsTip>
+  <UIRethemedAnimals_ClearLimitsConfirm>Убрать все лимиты автозабоя на этой карте?</UIRethemedAnimals_ClearLimitsConfirm>
+  <UIRethemedAnimals_NoLimitsTip>На этой карте лимиты не заданы.</UIRethemedAnimals_NoLimitsTip>
+
+  <UIRethemedAnimals_NoAreas>Зон пока нет. Создайте зону кнопкой «Новая зона».</UIRethemedAnimals_NoAreas>
+  <UIRethemedAnimals_NewAreaTip>Добавить пустую зону, готовую к рисованию на карте.</UIRethemedAnimals_NewAreaTip>
+  <UIRethemedAnimals_AreaColour>Сменить цвет</UIRethemedAnimals_AreaColour>
+  <UIRethemedAnimals_AreaColourTip>Выберите цвет, которым отображается эта зона.</UIRethemedAnimals_AreaColourTip>
+  <UIRethemedAnimals_AreaExpandTip>Нарисовать больше этой зоны на карте.</UIRethemedAnimals_AreaExpandTip>
+  <UIRethemedAnimals_AreaShrinkTip>Стереть части этой зоны на карте.</UIRethemedAnimals_AreaShrinkTip>
+  <UIRethemedAnimals_AreaInvertTip>Поменять местами то, что внутри зоны, и то, что вне её, по всей карте.</UIRethemedAnimals_AreaInvertTip>
+  <UIRethemedAnimals_AreaRenameTip>Дать этой зоне новое название.</UIRethemedAnimals_AreaRenameTip>
+  <UIRethemedAnimals_AreaCopyTip>Создать новую зону на тех же клетках.</UIRethemedAnimals_AreaCopyTip>
+  <UIRethemedAnimals_AreaDeleteTip>Удалить эту зону. Поселенцы и животные, ограниченные ею, станут неограниченными.</UIRethemedAnimals_AreaDeleteTip>
+
+  <UIRethemedAnimals_Settings_Parts>Что оформлять</UIRethemedAnimals_Settings_Parts>
+  <UIRethemedAnimals_Settings_AnimalsTab>Вкладка «Питомцы»</UIRethemedAnimals_Settings_AnimalsTab>
+  <UIRethemedAnimals_Settings_AnimalsTabTip>Показывать оформленную вкладку «Питомцы» вместо игровой.</UIRethemedAnimals_Settings_AnimalsTabTip>
+  <UIRethemedAnimals_Settings_Replaced>{0} использует собственное окно животных, поэтому оформленная вкладка ему не мешает.</UIRethemedAnimals_Settings_Replaced>
+  <UIRethemedAnimals_Settings_ThemedWindows>Оформленные окна</UIRethemedAnimals_Settings_ThemedWindows>
+  <UIRethemedAnimals_Settings_ThemedWindowsTip>Показывать окна управления зонами, автозабоя и переименования в стиле темы. Если мод меняет одно из них, остаётся игровое окно.</UIRethemedAnimals_Settings_ThemedWindowsTip>
+  <UIRethemedAnimals_Settings_Width>Ширина окна: {0}</UIRethemedAnimals_Settings_Width>
+  <UIRethemedAnimals_Settings_WidthTip>Ширина вкладки. Она никогда не шире экрана.</UIRethemedAnimals_Settings_WidthTip>
+  <UIRethemedAnimals_Settings_Height>Высота окна: {0}</UIRethemedAnimals_Settings_Height>
+  <UIRethemedAnimals_Settings_HeightTip>Высота вкладки. Она никогда не выше экрана.</UIRethemedAnimals_Settings_HeightTip>
+  <UIRethemedAnimals_Settings_Filters>Фильтры</UIRethemedAnimals_Settings_Filters>
+  <UIRethemedAnimals_Settings_FiltersTip>Показывать фильтры слева. Они скрываются сами, если окно слишком узкое.</UIRethemedAnimals_Settings_FiltersTip>
+  <UIRethemedAnimals_Settings_Details>Подробности</UIRethemedAnimals_Settings_Details>
+  <UIRethemedAnimals_Settings_DetailsTip>Показывать подробности о выбранном животном справа. Они скрываются сами, если окно слишком узкое.</UIRethemedAnimals_Settings_DetailsTip>
+  <UIRethemedAnimals_Settings_Style>Стиль</UIRethemedAnimals_Settings_Style>
+  <UIRethemedAnimals_Settings_Animations>Анимации</UIRethemedAnimals_Settings_Animations>
+  <UIRethemedAnimals_Settings_AnimationsTip>Плавная подсветка при наведении, плывущие соты и линия по заголовку при открытии вкладки.</UIRethemedAnimals_Settings_AnimationsTip>
+  <UIRethemedAnimals_Settings_SettingsGear>Шестерёнка настроек в заголовках</UIRethemedAnimals_Settings_SettingsGear>
+  <UIRethemedAnimals_Settings_SettingsGearTip>Показывать рядом с кнопкой закрытия шестерёнку, открывающую эти настройки.</UIRethemedAnimals_Settings_SettingsGearTip>
+
+  <UIRethemedAnimals_Columns>Столбцы</UIRethemedAnimals_Columns>
+  <UIRethemedAnimals_ColumnsHint>Все столбцы таблицы по порядку, включая добавленные модами. Перетащите их в нужном порядке или скройте ненужные. «Продукция» скрывается сама, пока ни одно животное здесь ничего не производит.</UIRethemedAnimals_ColumnsHint>
+  <UIRethemedAnimals_ResetColumns>Сбросить столбцы</UIRethemedAnimals_ResetColumns>
+  <UIRethemedAnimals_ResetColumnsTip>Вернуть все столбцы на их игровые места и показать все.</UIRethemedAnimals_ResetColumnsTip>
+  <UIRethemedAnimals_ResetColumnsConfirm>Вернуть все столбцы на их игровые места и показать все?</UIRethemedAnimals_ResetColumnsConfirm>
+  <UIRethemedAnimals_Show>Показать</UIRethemedAnimals_Show>
+  <UIRethemedAnimals_Hide>Скрыть</UIRethemedAnimals_Hide>
+  <UIRethemedAnimals_HideTip>Убрать этот столбец из таблицы.</UIRethemedAnimals_HideTip>
+  <UIRethemedAnimals_Drag>Перетащить</UIRethemedAnimals_Drag>
+  <UIRethemedAnimals_DragTip>Зажмите и тяните эту строку вверх или вниз по списку. Отпустите вне списка, чтобы оставить на месте.</UIRethemedAnimals_DragTip>
+  <UIRethemedAnimals_MoveUp>Выше</UIRethemedAnimals_MoveUp>
+  <UIRethemedAnimals_MoveUpTip>Ctrl+щелчок — в начало списка.</UIRethemedAnimals_MoveUpTip>
+  <UIRethemedAnimals_MoveDown>Ниже</UIRethemedAnimals_MoveDown>
+  <UIRethemedAnimals_MoveDownTip>Ctrl+щелчок — в конец списка.</UIRethemedAnimals_MoveDownTip>
+</LanguageData>

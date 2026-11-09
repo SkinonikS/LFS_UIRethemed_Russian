@@ -1,0 +1,348 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedWork_ModName>UI Rethemed - Работа</UIRethemedWork_ModName>
+  <UIRethemedWork_Title>Работа</UIRethemedWork_Title>
+  <UIRethemedWork_TabPart>Вкладка «Работа»</UIRethemedWork_TabPart>
+
+  <UIRethemedWork_ActOnAll>Изменить всех ({0})</UIRethemedWork_ActOnAll>
+  <UIRethemedWork_ActOnOne>Изменить: {0}</UIRethemedWork_ActOnOne>
+  <UIRethemedWork_ActOnPicked>Изменить выбранных ({0})</UIRethemedWork_ActOnPicked>
+  <UIRethemedWork_ActOnShown>Изменить всех показанных ({0})</UIRethemedWork_ActOnShown>
+  <UIRethemedWork_Bulk_Auto>Автоназначение</UIRethemedWork_Bulk_Auto>
+  <UIRethemedWork_Bulk_AutoTip>Дать каждому наиболее подходящий ему шаблон по навыкам и интересам, распределяя работу так, чтобы колония не состояла из одних поваров. Ваши собственные шаблоны тоже учитываются.</UIRethemedWork_Bulk_AutoTip>
+  <UIRethemedWork_Bulk_Priorities>Приоритеты</UIRethemedWork_Bulk_Priorities>
+  <UIRethemedWork_Bulk_PrioritiesTip>Сдвинуть все работы на шаг раньше или позже, вернуть их к шаблонам, вставить скопированные приоритеты или выключить всё.</UIRethemedWork_Bulk_PrioritiesTip>
+  <UIRethemedWork_Bulk_Template>Шаблон</UIRethemedWork_Bulk_Template>
+  <UIRethemedWork_Bulk_TemplateTip>Дать им шаблон: каждая доступная им работа получит его приоритет.</UIRethemedWork_Bulk_TemplateTip>
+  <UIRethemedWork_BulkNoneTip>Никого не показано для изменения.</UIRethemedWork_BulkNoneTip>
+  <UIRethemedWork_BulkTip>Кого меняют кнопки рядом: выбранных поселенцев или, если никто не выбран, всех показанных. Щёлкайте по строкам, чтобы выбрать (Ctrl добавляет или убирает одного, Shift — диапазон), или сузьте список фильтрами.</UIRethemedWork_BulkTip>
+  <UIRethemedWork_ClearPicked>Снять выбор</UIRethemedWork_ClearPicked>
+  <UIRethemedWork_ClearPickedTip>Снять выбор со всех, чтобы панель снова меняла всех показанных.</UIRethemedWork_ClearPickedTip>
+  <UIRethemedWork_MenuColonists>поселенцев: {0}</UIRethemedWork_MenuColonists>
+
+  <UIRethemedWork_AutoDone>Автоназначение выдало шаблоны поселенцам ({0}): {1}.</UIRethemedWork_AutoDone>
+  <UIRethemedWork_AutoGave>{0}: {1}</UIRethemedWork_AutoGave>
+  <UIRethemedWork_AutoNoFit>Ни одному из них не подходит ни один шаблон, доступный автоназначению.</UIRethemedWork_AutoNoFit>
+  <UIRethemedWork_AutoNoTemplates>Нет шаблонов, доступных автоназначению. Включите у одного «Доступен автоназначению» или покажите скрытый.</UIRethemedWork_AutoNoTemplates>
+  <UIRethemedWork_AutoNote>Наиболее подходящий им шаблон</UIRethemedWork_AutoNote>
+
+  <UIRethemedWork_BoxControls>ЛКМ: раньше (1 выполняется первым). ПКМ: позже.\nВведите от 1 до {0}, чтобы задать, 0 — выключить. Ctrl и колесо меняют по шагу.\nПротяните по ячейкам, чтобы перенести на них этот приоритет.</UIRethemedWork_BoxControls>
+  <UIRethemedWork_BoxControlsTicks>Щёлкните, чтобы включить или выключить. Протяните по ячейкам, чтобы закрасить.\nРучные приоритеты выключены, поэтому всё включённое выполняется в игровом порядке. Ввод от 1 до {0} по-прежнему задаёт число на случай, если их снова включат.</UIRethemedWork_BoxControlsTicks>
+  <UIRethemedWork_BoxTogether>Этот поселенец выбран, поэтому все выбранные поселенцы ({0}) меняются вместе.</UIRethemedWork_BoxTogether>
+  <UIRethemedWork_CannotTitle>{0}: не может</UIRethemedWork_CannotTitle>
+  <UIRethemedWork_Off>Выкл.</UIRethemedWork_Off>
+  <UIRethemedWork_On>Вкл.</UIRethemedWork_On>
+  <UIRethemedWork_PassionMajor>сильный интерес</UIRethemedWork_PassionMajor>
+  <UIRethemedWork_PassionMinor>интерес</UIRethemedWork_PassionMinor>
+  <UIRethemedWork_PriorityN>Приоритет {0}</UIRethemedWork_PriorityN>
+
+  <UIRethemedWork_ColonistCount>Поселенцев: {0}</UIRethemedWork_ColonistCount>
+  <UIRethemedWork_Colonists>Поселенцы</UIRethemedWork_Colonists>
+  <UIRethemedWork_GroupCellTip>Включено у {0} из {1} в группе «{2}», кто может это делать.\n\nЩёлкните, чтобы задать для всех них.</UIRethemedWork_GroupCellTip>
+  <UIRethemedWork_GroupChanged>Изменено: {0}</UIRethemedWork_GroupChanged>
+  <UIRethemedWork_GroupCount>{0}</UIRethemedWork_GroupCount>
+  <UIRethemedWork_GroupRowTip>Щёлкните, чтобы свернуть или развернуть. Галочка выбирает всех в группе; счётчик работы задаёт её для всех них.</UIRethemedWork_GroupRowTip>
+  <UIRethemedWork_HeadBest>Лучший: {0} ({1} из 20)</UIRethemedWork_HeadBest>
+  <UIRethemedWork_HeadControls>Щёлкните, чтобы сортировать по её приоритету, ещё раз — перевернуть. ПКМ — задать её для всех выбранных или показанных либо сортировать по навыку.</UIRethemedWork_HeadControls>
+  <UIRethemedWork_HeadCovered>Включено у {0} из {1}, кто может это делать.</UIRethemedWork_HeadCovered>
+  <UIRethemedWork_HeadNobodyCan>Никто из списка не может это делать.</UIRethemedWork_HeadNobodyCan>
+  <UIRethemedWork_HeadUncovered>Ни у кого не включено, хотя могли бы: {0}.</UIRethemedWork_HeadUncovered>
+  <UIRethemedWork_Name>Имя</UIRethemedWork_Name>
+  <UIRethemedWork_NoColonists>Нет поселенцев, которым можно дать работу.</UIRethemedWork_NoColonists>
+  <UIRethemedWork_NoneShown>Никто не подходит под поиск и фильтры.</UIRethemedWork_NoneShown>
+  <UIRethemedWork_PickGroup>Выбрать всех в группе</UIRethemedWork_PickGroup>
+  <UIRethemedWork_PickGroupTip>Выбрать их всех для панели под списком или снять выбор, если все уже выбраны.</UIRethemedWork_PickGroupTip>
+  <UIRethemedWork_RowTip>Щёлкните, чтобы выбрать для панели под списком: Ctrl добавляет или убирает одного, Shift — диапазон. Двойной щелчок — перейти к нему, ПКМ — другие действия.</UIRethemedWork_RowTip>
+  <UIRethemedWork_ShownOf>Показано {0} из {1}</UIRethemedWork_ShownOf>
+  <UIRethemedWork_SortNameTip>Сортировать по имени, ещё раз — перевернуть.</UIRethemedWork_SortNameTip>
+  <UIRethemedWork_TagChangedTip>{0} получил(а) шаблон «{1}», но приоритеты с тех пор изменились. Щёлкните, чтобы вернуть шаблон.</UIRethemedWork_TagChangedTip>
+  <UIRethemedWork_TagFollowsTip>{0} следует шаблону «{1}». Измените его справа — и приоритеты изменятся вместе с ним.</UIRethemedWork_TagFollowsTip>
+
+  <UIRethemedWork_BackToTemplate>Вернуть к «{0}»</UIRethemedWork_BackToTemplate>
+  <UIRethemedWork_BackToTemplates>Вернуть к их шаблонам</UIRethemedWork_BackToTemplates>
+  <UIRethemedWork_BackToTemplatesNote>Изменились после получения шаблона: {0}</UIRethemedWork_BackToTemplatesNote>
+  <UIRethemedWork_Copy>Копировать приоритеты</UIRethemedWork_Copy>
+  <UIRethemedWork_CopyNote>Скопировать приоритеты ({0}), чтобы вставить другим</UIRethemedWork_CopyNote>
+  <UIRethemedWork_EveryMinusOne>Все работы -1</UIRethemedWork_EveryMinusOne>
+  <UIRethemedWork_EveryOff>Выключить все работы</UIRethemedWork_EveryOff>
+  <UIRethemedWork_EveryOffNote>Ничего не будут делать, пока вы снова не включите работу</UIRethemedWork_EveryOffNote>
+  <UIRethemedWork_EveryPlusOne>Все работы +1</UIRethemedWork_EveryPlusOne>
+  <UIRethemedWork_GiveTemplateNote>Каждая доступная им работа получит приоритет из шаблона</UIRethemedWork_GiveTemplateNote>
+  <UIRethemedWork_Hide>Скрыть: {0}</UIRethemedWork_Hide>
+  <UIRethemedWork_HideNote>Убрать из списка, пока вы не вернёте</UIRethemedWork_HideNote>
+  <UIRethemedWork_InfoCard>Информационная карточка</UIRethemedWork_InfoCard>
+  <UIRethemedWork_Locate>Перейти к нему</UIRethemedWork_Locate>
+  <UIRethemedWork_Menu_CanDo>Могут: {0} из {1}</UIRethemedWork_Menu_CanDo>
+  <UIRethemedWork_Menu_Clipboard>Скопированные приоритеты</UIRethemedWork_Menu_Clipboard>
+  <UIRethemedWork_Menu_EveryJob>Все работы</UIRethemedWork_Menu_EveryJob>
+  <UIRethemedWork_Menu_List>Список</UIRethemedWork_Menu_List>
+  <UIRethemedWork_Menu_SetTo>Задать</UIRethemedWork_Menu_SetTo>
+  <UIRethemedWork_Menu_Sort>Сортировка</UIRethemedWork_Menu_Sort>
+  <UIRethemedWork_Menu_Step>На шаг</UIRethemedWork_Menu_Step>
+  <UIRethemedWork_Menu_Templates>Шаблоны</UIRethemedWork_Menu_Templates>
+  <UIRethemedWork_Menu_WorkFor>Работа: {0}</UIRethemedWork_Menu_WorkFor>
+  <UIRethemedWork_MinusOne>Приоритет -1</UIRethemedWork_MinusOne>
+  <UIRethemedWork_MinusOneNote>Раньше: 3 становится 2. Выключенное остаётся выключенным, 1 остаётся 1</UIRethemedWork_MinusOneNote>
+  <UIRethemedWork_NewFromColonist>Новый шаблон из этих</UIRethemedWork_NewFromColonist>
+  <UIRethemedWork_NewFromColonistNote>Шаблон из текущих приоритетов ({0})</UIRethemedWork_NewFromColonistNote>
+  <UIRethemedWork_NobodyCan>Никто из них не может делать «{0}».</UIRethemedWork_NobodyCan>
+  <UIRethemedWork_NoneChanged>Здесь никто не менялся после получения шаблона.</UIRethemedWork_NoneChanged>
+  <UIRethemedWork_Paste>Вставить приоритеты</UIRethemedWork_Paste>
+  <UIRethemedWork_PasteNote>Скопированные приоритеты — для: {0}</UIRethemedWork_PasteNote>
+  <UIRethemedWork_PasteNothing>Сначала скопируйте чьи-нибудь приоритеты из меню его строки</UIRethemedWork_PasteNothing>
+  <UIRethemedWork_PlusOne>Приоритет +1</UIRethemedWork_PlusOne>
+  <UIRethemedWork_PlusOneNote>Позже: 2 становится 3. Выключенное остаётся выключенным, последний остаётся последним</UIRethemedWork_PlusOneNote>
+  <UIRethemedWork_ShowOnly>Показать только: {0}</UIRethemedWork_ShowOnly>
+  <UIRethemedWork_ShowOnlyNote>Скрыть всех остальных, пока вы их не вернёте</UIRethemedWork_ShowOnlyNote>
+  <UIRethemedWork_TakeOff>Снять их шаблоны</UIRethemedWork_TakeOff>
+  <UIRethemedWork_TakeOffNote>Их приоритеты останутся как есть</UIRethemedWork_TakeOffNote>
+
+  <UIRethemedWork_ManualOffTip>Выкл.: всё включённое у поселенца выполняется в игровом порядке, слева направо. Щёлкните, чтобы упорядочить работу каждого поселенца по числам — от 1 (первым) до {0}.</UIRethemedWork_ManualOffTip>
+  <UIRethemedWork_ManualOnTip>Вкл.: работа каждого поселенца упорядочена по числам — 1 первым, {0} последним; работы с одинаковым числом идут слева направо. Щёлкните, чтобы выключить.</UIRethemedWork_ManualOnTip>
+  <UIRethemedWork_Search>Поиск</UIRethemedWork_Search>
+  <UIRethemedWork_SearchFound>Найдено: {0}</UIRethemedWork_SearchFound>
+  <UIRethemedWork_SearchHint>Поиск поселенцев...</UIRethemedWork_SearchHint>
+  <UIRethemedWork_SearchTip>Находит поселенцев по имени или шаблону.</UIRethemedWork_SearchTip>
+  <UIRethemedWork_Stat_Changed>Изменены вручную</UIRethemedWork_Stat_Changed>
+  <UIRethemedWork_Stat_ChangedTip>Поселенцы, чьи приоритеты изменились после получения шаблона. Их метка жёлтая; щёлкните по ней, чтобы вернуть шаблон.</UIRethemedWork_Stat_ChangedTip>
+  <UIRethemedWork_Stat_Colonists>Поселенцы</UIRethemedWork_Stat_Colonists>
+  <UIRethemedWork_Stat_ColonistsTip>Все, кого показывает вкладка «Работа», включая скрытых.</UIRethemedWork_Stat_ColonistsTip>
+  <UIRethemedWork_Stat_Templates>С шаблоном</UIRethemedWork_Stat_Templates>
+  <UIRethemedWork_Stat_TemplatesTip>Поселенцы, получившие шаблон.</UIRethemedWork_Stat_TemplatesTip>
+  <UIRethemedWork_Stat_Uncovered>Никто не делает</UIRethemedWork_Stat_Uncovered>
+  <UIRethemedWork_Stat_UncoveredNone>Каждая работа, которую кто-то может делать, у кого-то включена.</UIRethemedWork_Stat_UncoveredNone>
+  <UIRethemedWork_Stat_UncoveredTip>Работы, которые кто-то мог бы делать, но ни у кого не включены:\n{0}\n\nИх заголовки подчёркнуты красным.</UIRethemedWork_Stat_UncoveredTip>
+
+  <UIRethemedWork_GroupBy_Kind>Тип</UIRethemedWork_GroupBy_Kind>
+  <UIRethemedWork_GroupBy_None>Без групп</UIRethemedWork_GroupBy_None>
+  <UIRethemedWork_GroupBy_Role>Шаблон</UIRethemedWork_GroupBy_Role>
+  <UIRethemedWork_GroupByTip>По чему группируются поселенцы в списке.</UIRethemedWork_GroupByTip>
+  <UIRethemedWork_Sort_JobPriority>{0}: приоритет</UIRethemedWork_Sort_JobPriority>
+  <UIRethemedWork_Sort_JobPriorityTip>Сначала те, кто делает «{0}» раньше всех, затем те, у кого это выключено, затем те, кто не может.</UIRethemedWork_Sort_JobPriorityTip>
+  <UIRethemedWork_Sort_Jobs>Включённых работ</UIRethemedWork_Sort_Jobs>
+  <UIRethemedWork_Sort_JobSkill>{0}: навык</UIRethemedWork_Sort_JobSkill>
+  <UIRethemedWork_Sort_JobSkillTip>Сначала лучшие в «{0}».</UIRethemedWork_Sort_JobSkillTip>
+  <UIRethemedWork_Sort_JobsTip>Сначала те, у кого включено больше всего работ.</UIRethemedWork_Sort_JobsTip>
+  <UIRethemedWork_Sort_Name>Имя</UIRethemedWork_Sort_Name>
+  <UIRethemedWork_Sort_Role>Шаблон</UIRethemedWork_Sort_Role>
+  <UIRethemedWork_Sort_Usual>Обычный порядок</UIRethemedWork_Sort_Usual>
+  <UIRethemedWork_Sort_UsualTip>Как на панели поселенцев.</UIRethemedWork_Sort_UsualTip>
+  <UIRethemedWork_SortButtonTip>Сортировка: {0}, {1}; группировка: {2}. Щёлкните по заголовку работы, чтобы сортировать по ней.</UIRethemedWork_SortButtonTip>
+  <UIRethemedWork_SortMenu>Сортировка поселенцев</UIRethemedWork_SortMenu>
+
+  <UIRethemedWork_Chip_Changed>Изменены</UIRethemedWork_Chip_Changed>
+  <UIRethemedWork_Chip_ChangedTip>Поселенцы, чьи приоритеты изменились после получения шаблона.</UIRethemedWork_Chip_ChangedTip>
+  <UIRethemedWork_Chip_NoTemplate>Без шаблона</UIRethemedWork_Chip_NoTemplate>
+  <UIRethemedWork_Chip_NoTemplateTip>Поселенцы, не получившие шаблон.</UIRethemedWork_Chip_NoTemplateTip>
+  <UIRethemedWork_Chip_PickedOnly>Только выбранные</UIRethemedWork_Chip_PickedOnly>
+  <UIRethemedWork_Chip_PickedOnlyTip>Показывать только выбранных поселенцев, чтобы работать с несколькими сразу.</UIRethemedWork_Chip_PickedOnlyTip>
+  <UIRethemedWork_Chip_ShowHidden>Показать скрытых</UIRethemedWork_Chip_ShowHidden>
+  <UIRethemedWork_Chip_ShowHiddenTip>Временно показать скрытых вами поселенцев, не возвращая их насовсем.</UIRethemedWork_Chip_ShowHiddenTip>
+  <UIRethemedWork_Filters>Фильтры</UIRethemedWork_Filters>
+  <UIRethemedWork_Group_Focus>Фокус</UIRethemedWork_Group_Focus>
+  <UIRethemedWork_Group_Kinds>Тип</UIRethemedWork_Group_Kinds>
+  <UIRethemedWork_Group_Templates>Шаблон</UIRethemedWork_Group_Templates>
+  <UIRethemedWork_Kind_Colonist>Поселенцы</UIRethemedWork_Kind_Colonist>
+  <UIRethemedWork_Kind_ColonistTip>Ваши поселенцы.</UIRethemedWork_Kind_ColonistTip>
+  <UIRethemedWork_Kind_Guest>Гости</UIRethemedWork_Kind_Guest>
+  <UIRethemedWork_Kind_GuestTip>Люди, остановившиеся у вас по заданию и работающие, пока они здесь.</UIRethemedWork_Kind_GuestTip>
+  <UIRethemedWork_Kind_Slave>Рабы</UIRethemedWork_Kind_Slave>
+  <UIRethemedWork_Kind_SlaveTip>Ваши рабы.</UIRethemedWork_Kind_SlaveTip>
+  <UIRethemedWork_NoTemplate>Без шаблона</UIRethemedWork_NoTemplate>
+  <UIRethemedWork_ResetFilters>Сбросить фильтры</UIRethemedWork_ResetFilters>
+  <UIRethemedWork_ResetFiltersTip>Очистить поиск и все фильтры и вернуть всех скрытых.</UIRethemedWork_ResetFiltersTip>
+  <UIRethemedWork_TemplateChipTip>Поселенцы с шаблоном «{0}».</UIRethemedWork_TemplateChipTip>
+  <UIRethemedWork_Unhide>Вернуть скрытых ({0})</UIRethemedWork_Unhide>
+  <UIRethemedWork_UnhideTip>Снова показать всех скрытых вами.</UIRethemedWork_UnhideTip>
+
+  <UIRethemedWork_CopyOf>{0} (копия)</UIRethemedWork_CopyOf>
+  <UIRethemedWork_Delete>Удалить</UIRethemedWork_Delete>
+  <UIRethemedWork_DeleteConfirm>Удалить шаблон «{0}»? Поселенцы с ним сохранят свои приоритеты.</UIRethemedWork_DeleteConfirm>
+  <UIRethemedWork_DeleteTip>Удалить этот ваш шаблон. Поселенцы с ним сохранят свои приоритеты.</UIRethemedWork_DeleteTip>
+  <UIRethemedWork_Duplicate>Дублировать</UIRethemedWork_Duplicate>
+  <UIRethemedWork_DuplicateTip>Создать свой шаблон на основе этого.</UIRethemedWork_DuplicateTip>
+  <UIRethemedWork_Edit>Изменить</UIRethemedWork_Edit>
+  <UIRethemedWork_EditTip>Изменить название, значок и приоритеты. Поселенцы, всё ещё следующие ему, изменятся вместе с ним.</UIRethemedWork_EditTip>
+  <UIRethemedWork_FitMany>Подходит им в среднем на {0}</UIRethemedWork_FitMany>
+  <UIRethemedWork_FitMore>и ещё {0}</UIRethemedWork_FitMore>
+  <UIRethemedWork_FitOne>Подходит на {0}</UIRethemedWork_FitOne>
+  <UIRethemedWork_FitTip>Насколько {0} подходит шаблону «{1}»: {2}. Это навык в работах, которые шаблон ставит первыми, больше при интересе, и минус за каждую его работу, которую поселенец делать не может. Автоназначение даёт каждому поселенцу наиболее подходящий шаблон.</UIRethemedWork_FitTip>
+  <UIRethemedWork_GiveTo>Дать: {0}</UIRethemedWork_GiveTo>
+  <UIRethemedWork_GiveToTip>Дать шаблон «{0}» для: {1} — каждая доступная работа получит его приоритет.</UIRethemedWork_GiveToTip>
+  <UIRethemedWork_HideTemplate>Скрыть</UIRethemedWork_HideTemplate>
+  <UIRethemedWork_HideTemplateTip>Скрыть из меню и автоназначения. Он остаётся здесь, блёклым, чтобы его можно было снова показать.</UIRethemedWork_HideTemplateTip>
+  <UIRethemedWork_NewTemplate>Новый шаблон</UIRethemedWork_NewTemplate>
+  <UIRethemedWork_NewTemplateName>Новый шаблон</UIRethemedWork_NewTemplateName>
+  <UIRethemedWork_NewTemplateTip>Создать свой шаблон. Ваши шаблоны хранятся в настройках мода, поэтому доступны в каждой игре.</UIRethemedWork_NewTemplateTip>
+  <UIRethemedWork_NoTemplates>Шаблонов нет. Создайте шаблон кнопкой + выше.</UIRethemedWork_NoTemplates>
+  <UIRethemedWork_ResetConfirm>Вернуть шаблон «{0}» к исходному виду? Ваши изменения в нём будут потеряны.</UIRethemedWork_ResetConfirm>
+  <UIRethemedWork_ResetTemplate>Сбросить</UIRethemedWork_ResetTemplate>
+  <UIRethemedWork_ResetTemplateNoneTip>Он в исходном виде: сбрасывать нечего.</UIRethemedWork_ResetTemplateNoneTip>
+  <UIRethemedWork_ResetTemplateTip>Вернуть к исходному виду, потеряв ваши изменения.</UIRethemedWork_ResetTemplateTip>
+  <UIRethemedWork_ShowTemplate>Показать</UIRethemedWork_ShowTemplate>
+  <UIRethemedWork_ShowTemplateTip>Снова показывать в меню и для автоназначения.</UIRethemedWork_ShowTemplateTip>
+  <UIRethemedWork_TemplateCardTip>Щёлкните, чтобы увидеть его работы, кому он подходит и что с ним можно сделать.</UIRethemedWork_TemplateCardTip>
+  <UIRethemedWork_TemplateFits>Насколько подходит ({0})</UIRethemedWork_TemplateFits>
+  <UIRethemedWork_TemplateHidden>Скрыт</UIRethemedWork_TemplateHidden>
+  <UIRethemedWork_TemplateJobs>Его работы, первые сверху</UIRethemedWork_TemplateJobs>
+  <UIRethemedWork_TemplateNoJobs>Ничего не включает.</UIRethemedWork_TemplateNoJobs>
+  <UIRethemedWork_TemplateOf>Работа: {0}</UIRethemedWork_TemplateOf>
+  <UIRethemedWork_Templates>Шаблоны</UIRethemedWork_Templates>
+  <UIRethemedWork_Unnamed>Без названия</UIRethemedWork_Unnamed>
+
+  <UIRethemedWork_AutoAllowed>Доступен автоназначению</UIRethemedWork_AutoAllowed>
+  <UIRethemedWork_AutoAllowedTip>Может ли автоназначение давать поселенцам этот шаблон. Выключите для шаблона, который вы даёте только вручную, например запасного для всех.</UIRethemedWork_AutoAllowedTip>
+  <UIRethemedWork_CancelTip>Закрыть, ничего не сохраняя.</UIRethemedWork_CancelTip>
+  <UIRethemedWork_CopyFrom>Как у: {0}</UIRethemedWork_CopyFrom>
+  <UIRethemedWork_CopyFromTip>Задать каждой работе текущий приоритет ({0}).</UIRethemedWork_CopyFromTip>
+  <UIRethemedWork_EditorHint>1 выполняется первым, {0} — последним; работы с одинаковым числом идут в игровом порядке, здесь — сверху вниз.</UIRethemedWork_EditorHint>
+  <UIRethemedWork_EditTemplateTitle>Изменить шаблон</UIRethemedWork_EditTemplateTitle>
+  <UIRethemedWork_NewTemplateTitle>Новый шаблон</UIRethemedWork_NewTemplateTitle>
+  <UIRethemedWork_Save>Сохранить</UIRethemedWork_Save>
+  <UIRethemedWork_SaveNoName>Сначала дайте ему название.</UIRethemedWork_SaveNoName>
+  <UIRethemedWork_SaveTip>Сохранить. Поселенцы, всё ещё точно следовавшие ему, изменятся вместе с ним; изменённые вручную сохранят свои приоритеты.</UIRethemedWork_SaveTip>
+  <UIRethemedWork_TemplateDescriptionHint>Описание в одну строку (необязательно)</UIRethemedWork_TemplateDescriptionHint>
+  <UIRethemedWork_TemplateIcon>Значок</UIRethemedWork_TemplateIcon>
+  <UIRethemedWork_TemplateIconTip>Щёлкните, чтобы выбрать другой.</UIRethemedWork_TemplateIconTip>
+  <UIRethemedWork_TemplateNameHint>Название</UIRethemedWork_TemplateNameHint>
+
+  <UIRethemedWork_Settings_DefaultPriority>Приоритет по умолчанию: {0}</UIRethemedWork_Settings_DefaultPriority>
+  <UIRethemedWork_Settings_DefaultPriorityTip>Какой приоритет получает работа при включении щелчком и с какого начинается работа нового поселенца. В игре — 3 из 4.</UIRethemedWork_Settings_DefaultPriorityTip>
+  <UIRethemedWork_Settings_Filters>Панель фильтров</UIRethemedWork_Settings_Filters>
+  <UIRethemedWork_Settings_FiltersTip>Показывать фильтры слева во вкладке. Панель сама скрывается, если окно слишком узкое.</UIRethemedWork_Settings_FiltersTip>
+  <UIRethemedWork_Settings_MaxPriority>Самый низкий приоритет: {0}</UIRethemedWork_Settings_MaxPriority>
+  <UIRethemedWork_Settings_MaxPriorityTip>Сколько всего приоритетов — от стандартных 4 до {0}. При изменении все поселенцы в текущей игре переводятся на новую шкалу с сохранением порядка: 4 из 4 становится 9 из 9. Сохранения с другой шкалой переводятся при загрузке.</UIRethemedWork_Settings_MaxPriorityTip>
+  <UIRethemedWork_Settings_OtherMods>Игровую вкладку «Работа» изменяют другие моды: {0}. Тема остаётся включённой, поэтому то, что они туда добавляют, может в ней не отображаться. Выключите оформленную вкладку, чтобы увидеть игровую.</UIRethemedWork_Settings_OtherMods>
+  <UIRethemedWork_Settings_Priorities>Приоритеты</UIRethemedWork_Settings_Priorities>
+  <UIRethemedWork_Settings_StyleInCore>Анимации и шестерёнка настроек находятся в настройках UI Rethemed - Ядро.</UIRethemedWork_Settings_StyleInCore>
+  <UIRethemedWork_Settings_StyleInCoreTip>Они общие для всех модов UI Rethemed, построенных на Ядре, поэтому задаются в одном месте.</UIRethemedWork_Settings_StyleInCoreTip>
+  <UIRethemedWork_Settings_TabName>Вкладка «Работа»</UIRethemedWork_Settings_TabName>
+  <UIRethemedWork_Settings_Templates>Панель шаблонов</UIRethemedWork_Settings_Templates>
+  <UIRethemedWork_Settings_TemplatesTip>Показывать шаблоны справа во вкладке. Без неё они всё равно доступны в меню панели массовых действий.</UIRethemedWork_Settings_TemplatesTip>
+  <UIRethemedWork_Settings_WorkTab>Оформленная вкладка «Работа»</UIRethemedWork_Settings_WorkTab>
+  <UIRethemedWork_Settings_Crosshair>Перекрестье</UIRethemedWork_Settings_Crosshair>
+  <UIRethemedWork_Settings_CrosshairTip>Подсвечивать строку и столбец под курсором по всей таблице, чтобы было легко понять, чья это ячейка и какая работа.</UIRethemedWork_Settings_CrosshairTip>
+
+  <UIRethemedWork_Settings_PriorityColours>Цвета приоритетов</UIRethemedWork_Settings_PriorityColours>
+  <UIRethemedWork_Settings_PriorityColoursTip>Чем окрашиваются ячейки: приоритет 1 — цветом, переходящим в серый к последнему.</UIRethemedWork_Settings_PriorityColoursTip>
+  <UIRethemedWork_PriorityColours_Single>Один цвет</UIRethemedWork_PriorityColours_Single>
+  <UIRethemedWork_PriorityColours_SingleNote>Все работы с градиентом от высшего цвета к низшему, выбранных ниже</UIRethemedWork_PriorityColours_SingleNote>
+  <UIRethemedWork_PriorityColours_Column>Цвет столбца</UIRethemedWork_PriorityColours_Column>
+  <UIRethemedWork_PriorityColours_ColumnNote>Каждая работа — цветом своего столбца, ярче; где его нет — одним цветом</UIRethemedWork_PriorityColours_ColumnNote>
+  <UIRethemedWork_Settings_HighColour>Высший (приоритет 1)</UIRethemedWork_Settings_HighColour>
+  <UIRethemedWork_Settings_HighColourTip>Цвет приоритета 1 с градиентом к низшему цвету для последнего. Его получают все работы в режиме «Один цвет» и работы без цвета столбца в режиме «Цвет столбца».</UIRethemedWork_Settings_HighColourTip>
+  <UIRethemedWork_Settings_LowColour>Низший (приоритет {0})</UIRethemedWork_Settings_LowColour>
+  <UIRethemedWork_Settings_LowColourTip>Цвет последнего приоритета; все промежуточные идут градиентом от высшего к нему. Цвета столбцов тоже переходят в него.</UIRethemedWork_Settings_LowColourTip>
+  <UIRethemedWork_ThemeGreen>Зелёный темы</UIRethemedWork_ThemeGreen>
+  <UIRethemedWork_ThemeGray>Серый темы</UIRethemedWork_ThemeGray>
+  <UIRethemedWork_PickHighColour>Цвет высшего приоритета</UIRethemedWork_PickHighColour>
+  <UIRethemedWork_PickLowColour>Цвет низшего приоритета</UIRethemedWork_PickLowColour>
+  <UIRethemedWork_ResetColours>Сбросить цвета</UIRethemedWork_ResetColours>
+  <UIRethemedWork_ResetColoursTip>Вернуть высшему и низшему цветам зелёный и серый цвета темы.</UIRethemedWork_ResetColoursTip>
+  <UIRethemedWork_ResetColoursNone>Цвета уже зелёный и серый цвета темы.</UIRethemedWork_ResetColoursNone>
+  <UIRethemedWork_ResetColoursConfirm>Вернуть цветам высшего и низшего приоритета зелёный и серый цвета темы? Выбранные вами цвета будут потеряны.</UIRethemedWork_ResetColoursConfirm>
+  <UIRethemedWork_Settings_ConfirmBulk>Спрашивать перед массовыми изменениями</UIRethemedWork_Settings_ConfirmBulk>
+  <UIRethemedWork_Settings_ConfirmBulkTip>Спрашивать перед всем, что заменяет заданные вами приоритеты: выдача шаблона, автоназначение, вставка, возврат поселенцев к шаблонам, сдвиг или выключение всех работ и задание работы для нескольких поселенцев. Сбросы спрашивают всегда.</UIRethemedWork_Settings_ConfirmBulkTip>
+
+  <UIRethemedWork_ConfirmTemplate>Дать шаблон «{0}» для: {1}? Их текущие приоритеты будут заменены приоритетами шаблона.</UIRethemedWork_ConfirmTemplate>
+  <UIRethemedWork_ConfirmAuto>Автоназначение для: {0}? Каждый получит наиболее подходящий шаблон вместо текущих приоритетов.</UIRethemedWork_ConfirmAuto>
+  <UIRethemedWork_ConfirmBackToTemplate>Вернуть {0} к шаблону «{1}»? Изменённое с тех пор вручную будет потеряно.</UIRethemedWork_ConfirmBackToTemplate>
+  <UIRethemedWork_ConfirmBackToTemplates>Вернуть к шаблонам: {0}? Изменённое с тех пор вручную будет потеряно.</UIRethemedWork_ConfirmBackToTemplates>
+  <UIRethemedWork_ConfirmEverySooner>Сдвинуть все работы на шаг раньше для: {0}?</UIRethemedWork_ConfirmEverySooner>
+  <UIRethemedWork_ConfirmEveryLater>Сдвинуть все работы на шаг позже для: {0}?</UIRethemedWork_ConfirmEveryLater>
+  <UIRethemedWork_ConfirmEveryOff>Выключить все работы для: {0}? Их текущие приоритеты будут потеряны.</UIRethemedWork_ConfirmEveryOff>
+  <UIRethemedWork_ConfirmPaste>Вставить скопированные приоритеты для: {0}? Их текущие приоритеты будут заменены.</UIRethemedWork_ConfirmPaste>
+  <UIRethemedWork_ConfirmTakeOff>Снять шаблоны с: {0}? Их приоритеты останутся как есть.</UIRethemedWork_ConfirmTakeOff>
+  <UIRethemedWork_ConfirmSetJob>Задать «{0}» = {1} для: {2}?</UIRethemedWork_ConfirmSetJob>
+  <UIRethemedWork_ConfirmJobSooner>Сдвинуть «{0}» на шаг раньше для: {1}?</UIRethemedWork_ConfirmJobSooner>
+  <UIRethemedWork_ConfirmJobLater>Сдвинуть «{0}» на шаг позже для: {1}?</UIRethemedWork_ConfirmJobLater>
+
+  <UIRethemedWork_TemplateOwn>Ваш шаблон</UIRethemedWork_TemplateOwn>
+  <UIRethemedWork_TemplateBuiltIn>Поставляется с модом</UIRethemedWork_TemplateBuiltIn>
+  <UIRethemedWork_TrayOnIt>С ним</UIRethemedWork_TrayOnIt>
+  <UIRethemedWork_TrayOnItTip>Поселенцев с этим шаблоном: {0}.</UIRethemedWork_TrayOnItTip>
+  <UIRethemedWork_TrayChanged>Изменены вручную</UIRethemedWork_TrayChanged>
+  <UIRethemedWork_TrayChangedTip>{0} из них изменены вручную после получения шаблона. На их метке карандаш; щелчок по ней возвращает шаблон.</UIRethemedWork_TrayChangedTip>
+  <UIRethemedWork_TrayAuto>Автоназначение</UIRethemedWork_TrayAuto>
+  <UIRethemedWork_TrayAutoTip>Автоназначение может давать поселенцам этот шаблон.</UIRethemedWork_TrayAutoTip>
+  <UIRethemedWork_TrayJobs>Работы</UIRethemedWork_TrayJobs>
+  <UIRethemedWork_TrayJobsTip>Включает работ: {0}.</UIRethemedWork_TrayJobsTip>
+  <UIRethemedWork_TemplateColour>Цвет</UIRethemedWork_TemplateColour>
+  <UIRethemedWork_TemplateColourTip>Цвет карточки, меток и группы шаблона.</UIRethemedWork_TemplateColourTip>
+  <UIRethemedWork_PickTemplateColour>Цвет для: {0}</UIRethemedWork_PickTemplateColour>
+
+  <UIRethemedWork_PickIcon>Значок для: {0}</UIRethemedWork_PickIcon>
+  <UIRethemedWork_IconPage_Icons>Значки</UIRethemedWork_IconPage_Icons>
+  <UIRethemedWork_IconPage_IconsTip>Все значки UI Rethemed - Ядро.</UIRethemedWork_IconPage_IconsTip>
+  <UIRethemedWork_IconPage_Jobs>Работы и навыки</UIRethemedWork_IconPage_Jobs>
+  <UIRethemedWork_IconPage_JobsTip>Изображение любой работы или навыка, включая добавленные другими модами.</UIRethemedWork_IconPage_JobsTip>
+  <UIRethemedWork_IconPage_Buildings>Постройки</UIRethemedWork_IconPage_Buildings>
+  <UIRethemedWork_IconPage_BuildingsTip>Всё, что можно построить, в виде его изображения: плита для повара, исследовательский стол для учёного.</UIRethemedWork_IconPage_BuildingsTip>
+  <UIRethemedWork_IconSearchHint>Поиск значков...</UIRethemedWork_IconSearchHint>
+  <UIRethemedWork_IconSkill>{0} (навык)</UIRethemedWork_IconSkill>
+  <UIRethemedWork_NoIcons>Нет значков, подходящих под поиск.</UIRethemedWork_NoIcons>
+  <UIRethemedWork_UseDefaultIcon>По умолчанию</UIRethemedWork_UseDefaultIcon>
+  <UIRethemedWork_UseDefaultIconTip>Вернуть обычный значок.</UIRethemedWork_UseDefaultIconTip>
+  <UIRethemedWork_UseDefaultIconNone>Значок уже обычный.</UIRethemedWork_UseDefaultIconNone>
+
+  <UIRethemedWork_Settings_PrioritiesSummary>От 1 до {0}, новая работа — {1}</UIRethemedWork_Settings_PrioritiesSummary>
+  <UIRethemedWork_Settings_Colours>Цвета приоритетов</UIRethemedWork_Settings_Colours>
+  <UIRethemedWork_Settings_Table>Таблица</UIRethemedWork_Settings_Table>
+  <UIRethemedWork_Settings_Panels>Панели</UIRethemedWork_Settings_Panels>
+  <UIRethemedWork_Settings_PanelsSummary>Показано: {0} из {1}</UIRethemedWork_Settings_PanelsSummary>
+  <UIRethemedWork_Settings_Window>Окно</UIRethemedWork_Settings_Window>
+  <UIRethemedWork_Settings_WindowSummary>{0} × {1}</UIRethemedWork_Settings_WindowSummary>
+  <UIRethemedWork_Settings_Headings>Заголовки работ</UIRethemedWork_Settings_Headings>
+  <UIRethemedWork_Settings_HeadingsTip>Как показываются названия работ над их столбцами.</UIRethemedWork_Settings_HeadingsTip>
+  <UIRethemedWork_Headings_Classic>Классические</UIRethemedWork_Headings_Classic>
+  <UIRethemedWork_Headings_ClassicNote>Названия в две строки, как в игре</UIRethemedWork_Headings_ClassicNote>
+  <UIRethemedWork_Headings_Slanted>Наклонные</UIRethemedWork_Headings_Slanted>
+  <UIRethemedWork_Headings_SlantedNote>Названия, наклонённые вверх вправо</UIRethemedWork_Headings_SlantedNote>
+  <UIRethemedWork_Headings_Vertical>Вертикальные</UIRethemedWork_Headings_Vertical>
+  <UIRethemedWork_Headings_VerticalNote>Названия снизу вверх, самый компактный вариант</UIRethemedWork_Headings_VerticalNote>
+  <UIRethemedWork_Headings_Icons>Значки</UIRethemedWork_Headings_Icons>
+  <UIRethemedWork_Headings_IconsNote>Изображение каждой работы в большом квадрате, название при наведении</UIRethemedWork_Headings_IconsNote>
+
+  <UIRethemedWork_Columns>Столбцы</UIRethemedWork_Columns>
+  <UIRethemedWork_ColumnsHint>Работы во вкладке «Работа» слева направо. Перетаскивайте строку за ручку или стрелками, значком меняйте изображение, цветовым кругом окрашивайте столбец, а глазом скрывайте. Это меняет только место отображения работы: при одинаковом приоритете поселенцы всё равно выполняют работы в игровом порядке. Скрытые работы сохраняют приоритеты, и поселенцы продолжают их выполнять. Работы из других модов появляются здесь сами.</UIRethemedWork_ColumnsHint>
+  <UIRethemedWork_ResetColumns>Сбросить столбцы</UIRethemedWork_ResetColumns>
+  <UIRethemedWork_ResetColumnsTip>Вернуть все работы в игровой порядок, показанными, с собственными значками и без цвета.</UIRethemedWork_ResetColumnsTip>
+  <UIRethemedWork_ResetColumnsNone>Столбцы уже в игровом порядке, все показаны и без цвета.</UIRethemedWork_ResetColumnsNone>
+  <UIRethemedWork_ResetColumnsConfirm>Вернуть все работы в игровой порядок, показанными и без цвета? Ваш порядок, значки, цвета и скрытые работы будут потеряны.</UIRethemedWork_ResetColumnsConfirm>
+  <UIRethemedWork_Drag>Перетащить</UIRethemedWork_Drag>
+  <UIRethemedWork_DragTip>Зажмите, чтобы перетащить работу на другое место.</UIRethemedWork_DragTip>
+  <UIRethemedWork_MoveLeft>Левее</UIRethemedWork_MoveLeft>
+  <UIRethemedWork_MoveLeftTip>На одну позицию влево во вкладке. Ctrl+щелчок — в начало.</UIRethemedWork_MoveLeftTip>
+  <UIRethemedWork_MoveRight>Правее</UIRethemedWork_MoveRight>
+  <UIRethemedWork_MoveRightTip>На одну позицию вправо во вкладке. Ctrl+щелчок — в конец.</UIRethemedWork_MoveRightTip>
+  <UIRethemedWork_HideColumn>Скрыть</UIRethemedWork_HideColumn>
+  <UIRethemedWork_ShowColumn>Показать</UIRethemedWork_ShowColumn>
+  <UIRethemedWork_ChangeJobIcon>Сменить значок</UIRethemedWork_ChangeJobIcon>
+  <UIRethemedWork_ChangeJobIconTip>Выбрать другое изображение для «{0}»: любой значок, изображение любой работы или навыка, или всего, что можно построить. Оно показывается в заголовках-значках, на карточке поселенца и здесь.</UIRethemedWork_ChangeJobIconTip>
+  <UIRethemedWork_ColumnColour>Цвет</UIRethemedWork_ColumnColour>
+  <UIRethemedWork_ColumnColourTip>Окрасить столбец работы во вкладке, чтобы его было легче проследить по таблице.</UIRethemedWork_ColumnColourTip>
+  <UIRethemedWork_PickColumnColour>Цвет для: {0}</UIRethemedWork_PickColumnColour>
+  <UIRethemedWork_ColourWheel>Цветовой круг</UIRethemedWork_ColourWheel>
+  <UIRethemedWork_ColourWheelTip>Нажмите или тяните, чтобы выбрать оттенок; к краю — насыщеннее.</UIRethemedWork_ColourWheelTip>
+  <UIRethemedWork_ColourPreview>Предпросмотр</UIRethemedWork_ColourPreview>
+  <UIRethemedWork_ColourHex>HEX-код</UIRethemedWork_ColourHex>
+  <UIRethemedWork_ColourHexTip>Цвет в виде шести шестнадцатеричных цифр RRGGBB — для ввода или копирования.</UIRethemedWork_ColourHexTip>
+  <UIRethemedWork_ColourBrightness>Яркость</UIRethemedWork_ColourBrightness>
+  <UIRethemedWork_ColourBrightnessTip>Нажмите или тяните, чтобы выбрать яркость; слева темнее.</UIRethemedWork_ColourBrightnessTip>
+  <UIRethemedWork_NoColour>Без цвета</UIRethemedWork_NoColour>
+  <UIRethemedWork_NoColourTip>Убрать цвет: столбец или шаблон станет без цвета, цвет приоритета вернётся к цвету темы.</UIRethemedWork_NoColourTip>
+  <UIRethemedWork_ColourCancelTip>Вернуть прежний цвет.</UIRethemedWork_ColourCancelTip>
+  <UIRethemedWork_HideColumnTip>Показать или скрыть столбец работы во вкладке. Скрытая работа сохраняет приоритеты у всех, и её продолжают выполнять.</UIRethemedWork_HideColumnTip>
+
+  <UIRethemedWork_Card>Карточка поселенца</UIRethemedWork_Card>
+  <UIRethemedWork_CardTip>Открыть карточку ({0}): все работы с навыком, интересом и приоритетом. Щёлкните ещё раз, чтобы закрыть.</UIRethemedWork_CardTip>
+  <UIRethemedWork_CardLocateTip>Перейти к {0} на карте, закрыв вкладку.</UIRethemedWork_CardLocateTip>
+  <UIRethemedWork_CardIdle>Ничего не делает</UIRethemedWork_CardIdle>
+  <UIRethemedWork_CardJobsOn>Включено работ: {0}</UIRethemedWork_CardJobsOn>
+  <UIRethemedWork_CardJobs>Работы ({0})</UIRethemedWork_CardJobs>
+  <UIRethemedWork_CardCannotHeading>Не может ({0})</UIRethemedWork_CardCannotHeading>
+  <UIRethemedWork_CardCannotCount>не может: {0}</UIRethemedWork_CardCannotCount>
+  <UIRethemedWork_CardBestAt>лучше всего: {0} ({1})</UIRethemedWork_CardBestAt>
+
+  <UIRethemedWork_Settings_WorkTabTip>Отображать вкладку «Работа» в стиле темы, с шаблонами, автоназначением, фильтрами и массовым выбором. Если выключено, используется игровая вкладка; приоритеты от 1 до 9 по-прежнему работают через неё.</UIRethemedWork_Settings_WorkTabTip>
+</LanguageData>

@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Health_Care>Уход</UIRethemedInspectorTabs_Health_Care>
+  <UIRethemedInspectorTabs_Health_Capacities>Способности</UIRethemedInspectorTabs_Health_Capacities>
+  <UIRethemedInspectorTabs_Health_Body>Тело</UIRethemedInspectorTabs_Health_Body>
+  <UIRethemedInspectorTabs_Health_Current>Текущее</UIRethemedInspectorTabs_Health_Current>
+  <UIRethemedInspectorTabs_Health_Level>Уровень</UIRethemedInspectorTabs_Health_Level>
+  <UIRethemedInspectorTabs_Health_On>Вкл.</UIRethemedInspectorTabs_Health_On>
+  <UIRethemedInspectorTabs_Health_Off>Выкл.</UIRethemedInspectorTabs_Health_Off>
+  <UIRethemedInspectorTabs_Health_ClickToChange>Нажмите, чтобы изменить.</UIRethemedInspectorTabs_Health_ClickToChange>
+  <UIRethemedInspectorTabs_Health_MedicineOrWorse>{0} или хуже</UIRethemedInspectorTabs_Health_MedicineOrWorse>
+  <UIRethemedInspectorTabs_Health_ClickToToggle>Нажмите, чтобы включить или выключить.</UIRethemedInspectorTabs_Health_ClickToToggle>
+  <UIRethemedInspectorTabs_Health_CannotDoctor>Не способен лечить</UIRethemedInspectorTabs_Health_CannotDoctor>
+  <UIRethemedInspectorTabs_Health_DoctorOff>Лечение выключено</UIRethemedInspectorTabs_Health_DoctorOff>
+  <UIRethemedInspectorTabs_Health_DoctorOffDetail>Включите «Врач» во вкладке «Работа», иначе самолечения не будет.</UIRethemedInspectorTabs_Health_DoctorOffDetail>
+  <UIRethemedInspectorTabs_Health_SelfTendQuality>Качество самолечения</UIRethemedInspectorTabs_Health_SelfTendQuality>
+  <UIRethemedInspectorTabs_Health_PainSources>Источники</UIRethemedInspectorTabs_Health_PainSources>
+  <UIRethemedInspectorTabs_Health_PainShockNote>Боль выше порога болевого шока заставляет пешку упасть.</UIRethemedInspectorTabs_Health_PainShockNote>
+  <UIRethemedInspectorTabs_Health_Severity>Тяжесть</UIRethemedInspectorTabs_Health_Severity>
+  <UIRethemedInspectorTabs_Health_SeverityChange>Изменение тяжести</UIRethemedInspectorTabs_Health_SeverityChange>
+  <UIRethemedInspectorTabs_Health_ImmunityGain>Рост иммунитета</UIRethemedInspectorTabs_Health_ImmunityGain>
+  <UIRethemedInspectorTabs_Health_PerDay>{0}/день</UIRethemedInspectorTabs_Health_PerDay>
+  <UIRethemedInspectorTabs_Health_Prognosis>Прогноз</UIRethemedInspectorTabs_Health_Prognosis>
+  <UIRethemedInspectorTabs_Health_Tending>Лечение</UIRethemedInspectorTabs_Health_Tending>
+  <UIRethemedInspectorTabs_Health_TendedQuality>Вылечено ({0})</UIRethemedInspectorTabs_Health_TendedQuality>
+  <UIRethemedInspectorTabs_Health_Untended>Не вылечено</UIRethemedInspectorTabs_Health_Untended>
+  <UIRethemedInspectorTabs_Health_TendWearsOff>Действие лечения закончится через</UIRethemedInspectorTabs_Health_TendWearsOff>
+  <UIRethemedInspectorTabs_Health_ImmuneIn>Иммунитет через</UIRethemedInspectorTabs_Health_ImmuneIn>
+  <UIRethemedInspectorTabs_Health_DeathIn>Смерть через</UIRethemedInspectorTabs_Health_DeathIn>
+  <UIRethemedInspectorTabs_Health_GoneIn>Пройдёт через</UIRethemedInspectorTabs_Health_GoneIn>
+  <UIRethemedInspectorTabs_Health_PeakSeverity>Пиковая тяжесть</UIRethemedInspectorTabs_Health_PeakSeverity>
+  <UIRethemedInspectorTabs_Health_Outcome_Survive>Выживет</UIRethemedInspectorTabs_Health_Outcome_Survive>
+  <UIRethemedInspectorTabs_Health_Outcome_WillRecover>Поправится</UIRethemedInspectorTabs_Health_Outcome_WillRecover>
+  <UIRethemedInspectorTabs_Health_Outcome_Close>На волоске</UIRethemedInspectorTabs_Health_Outcome_Close>
+  <UIRethemedInspectorTabs_Health_Outcome_Fatal>Смертельно при таком темпе</UIRethemedInspectorTabs_Health_Outcome_Fatal>
+  <UIRethemedInspectorTabs_Health_Outcome_Recovering>Выздоравливает</UIRethemedInspectorTabs_Health_Outcome_Recovering>
+  <UIRethemedInspectorTabs_Health_Outcome_Stable>Стабильно</UIRethemedInspectorTabs_Health_Outcome_Stable>
+  <UIRethemedInspectorTabs_Health_Row_ImmuneIn>иммунитет через {0}</UIRethemedInspectorTabs_Health_Row_ImmuneIn>
+  <UIRethemedInspectorTabs_Health_Row_DeathIn>смерть через {0}</UIRethemedInspectorTabs_Health_Row_DeathIn>
+  <UIRethemedInspectorTabs_Health_Row_GoneIn>пройдёт через {0}</UIRethemedInspectorTabs_Health_Row_GoneIn>
+  <UIRethemedInspectorTabs_Health_Row_NeedsTending>нужно лечение</UIRethemedInspectorTabs_Health_Row_NeedsTending>
+  <UIRethemedInspectorTabs_Health_Row_KeepTended>продолжать лечить</UIRethemedInspectorTabs_Health_Row_KeepTended>
+  <UIRethemedInspectorTabs_Health_NeedsTending>Нужно лечение</UIRethemedInspectorTabs_Health_NeedsTending>
+  <UIRethemedInspectorTabs_Health_NeedsTendingDetail>Можно лечить прямо сейчас. Хорошее лечение замедляет или обращает рост тяжести.</UIRethemedInspectorTabs_Health_NeedsTendingDetail>
+  <UIRethemedInspectorTabs_Health_KeepTended>Продолжайте лечить</UIRethemedInspectorTabs_Health_KeepTended>
+  <UIRethemedInspectorTabs_Health_KeepTendedDetail>Без лечения болезнь станет смертельной до выработки иммунитета.</UIRethemedInspectorTabs_Health_KeepTendedDetail>
+  <UIRethemedInspectorTabs_Health_Assumption>Прогноз на основе текущего роста иммунитета и изменения тяжести, при условии, что текущее лечение будет поддерживаться.</UIRethemedInspectorTabs_Health_Assumption>
+  <UIRethemedInspectorTabs_Health_Instances>Случаи</UIRethemedInspectorTabs_Health_Instances>
+  <UIRethemedInspectorTabs_Health_ViewInLog>Нажмите, чтобы увидеть причину в журнале боя.</UIRethemedInspectorTabs_Health_ViewInLog>
+  <UIRethemedInspectorTabs_Health_RightClickForCare>Правый клик — настроить уход.</UIRethemedInspectorTabs_Health_RightClickForCare>
+  <UIRethemedInspectorTabs_Health_Part>Часть тела</UIRethemedInspectorTabs_Health_Part>
+  <UIRethemedInspectorTabs_Health_PartHealth>Здоровье</UIRethemedInspectorTabs_Health_PartHealth>
+  <UIRethemedInspectorTabs_Health_Coverage>Покрытие</UIRethemedInspectorTabs_Health_Coverage>
+  <UIRethemedInspectorTabs_Health_Conditions>Состояния</UIRethemedInspectorTabs_Health_Conditions>
+  <UIRethemedInspectorTabs_Health_BloodLoss>Кровопотеря</UIRethemedInspectorTabs_Health_BloodLoss>
+  <UIRethemedInspectorTabs_Health_BleedSources>Кровотечение из</UIRethemedInspectorTabs_Health_BleedSources>
+  <UIRethemedInspectorTabs_Health_AddOperation>Добавить операцию</UIRethemedInspectorTabs_Health_AddOperation>
+  <UIRethemedInspectorTabs_Health_OperationsFull>Можно поставить в очередь не более {0} операций.</UIRethemedInspectorTabs_Health_OperationsFull>
+  <UIRethemedInspectorTabs_Health_NoOperations>Операций в очереди нет.</UIRethemedInspectorTabs_Health_NoOperations>
+  <UIRethemedInspectorTabs_Health_Unavailable>Недоступно</UIRethemedInspectorTabs_Health_Unavailable>
+  <UIRethemedInspectorTabs_Health_Suspended>Приостановлено</UIRethemedInspectorTabs_Health_Suspended>
+  <UIRethemedInspectorTabs_Health_Queued>В очереди</UIRethemedInspectorTabs_Health_Queued>
+  <UIRethemedInspectorTabs_Health_Requires>Требуется</UIRethemedInspectorTabs_Health_Requires>
+  <UIRethemedInspectorTabs_Health_Work>Работа</UIRethemedInspectorTabs_Health_Work>
+  <UIRethemedInspectorTabs_Health_Skills>Навыки</UIRethemedInspectorTabs_Health_Skills>
+  <UIRethemedInspectorTabs_Health_ClickToQueue>Нажмите, чтобы поставить операцию в очередь.</UIRethemedInspectorTabs_Health_ClickToQueue>
+</LanguageData>

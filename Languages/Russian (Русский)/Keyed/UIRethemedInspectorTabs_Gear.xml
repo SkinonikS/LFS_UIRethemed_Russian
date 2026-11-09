@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Gear_Overview>Сводка</UIRethemedInspectorTabs_Gear_Overview>
+  <UIRethemedInspectorTabs_Gear_Portrait>Портрет</UIRethemedInspectorTabs_Gear_Portrait>
+  <UIRethemedInspectorTabs_Gear_Unarmed>Без оружия</UIRethemedInspectorTabs_Gear_Unarmed>
+  <UIRethemedInspectorTabs_Gear_List>Список</UIRethemedInspectorTabs_Gear_List>
+  <UIRethemedInspectorTabs_Gear_ListTip>Показывать снаряжение списком, а не вокруг портрета.</UIRethemedInspectorTabs_Gear_ListTip>
+  <UIRethemedInspectorTabs_Gear_Rotate>Повернуть портрет</UIRethemedInspectorTabs_Gear_Rotate>
+  <UIRethemedInspectorTabs_Gear_ToggleHeadgear>Показать или скрыть головной убор на портрете.</UIRethemedInspectorTabs_Gear_ToggleHeadgear>
+  <UIRethemedInspectorTabs_Gear_EmptySlot>{0}: пусто</UIRethemedInspectorTabs_Gear_EmptySlot>
+  <UIRethemedInspectorTabs_Gear_Mass>{0} / {1} кг</UIRethemedInspectorTabs_Gear_Mass>
+  <UIRethemedInspectorTabs_Gear_OutOf>{0} / {1}</UIRethemedInspectorTabs_Gear_OutOf>
+  <UIRethemedInspectorTabs_Gear_ClickForOptions>Нажмите для действий</UIRethemedInspectorTabs_Gear_ClickForOptions>
+  <UIRethemedInspectorTabs_Gear_RightClickForOptions>Правый клик для действий</UIRethemedInspectorTabs_Gear_RightClickForOptions>
+
+  <UIRethemedInspectorTabs_Gear_Card_AlsoCovers>Также занимает слот «{0}»</UIRethemedInspectorTabs_Gear_Card_AlsoCovers>
+  <UIRethemedInspectorTabs_Gear_Card_Protection>Защита</UIRethemedInspectorTabs_Gear_Card_Protection>
+  <UIRethemedInspectorTabs_Gear_Card_WornOn>Носится на</UIRethemedInspectorTabs_Gear_Card_WornOn>
+  <UIRethemedInspectorTabs_Gear_Card_Combat>Бой</UIRethemedInspectorTabs_Gear_Card_Combat>
+  <UIRethemedInspectorTabs_Gear_Card_Effects>При ношении</UIRethemedInspectorTabs_Gear_Card_Effects>
+  <UIRethemedInspectorTabs_Gear_Card_Details>Подробности</UIRethemedInspectorTabs_Gear_Card_Details>
+  <UIRethemedInspectorTabs_Gear_Card_Damage>Урон</UIRethemedInspectorTabs_Gear_Card_Damage>
+  <UIRethemedInspectorTabs_Gear_Card_ArmorPenetration>Бронепробитие</UIRethemedInspectorTabs_Gear_Card_ArmorPenetration>
+  <UIRethemedInspectorTabs_Gear_Card_Range>Дальность</UIRethemedInspectorTabs_Gear_Card_Range>
+  <UIRethemedInspectorTabs_Gear_Card_Burst>Очередь</UIRethemedInspectorTabs_Gear_Card_Burst>
+  <UIRethemedInspectorTabs_Gear_Card_Warmup>Время прицеливания</UIRethemedInspectorTabs_Gear_Card_Warmup>
+  <UIRethemedInspectorTabs_Gear_Card_Seconds>{0} с</UIRethemedInspectorTabs_Gear_Card_Seconds>
+  <UIRethemedInspectorTabs_Gear_Card_FullCycle>Время между очередями</UIRethemedInspectorTabs_Gear_Card_FullCycle>
+  <UIRethemedInspectorTabs_Gear_Card_RangedDps>Урон в секунду</UIRethemedInspectorTabs_Gear_Card_RangedDps>
+  <UIRethemedInspectorTabs_Gear_Card_PerSecond>{0} урона в секунду</UIRethemedInspectorTabs_Gear_Card_PerSecond>
+  <UIRethemedInspectorTabs_Gear_Card_DamagePerHit>Урон за удар</UIRethemedInspectorTabs_Gear_Card_DamagePerHit>
+  <UIRethemedInspectorTabs_Gear_Card_DamagePerShot>Урон за выстрел</UIRethemedInspectorTabs_Gear_Card_DamagePerShot>
+  <UIRethemedInspectorTabs_Gear_Card_Tiles>{0} клеток</UIRethemedInspectorTabs_Gear_Card_Tiles>
+  <UIRethemedInspectorTabs_Gear_Card_TimeBetweenHits>Время между ударами</UIRethemedInspectorTabs_Gear_Card_TimeBetweenHits>
+  <UIRethemedInspectorTabs_Gear_TakeOff>Снять</UIRethemedInspectorTabs_Gear_TakeOff>
+  <UIRethemedInspectorTabs_Gear_TakeOffTip>{0} снимет это и бросит.</UIRethemedInspectorTabs_Gear_TakeOffTip>
+  <UIRethemedInspectorTabs_Gear_TakeOffByColonist>Поселенец придёт и снимет этот предмет.</UIRethemedInspectorTabs_Gear_TakeOffByColonist>
+  <UIRethemedInspectorTabs_Gear_TakeOffStuck>Это нельзя снять.</UIRethemedInspectorTabs_Gear_TakeOffStuck>
+  <UIRethemedInspectorTabs_Gear_Compare>Сравнить с надетым</UIRethemedInspectorTabs_Gear_Compare>
+  <UIRethemedInspectorTabs_Gear_CompareWith>Сравнить с: {0}</UIRethemedInspectorTabs_Gear_CompareWith>
+  <UIRethemedInspectorTabs_Gear_CompareTitle>Сравнение снаряжения</UIRethemedInspectorTabs_Gear_CompareTitle>
+  <UIRethemedInspectorTabs_Gear_CompareWorn>Надето</UIRethemedInspectorTabs_Gear_CompareWorn>
+  <UIRethemedInspectorTabs_Gear_CompareHeld>В руках</UIRethemedInspectorTabs_Gear_CompareHeld>
+  <UIRethemedInspectorTabs_Gear_CompareOther>Сравниваемое</UIRethemedInspectorTabs_Gear_CompareOther>
+  <UIRethemedInspectorTabs_Gear_Card_Overall>Всего {0}</UIRethemedInspectorTabs_Gear_Card_Overall>
+  <UIRethemedInspectorTabs_Gear_Card_Sources>Источники</UIRethemedInspectorTabs_Gear_Card_Sources>
+  <UIRethemedInspectorTabs_Gear_Card_Natural>Естественная броня</UIRethemedInspectorTabs_Gear_Card_Natural>
+  <UIRethemedInspectorTabs_Gear_Card_NoArmor>Ничего из надетого не защищает от этого.</UIRethemedInspectorTabs_Gear_Card_NoArmor>
+  <UIRethemedInspectorTabs_Gear_Card_ByBodyPart>По частям тела</UIRethemedInspectorTabs_Gear_Card_ByBodyPart>
+  <UIRethemedInspectorTabs_Gear_Card_Breakdown>Разбивка</UIRethemedInspectorTabs_Gear_Card_Breakdown>
+  <UIRethemedInspectorTabs_Gear_Card_OtherSources>Черты, гены и здоровье</UIRethemedInspectorTabs_Gear_Card_OtherSources>
+  <UIRethemedInspectorTabs_Gear_Card_Load>Нагрузка</UIRethemedInspectorTabs_Gear_Card_Load>
+  <UIRethemedInspectorTabs_Gear_Card_Carried>Несёт</UIRethemedInspectorTabs_Gear_Card_Carried>
+  <UIRethemedInspectorTabs_Gear_Card_GearMass>Надето и экипировано</UIRethemedInspectorTabs_Gear_Card_GearMass>
+  <UIRethemedInspectorTabs_Gear_Card_FreeSpace>Свободно</UIRethemedInspectorTabs_Gear_Card_FreeSpace>
+  <UIRethemedInspectorTabs_Gear_Card_Capacity>Вместимость</UIRethemedInspectorTabs_Gear_Card_Capacity>
+  <UIRethemedInspectorTabs_Gear_Card_Heaviest>Самые тяжёлые предметы</UIRethemedInspectorTabs_Gear_Card_Heaviest>
+  <UIRethemedInspectorTabs_Gear_Card_ByItem>{0} по предметам</UIRethemedInspectorTabs_Gear_Card_ByItem>
+  <UIRethemedInspectorTabs_Gear_Card_LoadEffects>Влияние нагрузки</UIRethemedInspectorTabs_Gear_Card_LoadEffects>
+  <UIRethemedInspectorTabs_Gear_Card_LoadedAmmo>Заряжено</UIRethemedInspectorTabs_Gear_Card_LoadedAmmo>
+  <UIRethemedInspectorTabs_Gear_Card_Magazine>Магазин</UIRethemedInspectorTabs_Gear_Card_Magazine>
+  <UIRethemedInspectorTabs_Gear_Card_SpareAmmo>Запасные патроны</UIRethemedInspectorTabs_Gear_Card_SpareAmmo>
+
+  <UIRethemedInspectorTabs_Gear_Status_Locked>Закреплено</UIRethemedInspectorTabs_Gear_Status_Locked>
+  <UIRethemedInspectorTabs_Gear_Status_Lodger>Снаряжение задания</UIRethemedInspectorTabs_Gear_Status_Lodger>
+  <UIRethemedInspectorTabs_Gear_Status_Forced>Принудительно</UIRethemedInspectorTabs_Gear_Status_Forced>
+  <UIRethemedInspectorTabs_Gear_Status_Tainted>С трупа</UIRethemedInspectorTabs_Gear_Status_Tainted>
+  <UIRethemedInspectorTabs_Gear_Status_Torn>Изношено</UIRethemedInspectorTabs_Gear_Status_Torn>
+  <UIRethemedInspectorTabs_Gear_Torn>Прочность ниже половины: ношение расстраивает поселенцев.</UIRethemedInspectorTabs_Gear_Torn>
+  <UIRethemedInspectorTabs_Gear_Status_Biocoded>Биокод</UIRethemedInspectorTabs_Gear_Status_Biocoded>
+  <UIRethemedInspectorTabs_Gear_Status_Brawler>Драчун</UIRethemedInspectorTabs_Gear_Status_Brawler>
+  <UIRethemedInspectorTabs_Gear_Info>Информация</UIRethemedInspectorTabs_Gear_Info>
+  <UIRethemedInspectorTabs_Gear_Force>Носить принудительно</UIRethemedInspectorTabs_Gear_Force>
+  <UIRethemedInspectorTabs_Gear_Unforce>Отменить принудительное ношение</UIRethemedInspectorTabs_Gear_Unforce>
+  <UIRethemedInspectorTabs_Gear_Biocoded>Биокодировано: пользоваться может только владелец.</UIRethemedInspectorTabs_Gear_Biocoded>
+  <UIRethemedInspectorTabs_Gear_ForceAll>Носить всё надетое принудительно</UIRethemedInspectorTabs_Gear_ForceAll>
+  <UIRethemedInspectorTabs_Gear_UnforceAll>Отменить всё принудительное</UIRethemedInspectorTabs_Gear_UnforceAll>
+  <UIRethemedInspectorTabs_Gear_ForceNothing>Нечего менять.</UIRethemedInspectorTabs_Gear_ForceNothing>
+  <UIRethemedInspectorTabs_Gear_RightClickForActions>Правый клик — действия со снаряжением</UIRethemedInspectorTabs_Gear_RightClickForActions>
+  <UIRethemedInspectorTabs_Gear_ActionsFor>Снаряжение: {0}</UIRethemedInspectorTabs_Gear_ActionsFor>
+  <UIRethemedInspectorTabs_Gear_StripEverything>Раздеть</UIRethemedInspectorTabs_Gear_StripEverything>
+  <UIRethemedInspectorTabs_Gear_StripTainted>Снять вещи с трупов</UIRethemedInspectorTabs_Gear_StripTainted>
+  <UIRethemedInspectorTabs_Gear_StripUntainted>Снять вещи не с трупов</UIRethemedInspectorTabs_Gear_StripUntainted>
+  <UIRethemedInspectorTabs_Gear_StripDamaged>Снять повреждённое</UIRethemedInspectorTabs_Gear_StripDamaged>
+  <UIRethemedInspectorTabs_Gear_StripWeapons>Снять оружие</UIRethemedInspectorTabs_Gear_StripWeapons>
+  <UIRethemedInspectorTabs_Gear_StripInventory>Забрать инвентарь</UIRethemedInspectorTabs_Gear_StripInventory>
+  <UIRethemedInspectorTabs_Gear_StripNothing>Нечего снимать.</UIRethemedInspectorTabs_Gear_StripNothing>
+  <UIRethemedInspectorTabs_Gear_StripOrdered>Ожидание поселенца. Нажмите, чтобы отменить.</UIRethemedInspectorTabs_Gear_StripOrdered>
+  <UIRethemedInspectorTabs_Gear_StripBySelf>{0} снимет и бросит это:</UIRethemedInspectorTabs_Gear_StripBySelf>
+  <UIRethemedInspectorTabs_Gear_StripByColonist>Поселенец придёт и заберёт:</UIRethemedInspectorTabs_Gear_StripByColonist>
+  <UIRethemedInspectorTabs_Gear_StripNotOnMap>Раздеть можно только пешку или труп на карте.</UIRethemedInspectorTabs_Gear_StripNotOnMap>
+  <UIRethemedInspectorTabs_Gear_StripNotAllowed>Раздеть можно только своих поселенцев, недееспособных, надёжно содержащихся пленников и трупы.</UIRethemedInspectorTabs_Gear_StripNotAllowed>
+  <UIRethemedInspectorTabs_Gear_LodgerKeepsGear>Гости по заданию сохраняют снаряжение, с которым пришли.</UIRethemedInspectorTabs_Gear_LodgerKeepsGear>
+  <UIRethemedInspectorTabs_Gear_CannotManipulate>{0} не может ничего держать.</UIRethemedInspectorTabs_Gear_CannotManipulate>
+
+  <UIRethemedInspectorTabs_Gear_Slot_Head>Голова</UIRethemedInspectorTabs_Gear_Slot_Head>
+  <UIRethemedInspectorTabs_Gear_Slot_Face>Лицо</UIRethemedInspectorTabs_Gear_Slot_Face>
+  <UIRethemedInspectorTabs_Gear_Slot_Outer>Верхний слой</UIRethemedInspectorTabs_Gear_Slot_Outer>
+  <UIRethemedInspectorTabs_Gear_Slot_Middle>Средний слой</UIRethemedInspectorTabs_Gear_Slot_Middle>
+  <UIRethemedInspectorTabs_Gear_Slot_Shirt>Рубашка</UIRethemedInspectorTabs_Gear_Slot_Shirt>
+  <UIRethemedInspectorTabs_Gear_Slot_Belt>Пояс</UIRethemedInspectorTabs_Gear_Slot_Belt>
+  <UIRethemedInspectorTabs_Gear_Slot_Hands>Руки</UIRethemedInspectorTabs_Gear_Slot_Hands>
+  <UIRethemedInspectorTabs_Gear_Slot_Legs>Ноги</UIRethemedInspectorTabs_Gear_Slot_Legs>
+  <UIRethemedInspectorTabs_Gear_Slot_Feet>Ступни</UIRethemedInspectorTabs_Gear_Slot_Feet>
+  <UIRethemedInspectorTabs_Gear_Slot_Extra>Дополнительно</UIRethemedInspectorTabs_Gear_Slot_Extra>
+  <UIRethemedInspectorTabs_Gear_Slot_Primary>Оружие</UIRethemedInspectorTabs_Gear_Slot_Primary>
+  <UIRethemedInspectorTabs_Gear_Slot_Sidearm>Запасное оружие</UIRethemedInspectorTabs_Gear_Slot_Sidearm>
+  <UIRethemedInspectorTabs_Gear_MoreSidearms>Ещё {0} при себе</UIRethemedInspectorTabs_Gear_MoreSidearms>
+  <UIRethemedInspectorTabs_Gear_NotYourColonist>Это можно выдать только своим поселенцам.</UIRethemedInspectorTabs_Gear_NotYourColonist>
+  <UIRethemedInspectorTabs_Gear_StockMore>Держать на одну больше</UIRethemedInspectorTabs_Gear_StockMore>
+  <UIRethemedInspectorTabs_Gear_StockFewer>Держать на одну меньше</UIRethemedInspectorTabs_Gear_StockFewer>
+  <UIRethemedInspectorTabs_Gear_StockCopy>Скопировать эти настройки</UIRethemedInspectorTabs_Gear_StockCopy>
+  <UIRethemedInspectorTabs_Gear_StockNothingCopied>Скопируйте настройки другого поселенца, чтобы вставить их сюда</UIRethemedInspectorTabs_Gear_StockNothingCopied>
+</LanguageData>

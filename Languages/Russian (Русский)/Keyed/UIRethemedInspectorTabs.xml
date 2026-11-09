@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_ModName>UI Rethemed - Вкладки инспектора</UIRethemedInspectorTabs_ModName>
+  <UIRethemedInspectorTabs_Settings_Tabs>Переоформленные вкладки</UIRethemedInspectorTabs_Settings_Tabs>
+  <UIRethemedInspectorTabs_Settings_TabsHint>Снимите галочку с вкладки, чтобы использовать стандартную. Собственные параметры вкладки показываются, только пока она переоформлена.</UIRethemedInspectorTabs_Settings_TabsHint>
+  <UIRethemedInspectorTabs_Settings_TabsSummary>Переоформлено: {0} из {1}</UIRethemedInspectorTabs_Settings_TabsSummary>
+  <UIRethemedInspectorTabs_Settings_SizeSummary>{0}: {1} × {2}</UIRethemedInspectorTabs_Settings_SizeSummary>
+  <UIRethemedInspectorTabs_Settings_RowSummary>1 ряд</UIRethemedInspectorTabs_Settings_RowSummary>
+  <UIRethemedInspectorTabs_Settings_RowsSummary>Рядов: {0}</UIRethemedInspectorTabs_Settings_RowsSummary>
+  <UIRethemedInspectorTabs_Settings_Style>Стиль</UIRethemedInspectorTabs_Settings_Style>
+  <UIRethemedInspectorTabs_Settings_Columns>Столбцы других модов</UIRethemedInspectorTabs_Settings_Columns>
+  <UIRethemedInspectorTabs_Settings_ColumnsHint>Столбцы, которые другие моды добавляют рядом с вкладкой. Снимите галочку, чтобы убрать столбец.</UIRethemedInspectorTabs_Settings_ColumnsHint>
+  <UIRethemedInspectorTabs_Settings_ColumnsSummary>Показано: {0} из {1}</UIRethemedInspectorTabs_Settings_ColumnsSummary>
+  <UIRethemedInspectorTabs_Column_Goal>Цель</UIRethemedInspectorTabs_Column_Goal>
+  <UIRethemedInspectorTabs_Settings_ColumnTip>Столбец, который другой мод добавляет во вкладку «{0}». Снимите галочку, чтобы убрать его, — вкладка вернётся к обычной ширине.</UIRethemedInspectorTabs_Settings_ColumnTip>
+  <UIRethemedInspectorTabs_Card_Details>Подробности</UIRethemedInspectorTabs_Card_Details>
+  <UIRethemedInspectorTabs_Settings_LayerSlots>Слоты для слоёв одежды из модов</UIRethemedInspectorTabs_Settings_LayerSlots>
+  <UIRethemedInspectorTabs_Settings_LayerSlotsHint>Слоты рядом с манекеном для слоёв, добавленных другими модами. Снимите галочку, чтобы скрыть слот.</UIRethemedInspectorTabs_Settings_LayerSlotsHint>
+  <UIRethemedInspectorTabs_Settings_LayerSlotsSummary>Доп. слотов: {0} из {1}</UIRethemedInspectorTabs_Settings_LayerSlotsSummary>
+  <UIRethemedInspectorTabs_Settings_LayerSlotTip>Слот рядом с манекеном для слоя одежды, добавленного другим модом. Снимите галочку, чтобы скрыть его: надетое на этот слой переместится в слот, где оно было бы без мода, или рядом с манекеном, если тот занят. Собственные слоты вкладки показываются всегда.</UIRethemedInspectorTabs_Settings_LayerSlotTip>
+  <UIRethemedInspectorTabs_Settings_NoLayerSlots>Ни один из ваших модов не добавляет слоёв одежды, поэтому дополнительных слотов нет.</UIRethemedInspectorTabs_Settings_NoLayerSlots>
+  <UIRethemedInspectorTabs_Settings_Animations>Анимации</UIRethemedInspectorTabs_Settings_Animations>
+  <UIRethemedInspectorTabs_Settings_Performance>Производительность</UIRethemedInspectorTabs_Settings_Performance>
+  <UIRethemedInspectorTabs_Settings_TabRefresh>Обновление вкладок</UIRethemedInspectorTabs_Settings_TabRefresh>
+  <UIRethemedInspectorTabs_Settings_TabRefreshTip>Как часто открытая вкладка перестраивает содержимое: списки, значения и всплывающие карточки. Чем реже, тем меньше нагрузка на каждый кадр; любое нажатие во вкладке всё равно отображается сразу, а полосы и анимации остаются плавными в любом случае. «Каждый кадр» — самое актуальное и самое затратное.</UIRethemedInspectorTabs_Settings_TabRefreshTip>
+  <UIRethemedInspectorTabs_TabRefresh_Live>Каждый кадр</UIRethemedInspectorTabs_TabRefresh_Live>
+  <UIRethemedInspectorTabs_TabRefresh_Fast>4 раза в секунду</UIRethemedInspectorTabs_TabRefresh_Fast>
+  <UIRethemedInspectorTabs_TabRefresh_Normal>2 раза в секунду</UIRethemedInspectorTabs_TabRefresh_Normal>
+  <UIRethemedInspectorTabs_TabRefresh_Slow>Раз в секунду</UIRethemedInspectorTabs_TabRefresh_Slow>
+  <UIRethemedInspectorTabs_Settings_DollSize>Размер манекена: {0}</UIRethemedInspectorTabs_Settings_DollSize>
+  <UIRethemedInspectorTabs_Settings_DollSizeTip>Размер портрета, его слотов и сводки рядом с ними относительно обычного. Пропорции сохраняются, а вкладка расширяется под них; слоты инвентаря сохраняют размер, так что в более широкую вкладку их помещается больше. Если экран слишком мал, они увеличиваются, только насколько хватает места.</UIRethemedInspectorTabs_Settings_DollSizeTip>
+  <UIRethemedInspectorTabs_Settings_InventoryRows>Ряды инвентаря</UIRethemedInspectorTabs_Settings_InventoryRows>
+  <UIRethemedInspectorTabs_Settings_InventoryRowsTip>Сколько рядов слотов инвентаря показывает вкладка «Вещи» под портретом. Вкладка высотой ровно под них; если предметов больше, чем помещается, инвентарь прокручивается.</UIRethemedInspectorTabs_Settings_InventoryRowsTip>
+  <UIRethemedInspectorTabs_Settings_CardBars>Полосы во всплывающих карточках</UIRethemedInspectorTabs_Settings_CardBars>
+  <UIRethemedInspectorTabs_Settings_CardBarsTip>Всплывающие карточки во вкладке «Вещи» показывают полосы под числами для быстрого сравнения. Снимите галочку, чтобы оставить только числа.</UIRethemedInspectorTabs_Settings_CardBarsTip>
+  <UIRethemedInspectorTabs_Settings_TakeOffButton>Кнопка «снять» на занятых слотах</UIRethemedInspectorTabs_Settings_TakeOffButton>
+  <UIRethemedInspectorTabs_Settings_TakeOffButtonTip>Показывать маленькую кнопку в углу каждого слота с надетым предметом. Поселенец снимет его и бросит; у трупа или пленника поселенец придёт и снимет этот предмет.</UIRethemedInspectorTabs_Settings_TakeOffButtonTip>
+  <UIRethemedInspectorTabs_Settings_CompareWeapons>Сравнение снаряжения</UIRethemedInspectorTabs_Settings_CompareWeapons>
+  <UIRethemedInspectorTabs_Settings_CompareWeaponsTip>Правый клик по другому оружию или одежде — во вкладке «Вещи» или на карте — предлагает сравнить его с оружием в руках или с тем, что оно заменит, в окне с полосами для обоих.</UIRethemedInspectorTabs_Settings_CompareWeaponsTip>
+  <UIRethemedInspectorTabs_Settings_SkillLevels>Карточка уровней навыка</UIRethemedInspectorTabs_Settings_SkillLevels>
+  <UIRethemedInspectorTabs_Settings_SkillLevelsTip>При наведении на навык или на строку навыка, добавленную другим модом (например, экспертизу), рядом со всплывающей карточкой показывается ещё одна: уровень в виде шкалы, а для всего, на что влияет навык, — значение сейчас, на следующем уровне и прогресс до него. Снимите галочку, чтобы оставить только всплывающую карточку.</UIRethemedInspectorTabs_Settings_SkillLevelsTip>
+  <UIRethemedInspectorTabs_Settings_ModdedMedicine>Медикаменты из модов</UIRethemedInspectorTabs_Settings_ModdedMedicine>
+  <UIRethemedInspectorTabs_Settings_ModdedMedicineTip>Меню медикаментов также предлагает каждый медикамент из других модов в виде «(медикамент) или хуже» — по силе действия между стандартными вариантами. Снимите галочку, чтобы оставить только стандартные варианты: пациенты с медикаментом из мода вернутся к «Промышленные медикаменты или хуже», а при более слабом медикаменте — к «Травяные медикаменты или хуже».</UIRethemedInspectorTabs_Settings_ModdedMedicineTip>
+  <UIRethemedInspectorTabs_Settings_SettingsGear>Шестерёнка настроек на вкладках</UIRethemedInspectorTabs_Settings_SettingsGear>
+  <UIRethemedInspectorTabs_Settings_SettingsGearTip>Добавляет у кнопки закрытия каждой вкладки шестерёнку, открывающую эти настройки, сразу для изменения размера этой вкладки. Снимите галочку, чтобы скрыть шестерёнки; настройки по-прежнему доступны в настройках модов игры.</UIRethemedInspectorTabs_Settings_SettingsGearTip>
+  <UIRethemedInspectorTabs_Settings_TabSize>Размер вкладки</UIRethemedInspectorTabs_Settings_TabSize>
+  <UIRethemedInspectorTabs_Settings_SizeOf>Вкладка</UIRethemedInspectorTabs_Settings_SizeOf>
+  <UIRethemedInspectorTabs_Settings_SizeOfTip>Размер какой вкладки меняют ползунки ниже. У каждой вкладки свой размер; шестерёнка на вкладке открывает эти настройки с уже выбранной вкладкой.</UIRethemedInspectorTabs_Settings_SizeOfTip>
+  <UIRethemedInspectorTabs_Settings_Width>Ширина: {0}</UIRethemedInspectorTabs_Settings_Width>
+  <UIRethemedInspectorTabs_Settings_WidthTip>Ширина вкладки относительно обычной, но не шире экрана. Дополнительное место получает та часть вкладки, где больше всего содержимого: навыки, список или правый столбец.</UIRethemedInspectorTabs_Settings_WidthTip>
+  <UIRethemedInspectorTabs_Settings_Height>Высота: {0}</UIRethemedInspectorTabs_Settings_Height>
+  <UIRethemedInspectorTabs_Settings_HeightTip>Высота вкладки относительно обычной. Она никогда не выходит за пределы места над панелью осмотра; если ниже — списки прокручиваются.</UIRethemedInspectorTabs_Settings_HeightTip>
+  <UIRethemedInspectorTabs_Settings_ResetSize>Сбросить размер</UIRethemedInspectorTabs_Settings_ResetSize>
+  <UIRethemedInspectorTabs_OpenSettings>Настройки</UIRethemedInspectorTabs_OpenSettings>
+  <UIRethemedInspectorTabs_OpenSettingsTip>Изменить размер этой вкладки и выбрать, что показывают вкладки.</UIRethemedInspectorTabs_OpenSettingsTip>
+  <UIRethemedInspectorTabs_TabFailed>В оформленной вкладке «{0}» произошла ошибка, поэтому до перезапуска игры используется стандартная вкладка: {1}</UIRethemedInspectorTabs_TabFailed>
+  <UIRethemedInspectorTabs_Settings_AnimationsTip>В заголовках и выбранных слотах медленно плывёт узор из шестиугольников, полосы заполняются и плавно переходят к новым значениям, подсветка при наведении и переключатели плавно появляются и исчезают, при открытии вкладки по заголовку пробегает линия, а всплывающие карточки и меню проявляются с линией под заголовком. Снимите галочку, чтобы всё было неподвижно.</UIRethemedInspectorTabs_Settings_AnimationsTip>
+</LanguageData>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedColonistCard_Burning.label>горит</UIRethemedColonistCard_Burning.label>
+  <UIRethemedColonistCard_Stunned.label>оглушён</UIRethemedColonistCard_Stunned.label>
+  <UIRethemedColonistCard_StunnedByEMP.label>оглушён ЭМИ</UIRethemedColonistCard_StunnedByEMP.label>
+  <UIRethemedColonistCard_Trance.label>в трансе</UIRethemedColonistCard_Trance.label>
+  <UIRethemedColonistCard_Slowed.label>замедлен</UIRethemedColonistCard_Slowed.label>
+  <UIRethemedColonistCard_BattleState.label>боевое состояние</UIRethemedColonistCard_BattleState.label>
+  <UIRethemedColonistCard_MentalState.label>психическое состояние</UIRethemedColonistCard_MentalState.label>
+  <UIRethemedColonistCard_AggroMentalState.label>агрессивное психическое состояние</UIRethemedColonistCard_AggroMentalState.label>
+  <UIRethemedColonistCard_Inspired.label>вдохновлён</UIRethemedColonistCard_Inspired.label>
+  <UIRethemedColonistCard_Restraints.label>в оковах</UIRethemedColonistCard_Restraints.label>
+  <UIRethemedColonistCard_Unrecruitable.label>не вербуется</UIRethemedColonistCard_Unrecruitable.label>
+  <UIRethemedColonistCard_Roped.label>на привязи</UIRethemedColonistCard_Roped.label>
+  <UIRethemedColonistCard_Shutdown.label>отключён</UIRethemedColonistCard_Shutdown.label>
+  <UIRethemedColonistCard_Emerging.label>выходит</UIRethemedColonistCard_Emerging.label>
+  <UIRethemedColonistCard_Deteriorating.label>разрушается</UIRethemedColonistCard_Deteriorating.label>
+  <UIRethemedColonistCard_BrokenDown.label>сломан</UIRethemedColonistCard_BrokenDown.label>
+  <UIRethemedColonistCard_NoPower.label>нет питания</UIRethemedColonistCard_NoPower.label>
+  <UIRethemedColonistCard_OutOfFuel.label>нет топлива</UIRethemedColonistCard_OutOfFuel.label>
+</LanguageData>

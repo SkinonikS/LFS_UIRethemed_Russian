@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedNotifications_Birthdays.label>дни рождения</UIRethemedNotifications_Birthdays.label>
+  <UIRethemedNotifications_Birthdays.description>Дни рождения поселенцев и связанные с ними моменты роста. Они считаются по биологическому возрасту, как и игровые письма о днях рождения, поэтому могут отличаться от даты рождения в биографии, а у детей, которые растут быстрее, их несколько в год.</UIRethemedNotifications_Birthdays.description>
+  <UIRethemedNotifications_Rituals.label>ритуалы</UIRethemedNotifications_Rituals.label>
+  <UIRethemedNotifications_Rituals.description>Ежегодные даты ритуалов ваших идеолигий и моменты, когда истекает возможность провести ритуал.</UIRethemedNotifications_Rituals.description>
+  <UIRethemedNotifications_Quests.label>задания</UIRethemedNotifications_Quests.label>
+  <UIRethemedNotifications_Quests.description>Когда истекает предложение задания и сроки принятых вами заданий.</UIRethemedNotifications_Quests.description>
+  <UIRethemedNotifications_Conditions.label>события</UIRethemedNotifications_Conditions.label>
+  <UIRethemedNotifications_Conditions.description>Когда заканчиваются текущие игровые условия: похолодания, психический гул и любые условия из модов. Каждое показывается цветом и значком своей строки возле писем.</UIRethemedNotifications_Conditions.description>
+  <UIRethemedNotifications_Health.label>здоровье</UIRethemedNotifications_Health.label>
+  <UIRethemedNotifications_Health.description>Когда ожидаются роды и когда у ваших поселенцев проходит что-либо длящееся сутки и дольше. Срок родов зависит от того, насколько хорошо питается мать.</UIRethemedNotifications_Health.description>
+  <UIRethemedNotifications_Inspirations.label>вдохновения</UIRethemedNotifications_Inspirations.label>
+  <UIRethemedNotifications_Inspirations.description>Когда вдохновение поселенца пропадёт неиспользованным.</UIRethemedNotifications_Inspirations.description>
+  <UIRethemedNotifications_Ships.label>торговые корабли</UIRethemedNotifications_Ships.label>
+  <UIRethemedNotifications_Ships.description>Когда пролетающий корабль покинет зону связи.</UIRethemedNotifications_Ships.description>
+  <UIRethemedNotifications_Places.label>мир</UIRethemedNotifications_Places.label>
+  <UIRethemedNotifications_Places.description>Места на карте мира, у которых истекает время: исчезающие объекты и последствия посещения, например набеги по вашему следу.</UIRethemedNotifications_Places.description>
+  <UIRethemedNotifications_Cooldowns.label>перезарядка</UIRethemedNotifications_Cooldowns.label>
+  <UIRethemedNotifications_Cooldowns.description>Когда королевские разрешения и гравикорабль снова можно использовать.</UIRethemedNotifications_Cooldowns.description>
+</LanguageData>

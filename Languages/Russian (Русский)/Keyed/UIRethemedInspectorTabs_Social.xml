@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Social_Ideoligion>Идеолигия</UIRethemedInspectorTabs_Social_Ideoligion>
+  <UIRethemedInspectorTabs_Social_Relations>Отношения</UIRethemedInspectorTabs_Social_Relations>
+  <UIRethemedInspectorTabs_Social_NoRelations>Известных отношений нет</UIRethemedInspectorTabs_Social_NoRelations>
+  <UIRethemedInspectorTabs_Social_Interactions>Недавние взаимодействия</UIRethemedInspectorTabs_Social_Interactions>
+  <UIRethemedInspectorTabs_Social_Unavailable>Недоступно</UIRethemedInspectorTabs_Social_Unavailable>
+  <UIRethemedInspectorTabs_Social_RoleHeldBy>Занята: {0}</UIRethemedInspectorTabs_Social_RoleHeldBy>
+  <UIRethemedInspectorTabs_Social_Opinion>Мнение {0}</UIRethemedInspectorTabs_Social_Opinion>
+  <UIRethemedInspectorTabs_Social_Current>Текущая</UIRethemedInspectorTabs_Social_Current>
+  <UIRethemedInspectorTabs_Social_RoleYours>Назначена</UIRethemedInspectorTabs_Social_RoleYours>
+  <UIRethemedInspectorTabs_Social_RoleTaken>Занята</UIRethemedInspectorTabs_Social_RoleTaken>
+  <UIRethemedInspectorTabs_Social_RoleActivation>Активация</UIRethemedInspectorTabs_Social_RoleActivation>
+  <UIRethemedInspectorTabs_Social_Chance>Шанс</UIRethemedInspectorTabs_Social_Chance>
+  <UIRethemedInspectorTabs_Social_ClickToSelect>Нажмите, чтобы выбрать</UIRethemedInspectorTabs_Social_ClickToSelect>
+  <UIRethemedInspectorTabs_Social_ClickToViewIdeo>Нажмите, чтобы посмотреть идеолигию</UIRethemedInspectorTabs_Social_ClickToViewIdeo>
+  <UIRethemedInspectorTabs_Social_Certainty>Уверенность</UIRethemedInspectorTabs_Social_Certainty>
+  <UIRethemedInspectorTabs_Social_ConversionFactors>Обращение</UIRethemedInspectorTabs_Social_ConversionFactors>
+  <UIRethemedInspectorTabs_Social_TraitsAndMemes>Черты и мемы</UIRethemedInspectorTabs_Social_TraitsAndMemes>
+  <UIRethemedInspectorTabs_Social_TraitsAndMemesNote>Согласующиеся черты ослабляют попытки обращения; противоречащие — усиливают.</UIRethemedInspectorTabs_Social_TraitsAndMemesNote>
+  <UIRethemedInspectorTabs_Social_Agrees>Согласуется</UIRethemedInspectorTabs_Social_Agrees>
+  <UIRethemedInspectorTabs_Social_Clashes>Противоречит</UIRethemedInspectorTabs_Social_Clashes>
+  <UIRethemedInspectorTabs_Social_ChooseRoleDisabled>Роль выбрать нельзя: в идеолигии нет свободных ролей или ритуала смены роли.</UIRethemedInspectorTabs_Social_ChooseRoleDisabled>
+</LanguageData>

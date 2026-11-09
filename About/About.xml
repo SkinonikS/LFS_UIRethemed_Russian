@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+    <name>[LFS] UI Rethemed - Русский перевод</name>
+    <author>Vadim SkinonikS.#</author>
+    <description>Полный русский перевод всех модулей серии [LFS] UI Rethemed от Lazy Friday Studio: Core, Main Bar, Inspector Tabs, Colonist Card, Notifications, Wildlife, History, Factions, Quests, Architect, Animals, Ideology, Work.
+
+Перевод выполнен с помощью ИИ, поэтому возможны неточности.
+
+Подключайте после модулей UI Rethemed. Перевод работает для любых установленных модулей — отсутствующие просто пропускаются.</description>
+    <supportedVersions>
+        <li>1.6</li>
+        <li>1.7</li>
+    </supportedVersions>
+    <packageId>skinoniks.UIRethemed.Russian</packageId>
+    <loadAfter>
+        <li>Ludeon.RimWorld</li>
+        <li>LazyFridayStudio.UIRethemed.Core</li>
+        <li>LazyFridayStudio.UIRethemed.MainBar</li>
+        <li>LazyFridayStudio.UIRethemed.InspectorTabs</li>
+        <li>LazyFridayStudio.UIRethemed.ColonistCard</li>
+        <li>LazyFridayStudio.UIRethemed.Notifications</li>
+        <li>LazyFridayStudio.UIRethemed.Wildlife</li>
+        <li>LazyFridayStudio.UIRethemed.History</li>
+        <li>LazyFridayStudio.UIRethemed.Factions</li>
+        <li>LazyFridayStudio.UIRethemed.Quests</li>
+        <li>LazyFridayStudio.UIRethemed.Architect</li>
+        <li>LazyFridayStudio.UIRethemed.Animals</li>
+        <li>LazyFridayStudio.UIRethemed.Ideology</li>
+        <li>LazyFridayStudio.UIRethemed.Work</li>
+    </loadAfter>
+</ModMetaData>

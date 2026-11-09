@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedIdeology_ModName>UI Rethemed - Идеолигия</UIRethemedIdeology_ModName>
+  <UIRethemedIdeology_Title>Идеолигии</UIRethemedIdeology_Title>
+  <UIRethemedIdeology_TabPart>Вкладка «Идеолигия»</UIRethemedIdeology_TabPart>
+  <UIRethemedIdeology_NoIdeo>Нет идеолигий для показа.</UIRethemedIdeology_NoIdeo>
+  <UIRethemedIdeology_NoneFound>Ничего не найдено.</UIRethemedIdeology_NoneFound>
+  <UIRethemedIdeology_SearchHint>Поиск...</UIRethemedIdeology_SearchHint>
+  <UIRethemedIdeology_Jump>Перейти</UIRethemedIdeology_Jump>
+  <UIRethemedIdeology_SaveTip>Сохранить «{0}» в файл для использования в другой игре.</UIRethemedIdeology_SaveTip>
+  <UIRethemedIdeology_Sound>Звук ритуала</UIRethemedIdeology_Sound>
+
+  <UIRethemedIdeology_Dev>Режим разработчика</UIRethemedIdeology_Dev>
+  <UIRethemedIdeology_DevTip>Игровой редактор разработчика для содержимого этой страницы. Изменения сразу применяются к идеолигии.</UIRethemedIdeology_DevTip>
+  <UIRethemedIdeology_DevShowAll>Показать все</UIRethemedIdeology_DevShowAll>
+  <UIRethemedIdeology_DevShowAllTip>Также показывает скрытые фракции и принципы.</UIRethemedIdeology_DevShowAllTip>
+  <UIRethemedIdeology_Dev_More>Ещё...</UIRethemedIdeology_Dev_More>
+  <UIRethemedIdeology_Dev_Memes>Мемы...</UIRethemedIdeology_Dev_Memes>
+  <UIRethemedIdeology_Dev_MemesTip>Открывает игровой выбор мемов, чтобы добавить или убрать мемы.</UIRethemedIdeology_Dev_MemesTip>
+  <UIRethemedIdeology_Dev_Structure>Структура...</UIRethemedIdeology_Dev_Structure>
+  <UIRethemedIdeology_Dev_StructureTip>Открывает игровой выбор структурного мема.</UIRethemedIdeology_Dev_StructureTip>
+  <UIRethemedIdeology_Dev_Culture>Культура...</UIRethemedIdeology_Dev_Culture>
+  <UIRethemedIdeology_Dev_CultureTip>Меняет культуру, что заново генерирует стили, богов и описание.</UIRethemedIdeology_Dev_CultureTip>
+  <UIRethemedIdeology_Dev_Symbols>Название и символ...</UIRethemedIdeology_Dev_Symbols>
+  <UIRethemedIdeology_Dev_SymbolsTip>Открывает игровое окно названия, символа и цвета.</UIRethemedIdeology_Dev_SymbolsTip>
+  <UIRethemedIdeology_Dev_Description>Описание...</UIRethemedIdeology_Dev_Description>
+  <UIRethemedIdeology_Dev_DescriptionTip>Открывает игровое окно описания.</UIRethemedIdeology_Dev_DescriptionTip>
+  <UIRethemedIdeology_Dev_FillPoints>Заполнить развитие</UIRethemedIdeology_Dev_FillPoints>
+  <UIRethemedIdeology_Dev_FillPointsTip>Даёт очки развития, нужные для реформы прямо сейчас.</UIRethemedIdeology_Dev_FillPointsTip>
+  <UIRethemedIdeology_Dev_SinglePrecept>Единственный принцип...</UIRethemedIdeology_Dev_SinglePrecept>
+  <UIRethemedIdeology_Dev_SinglePreceptTip>Убирает все принципы, оставляя только выбранный.</UIRethemedIdeology_Dev_SinglePreceptTip>
+  <UIRethemedIdeology_Dev_TestDescriptions>Тест описаний</UIRethemedIdeology_Dev_TestDescriptions>
+  <UIRethemedIdeology_Dev_TestDescriptionsTip>Записывает в журнал сто сгенерированных описаний, оставляя последнее.</UIRethemedIdeology_Dev_TestDescriptionsTip>
+  <UIRethemedIdeology_Dev_TestNames>Тест названий...</UIRethemedIdeology_Dev_TestNames>
+  <UIRethemedIdeology_Dev_TestNamesTip>Записывает в журнал двести сгенерированных названий идеолигии или одного из её принципов.</UIRethemedIdeology_Dev_TestNamesTip>
+  <UIRethemedIdeology_Dev_AddPrecept>Добавить принцип...</UIRethemedIdeology_Dev_AddPrecept>
+  <UIRethemedIdeology_Dev_AddPreceptTip>Добавляет любой принцип, как игровой редактор разработчика.</UIRethemedIdeology_Dev_AddPreceptTip>
+  <UIRethemedIdeology_Dev_Randomize>Случайные принципы</UIRethemedIdeology_Dev_Randomize>
+  <UIRethemedIdeology_Dev_RandomizeTip>Заново генерирует все принципы по мемам.</UIRethemedIdeology_Dev_RandomizeTip>
+  <UIRethemedIdeology_Dev_AddOther>Добавить оружие, животное...</UIRethemedIdeology_Dev_AddOther>
+  <UIRethemedIdeology_Dev_AddOtherTip>Добавляет благородное или презренное оружие, почитаемое животное, предпочитаемый ксенотип или желанную одежду.</UIRethemedIdeology_Dev_AddOtherTip>
+  <UIRethemedIdeology_Dev_AddRole>Добавить роль...</UIRethemedIdeology_Dev_AddRole>
+  <UIRethemedIdeology_Dev_AddRoleTip>Добавляет любую роль, как игровой редактор разработчика.</UIRethemedIdeology_Dev_AddRoleTip>
+  <UIRethemedIdeology_Dev_AddRitual>Добавить ритуал...</UIRethemedIdeology_Dev_AddRitual>
+  <UIRethemedIdeology_Dev_AddRitualTip>Добавляет любой ритуал, как игровой редактор разработчика.</UIRethemedIdeology_Dev_AddRitualTip>
+  <UIRethemedIdeology_Dev_AddBuilding>Добавить постройку...</UIRethemedIdeology_Dev_AddBuilding>
+  <UIRethemedIdeology_Dev_AddBuildingTip>Добавляет любую требуемую постройку, как игровой редактор разработчика.</UIRethemedIdeology_Dev_AddBuildingTip>
+  <UIRethemedIdeology_Dev_AddRelic>Добавить реликвию...</UIRethemedIdeology_Dev_AddRelic>
+  <UIRethemedIdeology_Dev_AddRelicTip>Добавляет реликвию, как игровой редактор разработчика.</UIRethemedIdeology_Dev_AddRelicTip>
+  <UIRethemedIdeology_Dev_EditPicked>Изменить выбранное...</UIRethemedIdeology_Dev_EditPicked>
+  <UIRethemedIdeology_Dev_EditPickedTip>Что игровой редактор разработчика предлагает для «{0}»: собственные правки, повторную генерацию или замену, и удаление.</UIRethemedIdeology_Dev_EditPickedTip>
+  <UIRethemedIdeology_Dev_EditSection>Изменить</UIRethemedIdeology_Dev_EditSection>
+  <UIRethemedIdeology_Dev_ChangeTo>Заменить на</UIRethemedIdeology_Dev_ChangeTo>
+  <UIRethemedIdeology_Dev_ChangeMeme>Сменить мем...</UIRethemedIdeology_Dev_ChangeMeme>
+  <UIRethemedIdeology_Dev_ChangeMemeTip>Открывает игровой выбор мемов, чтобы заменить «{0}» или подобные ему.</UIRethemedIdeology_Dev_ChangeMemeTip>
+  <UIRethemedIdeology_Dev_StyleItemsTip>Открывает игровое окно стилей со всеми стилями доступными для изменения, как в редакторе разработчика.</UIRethemedIdeology_Dev_StyleItemsTip>
+  <UIRethemedIdeology_Dev_AddStyle>Добавить стиль...</UIRethemedIdeology_Dev_AddStyle>
+  <UIRethemedIdeology_Dev_AddStyleTip>Добавляет стиль построек, до трёх, включая фиксированные.</UIRethemedIdeology_Dev_AddStyleTip>
+  <UIRethemedIdeology_Dev_EditStyleTip>Убирает «{0}» или заменяет его другим стилем.</UIRethemedIdeology_Dev_EditStyleTip>
+
+  <UIRethemedIdeology_Stat_Believers>Последователи</UIRethemedIdeology_Stat_Believers>
+  <UIRethemedIdeology_Stat_BelieversTip>Поселенцы: {0}\nРабы: {1}\nПленники: {2}</UIRethemedIdeology_Stat_BelieversTip>
+  <UIRethemedIdeology_Stat_Certainty>Средняя уверенность</UIRethemedIdeology_Stat_Certainty>
+  <UIRethemedIdeology_Stat_CertaintyTip>Насколько уверены её последователи в вашей колонии в среднем.</UIRethemedIdeology_Stat_CertaintyTip>
+  <UIRethemedIdeology_Stat_AtRisk>Под угрозой</UIRethemedIdeology_Stat_AtRisk>
+  <UIRethemedIdeology_Stat_AtRiskTip>Последователи с уверенностью {0} или меньше, или менее уверенные, чем день назад.</UIRethemedIdeology_Stat_AtRiskTip>
+  <UIRethemedIdeology_Stat_EmptyRoles>Свободные роли</UIRethemedIdeology_Stat_EmptyRoles>
+  <UIRethemedIdeology_Stat_EmptyRolesTip>Активные роли, которые никто не занимает.</UIRethemedIdeology_Stat_EmptyRolesTip>
+  <UIRethemedIdeology_Stat_Owed>Ритуалы к проведению</UIRethemedIdeology_Stat_Owed>
+  <UIRethemedIdeology_Stat_OwedTip>Календарные и событийные ритуалы, которые можно провести сейчас.</UIRethemedIdeology_Stat_OwedTip>
+
+  <UIRethemedIdeology_Page_Overview>Обзор</UIRethemedIdeology_Page_Overview>
+  <UIRethemedIdeology_Page_Believers>Последователи</UIRethemedIdeology_Page_Believers>
+  <UIRethemedIdeology_Page_Precepts>Принципы</UIRethemedIdeology_Page_Precepts>
+  <UIRethemedIdeology_Page_Roles>Роли</UIRethemedIdeology_Page_Roles>
+  <UIRethemedIdeology_Page_Rituals>Ритуалы</UIRethemedIdeology_Page_Rituals>
+  <UIRethemedIdeology_Tab_Places>Места</UIRethemedIdeology_Tab_Places>
+  <UIRethemedIdeology_Page_Places>Постройки и реликвии</UIRethemedIdeology_Page_Places>
+  <UIRethemedIdeology_Page_Appearance>Внешний вид</UIRethemedIdeology_Page_Appearance>
+  <UIRethemedIdeology_Page_Compare>Сравнение</UIRethemedIdeology_Page_Compare>
+
+  <UIRethemedIdeology_List>Идеолигии</UIRethemedIdeology_List>
+  <UIRethemedIdeology_Filter_Colony>Колония</UIRethemedIdeology_Filter_Colony>
+  <UIRethemedIdeology_Filter_ColonyTip>Идеолигии, которым следует кто-то в вашей колонии.</UIRethemedIdeology_Filter_ColonyTip>
+  <UIRethemedIdeology_Filter_Faction>Фракция</UIRethemedIdeology_Filter_Faction>
+  <UIRethemedIdeology_Filter_FactionTip>Основная и второстепенные идеолигии вашей фракции.</UIRethemedIdeology_Filter_FactionTip>
+  <UIRethemedIdeology_Filter_Others>Прочие</UIRethemedIdeology_Filter_Others>
+  <UIRethemedIdeology_Filter_OthersTip>Идеолигии, не связанные с вашей колонией.</UIRethemedIdeology_Filter_OthersTip>
+
+  <UIRethemedIdeology_FactionPrimary>Это основная идеолигия фракции.</UIRethemedIdeology_FactionPrimary>
+  <UIRethemedIdeology_FactionMinor>Часть этой фракции следует этой идеолигии.</UIRethemedIdeology_FactionMinor>
+  <UIRethemedIdeology_FactionClick>Щёлкните, чтобы открыть вкладку «Фракции».</UIRethemedIdeology_FactionClick>
+  <UIRethemedIdeology_Fluid>Развитие</UIRethemedIdeology_Fluid>
+  <UIRethemedIdeology_Reformed>Реформирована {0} раз</UIRethemedIdeology_Reformed>
+  <UIRethemedIdeology_ReformReady>Очков развития достаточно для реформы этой идеолигии.</UIRethemedIdeology_ReformReady>
+  <UIRethemedIdeology_ReformWaiting>Нужно ещё {0} очков развития.</UIRethemedIdeology_ReformWaiting>
+  <UIRethemedIdeology_RelatedPrecepts>Связанные принципы</UIRethemedIdeology_RelatedPrecepts>
+  <UIRethemedIdeology_Moods>Влияние на настроение</UIRethemedIdeology_Moods>
+  <UIRethemedIdeology_MoodsNote>Сейчас, по всем последователям</UIRethemedIdeology_MoodsNote>
+  <UIRethemedIdeology_Unlock_Buildings>Открытые постройки</UIRethemedIdeology_Unlock_Buildings>
+  <UIRethemedIdeology_Unlock_Items>Открытые предметы</UIRethemedIdeology_Unlock_Items>
+  <UIRethemedIdeology_Unlock_Research>Начальные исследования</UIRethemedIdeology_Unlock_Research>
+  <UIRethemedIdeology_Unlock_Roles>Открытые роли</UIRethemedIdeology_Unlock_Roles>
+  <UIRethemedIdeology_Unlock_Rituals>Открытые ритуалы</UIRethemedIdeology_Unlock_Rituals>
+  <UIRethemedIdeology_BelieverCount>Последователей: {0}</UIRethemedIdeology_BelieverCount>
+  <UIRethemedIdeology_BelieversHubTip>Щёлкните, чтобы увидеть, чьи черты ей подходят, кого обращают и число последователей по дням.</UIRethemedIdeology_BelieversHubTip>
+  <UIRethemedIdeology_KindTip>Здесь её последователей: {0}, средняя уверенность {1}.</UIRethemedIdeology_KindTip>
+  <UIRethemedIdeology_CardClick>Щёлкните, чтобы увидеть их сбоку.</UIRethemedIdeology_CardClick>
+  <UIRethemedIdeology_PerDay>Восстанавливается на {0} в день</UIRethemedIdeology_PerDay>
+  <UIRethemedIdeology_PreceptsHubTip>Щёлкните, чтобы увидеть принципы, влияющие на настроение сейчас.</UIRethemedIdeology_PreceptsHubTip>
+  <UIRethemedIdeology_NoMoods>Сейчас ни один принцип не влияет ни на чьё настроение.</UIRethemedIdeology_NoMoods>
+  <UIRethemedIdeology_PickHint>Щёлкните по пузырю, чтобы увидеть его здесь.</UIRethemedIdeology_PickHint>
+  <UIRethemedIdeology_HubTip>Щёлкните, чтобы увидеть идеолигию сбоку.</UIRethemedIdeology_HubTip>
+  <UIRethemedIdeology_Structure>Структура</UIRethemedIdeology_Structure>
+  <UIRethemedIdeology_BackTo>Назад к «{0}»</UIRethemedIdeology_BackTo>
+  <UIRethemedIdeology_PreceptCount>Принципов: {0}</UIRethemedIdeology_PreceptCount>
+  <UIRethemedIdeology_ChosenFreely>Выбраны свободно</UIRethemedIdeology_ChosenFreely>
+  <UIRethemedIdeology_ChosenFreelyTip>Принципы, которых не требует и не исключает ни один мем.</UIRethemedIdeology_ChosenFreelyTip>
+  <UIRethemedIdeology_RoleCount>Ролей: {0}</UIRethemedIdeology_RoleCount>
+  <UIRethemedIdeology_RitualCount>Ритуалов: {0}</UIRethemedIdeology_RitualCount>
+  <UIRethemedIdeology_Holders>Занимает</UIRethemedIdeology_Holders>
+  <UIRethemedIdeology_Abilities>Способности</UIRethemedIdeology_Abilities>
+  <UIRethemedIdeology_AbilityNobody>Роль никто не занимает</UIRethemedIdeology_AbilityNobody>
+  <UIRethemedIdeology_RitualsHint>Щёлкните по ритуалу, чтобы увидеть его здесь.</UIRethemedIdeology_RitualsHint>
+  <UIRethemedIdeology_RitualsRootTip>Щёлкните, чтобы увидеть, что идёт сейчас и что можно провести.</UIRethemedIdeology_RitualsRootTip>
+  <UIRethemedIdeology_Now>Сейчас</UIRethemedIdeology_Now>
+  <UIRethemedIdeology_CanHold>Можно провести</UIRethemedIdeology_CanHold>
+  <UIRethemedIdeology_Record>Как проходило</UIRethemedIdeology_Record>
+  <UIRethemedIdeology_NothingDue>Сейчас ничего не идёт и ничего не ожидается.</UIRethemedIdeology_NothingDue>
+
+  <UIRethemedIdeology_NoBelievers>Никто в вашей колонии не следует идеолигии «{0}».</UIRethemedIdeology_NoBelievers>
+  <UIRethemedIdeology_Side>Последователи</UIRethemedIdeology_Side>
+  <UIRethemedIdeology_SortMenu>Сортировка</UIRethemedIdeology_SortMenu>
+  <UIRethemedIdeology_SortTip>Сортировка: {0}, {1}. Щёлкните, чтобы изменить.</UIRethemedIdeology_SortTip>
+  <UIRethemedIdeology_SortBy>Сортировать по</UIRethemedIdeology_SortBy>
+  <UIRethemedIdeology_SortOrder>Порядок</UIRethemedIdeology_SortOrder>
+  <UIRethemedIdeology_SortAscending>По возрастанию</UIRethemedIdeology_SortAscending>
+  <UIRethemedIdeology_SortDescending>По убыванию</UIRethemedIdeology_SortDescending>
+  <UIRethemedIdeology_SortCertainty>Уверенность</UIRethemedIdeology_SortCertainty>
+  <UIRethemedIdeology_SortName>Имя</UIRethemedIdeology_SortName>
+  <UIRethemedIdeology_Kind_Colonist>Поселенец</UIRethemedIdeology_Kind_Colonist>
+  <UIRethemedIdeology_Kind_Slave>Раб</UIRethemedIdeology_Kind_Slave>
+  <UIRethemedIdeology_Kind_Prisoner>Пленник</UIRethemedIdeology_Kind_Prisoner>
+  <UIRethemedIdeology_Falling>Снижается</UIRethemedIdeology_Falling>
+  <UIRethemedIdeology_FallingTip>{0}: уверенность ниже, чем день назад.</UIRethemedIdeology_FallingTip>
+  <UIRethemedIdeology_AtRisk>Под угрозой</UIRethemedIdeology_AtRisk>
+  <UIRethemedIdeology_AtRiskTip>{0} может вскоре быть обращён: при нулевой уверенности меняется идеолигия.</UIRethemedIdeology_AtRiskTip>
+  <UIRethemedIdeology_CertaintyTip>Уверенность: {0}\nВосстанавливается на {1} в день, в зависимости от настроения.</UIRethemedIdeology_CertaintyTip>
+  <UIRethemedIdeology_Clashes>Противоречащие черты</UIRethemedIdeology_Clashes>
+  <UIRethemedIdeology_Suits>Подходящие черты</UIRethemedIdeology_Suits>
+  <UIRethemedIdeology_Converting>Обращаются в неё</UIRethemedIdeology_Converting>
+  <UIRethemedIdeology_ConvertingTip>{0} обращается из «{1}» в «{2}». Полоса — уверенность в «{1}».</UIRethemedIdeology_ConvertingTip>
+  <UIRethemedIdeology_History>Последователи по дням</UIRethemedIdeology_History>
+  <UIRethemedIdeology_HistoryEmpty>Подсчёт начнётся со следующего часа игры и будет заполняться по дню.</UIRethemedIdeology_HistoryEmpty>
+  <UIRethemedIdeology_ChartDay>День {0}</UIRethemedIdeology_ChartDay>
+  <UIRethemedIdeology_ChartCount>Последователей: {0}</UIRethemedIdeology_ChartCount>
+  <UIRethemedIdeology_Joined>Присоединились: {0}</UIRethemedIdeology_Joined>
+  <UIRethemedIdeology_Left>Ушли: {0}</UIRethemedIdeology_Left>
+
+  <UIRethemedIdeology_NoRoles>У этой идеолигии нет ролей.</UIRethemedIdeology_NoRoles>
+  <UIRethemedIdeology_NoRoleRitual>У этой идеолигии нет ритуала смены роли.</UIRethemedIdeology_NoRoleRitual>
+  <UIRethemedIdeology_Assign>Назначить...</UIRethemedIdeology_Assign>
+  <UIRethemedIdeology_AssignTip>Посмотреть, кто может занять эту роль, и начать для него ритуал смены роли.</UIRethemedIdeology_AssignTip>
+  <UIRethemedIdeology_RoleInactive>Нужно ещё {0}</UIRethemedIdeology_RoleInactive>
+  <UIRethemedIdeology_RoleEmpty>Свободна</UIRethemedIdeology_RoleEmpty>
+  <UIRethemedIdeology_RoleEmptyTip>Эту роль никто не занимает, и она активна.</UIRethemedIdeology_RoleEmptyTip>
+  <UIRethemedIdeology_RoleFilled>Назначено: {0}</UIRethemedIdeology_RoleFilled>
+  <UIRethemedIdeology_Dressed>Одет</UIRethemedIdeology_Dressed>
+  <UIRethemedIdeology_Undressed>Не одет</UIRethemedIdeology_Undressed>
+  <UIRethemedIdeology_NotDressedFor>Одет не по роли</UIRethemedIdeology_NotDressedFor>
+  <UIRethemedIdeology_AbilityReady>Готово.</UIRethemedIdeology_AbilityReady>
+  <UIRethemedIdeology_AbilityWaiting>Будет готово через {0}.</UIRethemedIdeology_AbilityWaiting>
+  <UIRethemedIdeology_CanTake>Может занять</UIRethemedIdeology_CanTake>
+  <UIRethemedIdeology_CannotTake>Не может занять</UIRethemedIdeology_CannotTake>
+  <UIRethemedIdeology_RemoveFrom>Занимает эту роль: щёлкните, чтобы снять с неё</UIRethemedIdeology_RemoveFrom>
+  <UIRethemedIdeology_NowHolds>Сейчас: {0}</UIRethemedIdeology_NowHolds>
+  <UIRethemedIdeology_LeaderPrimary>Ваш лидер может быть только у основной идеолигии</UIRethemedIdeology_LeaderPrimary>
+
+  <UIRethemedIdeology_NoRituals>У этой идеолигии нет ритуалов.</UIRethemedIdeology_NoRituals>
+  <UIRethemedIdeology_Running>Идёт сейчас</UIRethemedIdeology_Running>
+  <UIRethemedIdeology_Ready>Можно провести сейчас</UIRethemedIdeology_Ready>
+  <UIRethemedIdeology_NoTarget>Нет места</UIRethemedIdeology_NoTarget>
+  <UIRethemedIdeology_NoTargetTip>Время пришло, но провести его пока негде.</UIRethemedIdeology_NoTargetTip>
+  <UIRethemedIdeology_ExpiresTip>Сколько осталось времени на проведение.</UIRethemedIdeology_ExpiresTip>
+  <UIRethemedIdeology_Anytime>В любое время</UIRethemedIdeology_Anytime>
+  <UIRethemedIdeology_AnytimeTip>Можно провести, когда захотите.</UIRethemedIdeology_AnytimeTip>
+  <UIRethemedIdeology_Dated>Календарный</UIRethemedIdeology_Dated>
+  <UIRethemedIdeology_DatedTip>Проводится в одну и ту же дату каждый год.</UIRethemedIdeology_DatedTip>
+  <UIRethemedIdeology_Event>Событийный</UIRethemedIdeology_Event>
+  <UIRethemedIdeology_EventTip>Вызывается каким-либо событием.</UIRethemedIdeology_EventTip>
+  <UIRethemedIdeology_NextDate>Следующий: {0}, через {1}</UIRethemedIdeology_NextDate>
+  <UIRethemedIdeology_LastHeld>Последний раз проводился {0} назад</UIRethemedIdeology_LastHeld>
+  <UIRethemedIdeology_NeverHeld>Ещё не проводился</UIRethemedIdeology_NeverHeld>
+  <UIRethemedIdeology_RecordTip>Качество {0}, {1} назад.</UIRethemedIdeology_RecordTip>
+  <UIRethemedIdeology_Penalty>Штраф за повтор</UIRethemedIdeology_Penalty>
+  <UIRethemedIdeology_PenaltyTip>Если провести снова сейчас, качество снизится на {0}. Штраф исчезает в течение {1}.</UIRethemedIdeology_PenaltyTip>
+
+  <UIRethemedIdeology_NoPlaces>У этой идеолигии нет построек и реликвий.</UIRethemedIdeology_NoPlaces>
+  <UIRethemedIdeology_Built>Построено</UIRethemedIdeology_Built>
+  <UIRethemedIdeology_RoomLacking>Комната не соответствует</UIRethemedIdeology_RoomLacking>
+  <UIRethemedIdeology_RoomLackingTip>Построено, но комната не соответствует перечисленным здесь требованиям.</UIRethemedIdeology_RoomLackingTip>
+  <UIRethemedIdeology_NotBuilt>Не построено</UIRethemedIdeology_NotBuilt>
+  <UIRethemedIdeology_NotBuiltDue>Ваши поселенцы уже ожидают это здесь.</UIRethemedIdeology_NotBuiltDue>
+  <UIRethemedIdeology_NotBuiltYet>Ваши поселенцы пока не ожидают это здесь.</UIRethemedIdeology_NotBuiltYet>
+  <UIRethemedIdeology_RelicHeld>У вас</UIRethemedIdeology_RelicHeld>
+  <UIRethemedIdeology_RelicHeldTip>Эта реликвия есть у вашей колонии.</UIRethemedIdeology_RelicHeldTip>
+  <UIRethemedIdeology_RelicLost>В другом месте</UIRethemedIdeology_RelicLost>
+  <UIRethemedIdeology_RelicLostTip>Эта реликвия существует, но её нет у вашей колонии.</UIRethemedIdeology_RelicLostTip>
+  <UIRethemedIdeology_RelicDestroyed>Уничтожена</UIRethemedIdeology_RelicDestroyed>
+  <UIRethemedIdeology_RelicDestroyedTip>Эта реликвия была уничтожена.</UIRethemedIdeology_RelicDestroyedTip>
+  <UIRethemedIdeology_RelicUnfound>Не найдена</UIRethemedIdeology_RelicUnfound>
+  <UIRethemedIdeology_RelicUnfoundTip>Эта реликвия ещё не появлялась.</UIRethemedIdeology_RelicUnfoundTip>
+  <UIRethemedIdeology_BuiltTip>Построено в комнате, соответствующей перечисленным здесь требованиям.</UIRethemedIdeology_BuiltTip>
+  <UIRethemedIdeology_PlaceCount>Мест: {0}</UIRethemedIdeology_PlaceCount>
+  <UIRethemedIdeology_PlacesHubTip>Требуемые ею постройки и почитаемые реликвии. Выберите одну, чтобы узнать её состояние.</UIRethemedIdeology_PlacesHubTip>
+  <UIRethemedIdeology_BuiltOf>Построено {0} из {1}</UIRethemedIdeology_BuiltOf>
+  <UIRethemedIdeology_HeldOf>У вас {0} из {1}</UIRethemedIdeology_HeldOf>
+  <UIRethemedIdeology_BuildingsTip>Постройки, которые последователи ожидают в колонии, когда их станет достаточно. Зелёный — построено, жёлтый — построено в неподходящей комнате, красный — ожидается, но отсутствует.</UIRethemedIdeology_BuildingsTip>
+  <UIRethemedIdeology_RelicsTip>Почитаемые ею реликвии. Зелёный — у вашей колонии, жёлтый — где-то ещё, красный — уничтожена, серый — ещё не появлялась.</UIRethemedIdeology_RelicsTip>
+  <UIRethemedIdeology_PlacesAttention>Требует внимания</UIRethemedIdeology_PlacesAttention>
+  <UIRethemedIdeology_PlacesInOrder>Всё построено, и все реликвии у вас.</UIRethemedIdeology_PlacesInOrder>
+  <UIRethemedIdeology_PlacesHint>Выберите постройку или реликвию, чтобы узнать её состояние на каждой из ваших карт, требования к комнате и перейти к ней.</UIRethemedIdeology_PlacesHint>
+  <UIRethemedIdeology_OnYourMaps>На ваших картах</UIRethemedIdeology_OnYourMaps>
+  <UIRethemedIdeology_RoomNeeds>Требования к комнате</UIRethemedIdeology_RoomNeeds>
+  <UIRethemedIdeology_WhereItIs>Где находится</UIRethemedIdeology_WhereItIs>
+  <UIRethemedIdeology_CarriedBy>Несёт: {0}</UIRethemedIdeology_CarriedBy>
+  <UIRethemedIdeology_OutThere>Где-то в мире</UIRethemedIdeology_OutThere>
+
+  <UIRethemedIdeology_Dominance>Стиль вокруг них</UIRethemedIdeology_Dominance>
+  <UIRethemedIdeology_StylePleased>Доволен</UIRethemedIdeology_StylePleased>
+  <UIRethemedIdeology_StylePleasedTip>В окружении этого последователя достаточно стиля его идеолигии.</UIRethemedIdeology_StylePleasedTip>
+  <UIRethemedIdeology_StyleDispleased>Недоволен</UIRethemedIdeology_StyleDispleased>
+  <UIRethemedIdeology_StyleDispleasedTip>В окружении этого последователя слишком много стиля другой идеолигии.</UIRethemedIdeology_StyleDispleasedTip>
+  <UIRethemedIdeology_StyleCount>Стилей: {0}</UIRethemedIdeology_StyleCount>
+  <UIRethemedIdeology_AppearanceHubTip>Как выглядят её последователи и в каком стиле строят. Выберите причёску, татуировки или стиль, чтобы увидеть всё, что она разрешает.</UIRethemedIdeology_AppearanceHubTip>
+  <UIRethemedIdeology_LookNow>Как выглядит сейчас</UIRethemedIdeology_LookNow>
+  <UIRethemedIdeology_AllowedCount>Разрешено: {0}</UIRethemedIdeology_AllowedCount>
+  <UIRethemedIdeology_AllowedHeading>Разрешено</UIRethemedIdeology_AllowedHeading>
+  <UIRethemedIdeology_NoneAllowed>Ничего не разрешено.</UIRethemedIdeology_NoneAllowed>
+  <UIRethemedIdeology_WornNotAllowed>Носят здесь, но не разрешено</UIRethemedIdeology_WornNotAllowed>
+  <UIRethemedIdeology_WornBy>Носит: {0}.</UIRethemedIdeology_WornBy>
+  <UIRethemedIdeology_FitsTip>«{0}» разрешает это.</UIRethemedIdeology_FitsTip>
+  <UIRethemedIdeology_DoesntFitTip>«{0}» не разрешает это, поэтому те, кто это носит, могут захотеть сменить облик.</UIRethemedIdeology_DoesntFitTip>
+  <UIRethemedIdeology_NobodyWears>Это разрешено, хотя здесь никто так не выглядит.</UIRethemedIdeology_NobodyWears>
+  <UIRethemedIdeology_OpenStyles>Открыть полный список</UIRethemedIdeology_OpenStyles>
+  <UIRethemedIdeology_OpenStylesTip>Открывает игровое окно со всеми стилями и тем, как часто последователи выбирают каждый.</UIRethemedIdeology_OpenStylesTip>
+  <UIRethemedIdeology_StyleInColony>{0} в колонии</UIRethemedIdeology_StyleInColony>
+  <UIRethemedIdeology_ThingCount>Вещей: {0}</UIRethemedIdeology_ThingCount>
+  <UIRethemedIdeology_ThingsInColony>Вещей в этом стиле: {0}, в колонии: {1}</UIRethemedIdeology_ThingsInColony>
+  <UIRethemedIdeology_StyleThings>Внешний вид чего он меняет</UIRethemedIdeology_StyleThings>
+  <UIRethemedIdeology_InColony>{0} в колонии в этом стиле — на её картах или на её людях.</UIRethemedIdeology_InColony>
+  <UIRethemedIdeology_NoneInColony>Нет в колонии</UIRethemedIdeology_NoneInColony>
+  <UIRethemedIdeology_NoneInColonyTip>В колонии нет ничего в этом стиле — ни на её картах, ни на её людях.</UIRethemedIdeology_NoneInColonyTip>
+  <UIRethemedIdeology_MoreThings>Ещё {0}</UIRethemedIdeology_MoreThings>
+  <UIRethemedIdeology_MoreThingsTip>Выберите стиль, чтобы увидеть все.</UIRethemedIdeology_MoreThingsTip>
+  <UIRethemedIdeology_MoreLooksTip>Щёлкните, чтобы увидеть сбоку всё, что здесь носят.</UIRethemedIdeology_MoreLooksTip>
+  <UIRethemedIdeology_LookChange>Хотят сменить облик</UIRethemedIdeology_LookChange>
+  <UIRethemedIdeology_NewLook>Новый облик</UIRethemedIdeology_NewLook>
+  <UIRethemedIdeology_NewLookTip>{0} хочет облик, подходящий к своей идеолигии, и сменит его у стилистического столика.</UIRethemedIdeology_NewLookTip>
+  <UIRethemedIdeology_NobodyMinds>Сейчас никого не волнует внешний вид.</UIRethemedIdeology_NobodyMinds>
+  <UIRethemedIdeology_AppearanceHint>Выберите причёску, татуировки или стиль, чтобы увидеть всё разрешённое, что носят и что построено.</UIRethemedIdeology_AppearanceHint>
+
+  <UIRethemedIdeology_NothingToCompare>Нет другой идеолигии для сравнения.</UIRethemedIdeology_NothingToCompare>
+  <UIRethemedIdeology_OnlyDifferences>Только различия</UIRethemedIdeology_OnlyDifferences>
+  <UIRethemedIdeology_OnlyDifferencesTip>Не показывать то, в чём они совпадают.</UIRethemedIdeology_OnlyDifferencesTip>
+  <UIRethemedIdeology_Alike>Совпадает {0} из {1}</UIRethemedIdeology_Alike>
+  <UIRethemedIdeology_CompareShown>Показана</UIRethemedIdeology_CompareShown>
+  <UIRethemedIdeology_CompareWith>Сравнить с</UIRethemedIdeology_CompareWith>
+  <UIRethemedIdeology_CompareWithTip>Щёлкните, чтобы выбрать другую идеолигию.</UIRethemedIdeology_CompareWithTip>
+  <UIRethemedIdeology_Has>Есть</UIRethemedIdeology_Has>
+  <UIRethemedIdeology_HasNot>-</UIRethemedIdeology_HasNot>
+  <UIRethemedIdeology_NoDifferences>Эти две идеолигии совпадают во всём.</UIRethemedIdeology_NoDifferences>
+
+  <UIRethemedIdeology_Settings_Parts>Вкладка</UIRethemedIdeology_Settings_Parts>
+  <UIRethemedIdeology_Settings_IdeologyTab>Оформленная вкладка «Идеолигия»</UIRethemedIdeology_Settings_IdeologyTab>
+  <UIRethemedIdeology_Settings_IdeologyTabTip>Показывать вкладку «Идеолигия» в стиле темы. Выключите для игровой.</UIRethemedIdeology_Settings_IdeologyTabTip>
+  <UIRethemedIdeology_Settings_OtherMods>Также изменяется модами: {0}. Оформленная вкладка остаётся включённой, поэтому то, что они добавляют в игровое окно, может в ней не отображаться.</UIRethemedIdeology_Settings_OtherMods>
+  <UIRethemedIdeology_Settings_TabName>Вкладка «Идеолигия»</UIRethemedIdeology_Settings_TabName>
+  <UIRethemedIdeology_Settings_ListView>Список вместо пузырей</UIRethemedIdeology_Settings_ListView>
+  <UIRethemedIdeology_Settings_ListViewTip>Показывает граф каждой страницы списком, а не пузырями: идеолигия вверху, затем карточка для каждого окружающего пузыря с привязанным к нему в строках ниже. Щёлкните по карточке или строке, чтобы выбрать её, как пузырь; стрелка в конце карточки сворачивает её.</UIRethemedIdeology_Settings_ListViewTip>
+  <UIRethemedIdeology_List_Fold>Свернуть</UIRethemedIdeology_List_Fold>
+  <UIRethemedIdeology_List_Unfold>Развернуть</UIRethemedIdeology_List_Unfold>
+  <UIRethemedIdeology_Settings_RitualEffect>Эффект ритуала за графами</UIRethemedIdeology_Settings_RitualEffect>
+  <UIRethemedIdeology_Settings_RitualEffectTip>Слабо показывать эффект ритуала идеолигии за графом каждой страницы, в её цвете: дым, проступающий сквозь её символ и вырезанный из внутреннего круга; лучи света, тотемы, шипастые трубы или линии техистов, как вокруг алтаря во время её ритуала; и искры, разлетающиеся из центра, если её ритуал разбрасывает искры, листья или другие частицы. Эффект неподвижен, пока анимации выключены в настройках UI Rethemed - Ядро.</UIRethemedIdeology_Settings_RitualEffectTip>
+  <UIRethemedIdeology_Settings_ListShare>Ширина списка: {0}</UIRethemedIdeology_Settings_ListShare>
+  <UIRethemedIdeology_Settings_ListShareTip>Какую часть вкладки занимает список идеолигий.</UIRethemedIdeology_Settings_ListShareTip>
+  <UIRethemedIdeology_Settings_Risk>Отмечать «под угрозой» при: {0}</UIRethemedIdeology_Settings_Risk>
+  <UIRethemedIdeology_Settings_RiskTip>Последователь с уверенностью на этом уровне или ниже отмечается как находящийся под угрозой.</UIRethemedIdeology_Settings_RiskTip>
+  <UIRethemedIdeology_Settings_StyleInCore>Анимации и шестерёнка настроек находятся в настройках UI Rethemed - Ядро.</UIRethemedIdeology_Settings_StyleInCore>
+  <UIRethemedIdeology_Settings_StyleInCoreTip>Они общие для всех модов UI Rethemed, поэтому задаются один раз — в Ядре.</UIRethemedIdeology_Settings_StyleInCoreTip>
+</LanguageData>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Rimbody_Physique>Телосложение</UIRethemedInspectorTabs_Rimbody_Physique>
+  <UIRethemedInspectorTabs_Rimbody_Gain>Прирост, превращающийся в мышцы во время отдыха</UIRethemedInspectorTabs_Rimbody_Gain>
+  <UIRethemedInspectorTabs_Rimbody_Exhaustion>Истощение</UIRethemedInspectorTabs_Rimbody_Exhaustion>
+  <UIRethemedInspectorTabs_Rimbody_ExhaustionTip>Пешка накапливает истощение во время тренировок. Достигнув 100%, она не сможет тренироваться, пока оно не упадёт ниже 40%.</UIRethemedInspectorTabs_Rimbody_ExhaustionTip>
+  <UIRethemedInspectorTabs_Rimbody_Fatigue>Мышечная усталость</UIRethemedInspectorTabs_Rimbody_Fatigue>
+</LanguageData>

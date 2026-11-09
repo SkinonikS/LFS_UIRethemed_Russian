@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Training_Orders>Приказы</UIRethemedInspectorTabs_Training_Orders>
+  <UIRethemedInspectorTabs_Training_Trainables>Навыки дрессировки</UIRethemedInspectorTabs_Training_Trainables>
+  <UIRethemedInspectorTabs_Training_On>Вкл.</UIRethemedInspectorTabs_Training_On>
+  <UIRethemedInspectorTabs_Training_Off>Выкл.</UIRethemedInspectorTabs_Training_Off>
+  <UIRethemedInspectorTabs_Training_ClickToChange>Нажмите, чтобы изменить.</UIRethemedInspectorTabs_Training_ClickToChange>
+  <UIRethemedInspectorTabs_Training_ClickToToggle>Нажмите, чтобы включить или выключить.</UIRethemedInspectorTabs_Training_ClickToToggle>
+  <UIRethemedInspectorTabs_Training_ClickToTrain>Нажмите, чтобы включить или выключить дрессировку. Протяните по строкам, чтобы задать сразу несколько.</UIRethemedInspectorTabs_Training_ClickToTrain>
+  <UIRethemedInspectorTabs_Training_Learned>Изучено</UIRethemedInspectorTabs_Training_Learned>
+  <UIRethemedInspectorTabs_Training_NotLearned>Не изучено</UIRethemedInspectorTabs_Training_NotLearned>
+  <UIRethemedInspectorTabs_Training_Training>Дрессируется</UIRethemedInspectorTabs_Training_Training>
+  <UIRethemedInspectorTabs_Training_NotTraining>Не дрессируется</UIRethemedInspectorTabs_Training_NotTraining>
+  <UIRethemedInspectorTabs_Training_Progress>Прогресс</UIRethemedInspectorTabs_Training_Progress>
+  <UIRethemedInspectorTabs_Training_Steps>Этапы</UIRethemedInspectorTabs_Training_Steps>
+  <UIRethemedInspectorTabs_Training_Requires>Требует</UIRethemedInspectorTabs_Training_Requires>
+  <UIRethemedInspectorTabs_Training_Needs>Нужна более высокая обучаемость</UIRethemedInspectorTabs_Training_Needs>
+  <UIRethemedInspectorTabs_Training_BodySize>Размер тела</UIRethemedInspectorTabs_Training_BodySize>
+</LanguageData>

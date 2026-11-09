@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedColonistCard_Danger.label>опасность</UIRethemedColonistCard_Danger.label>
+  <UIRethemedColonistCard_Warning.label>предупреждение</UIRethemedColonistCard_Warning.label>
+  <UIRethemedColonistCard_Drafted.label>призван</UIRethemedColonistCard_Drafted.label>
+  <UIRethemedColonistCard_Rest.label>отдых</UIRethemedColonistCard_Rest.label>
+  <UIRethemedColonistCard_Recreation.label>развлечение</UIRethemedColonistCard_Recreation.label>
+  <UIRethemedColonistCard_Eating.label>еда</UIRethemedColonistCard_Eating.label>
+  <UIRethemedColonistCard_Work.label>работа</UIRethemedColonistCard_Work.label>
+  <UIRethemedColonistCard_Idle.label>безделье</UIRethemedColonistCard_Idle.label>
+</LanguageData>

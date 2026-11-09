@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedInspectorTabs_Stat_Melee.label>ближний бой</UIRethemedInspectorTabs_Stat_Melee.label>
+  <UIRethemedInspectorTabs_Stat_Melee.description>Урон в секунду в ближнем бою с учётом того, как часто этот поселенец попадает.</UIRethemedInspectorTabs_Stat_Melee.description>
+  <UIRethemedInspectorTabs_Stat_Ranged.label>дальний бой</UIRethemedInspectorTabs_Stat_Ranged.label>
+  <UIRethemedInspectorTabs_Stat_Ranged.description>Урон в секунду при попадании каждого выстрела — из урона оружия, очереди, прицеливания и перезарядки. Точность и дистанция не учитываются.</UIRethemedInspectorTabs_Stat_Ranged.description>
+  <UIRethemedInspectorTabs_Stat_Range.label>дальность</UIRethemedInspectorTabs_Stat_Range.label>
+  <UIRethemedInspectorTabs_Stat_Range.description>На сколько клеток может стрелять экипированное оружие.</UIRethemedInspectorTabs_Stat_Range.description>
+</LanguageData>

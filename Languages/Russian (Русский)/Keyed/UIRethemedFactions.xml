@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedFactions_ModName>UI Rethemed - Фракции</UIRethemedFactions_ModName>
+
+  <UIRethemedFactions_TabPart>Вкладка «Фракции»</UIRethemedFactions_TabPart>
+  <UIRethemedFactions_Settings_Parts>Части</UIRethemedFactions_Settings_Parts>
+  <UIRethemedFactions_Settings_FactionsTab>Вкладка «Фракции»</UIRethemedFactions_Settings_FactionsTab>
+  <UIRethemedFactions_Settings_FactionsTabTip>Заменяет список вкладки «Фракции» большим оформленным окном: ваши фракции слева, выбранная — в виде живой карты пузырей посередине, а всё о ней — справа, включая причины её репутации. Снимите галочку, чтобы вернуть стандартный список.</UIRethemedFactions_Settings_FactionsTabTip>
+  <UIRethemedFactions_Settings_ListView>Список вместо пузырей</UIRethemedFactions_Settings_ListView>
+  <UIRethemedFactions_Settings_ListViewTip>Показывает середину вкладки списком, а не картой пузырей: поселения фракции, начиная со столицы, с расстоянием от столицы и от вас, затем все известные ей фракции и отношения с ними, а под ними — динамика. Всё на одной странице, поэтому вкладок «Поселения» и «Обзор» нет.</UIRethemedFactions_Settings_ListViewTip>
+  <UIRethemedFactions_Settings_TabName>Вкладка «Фракции»</UIRethemedFactions_Settings_TabName>
+  <UIRethemedFactions_Settings_LeftColumn>фракции</UIRethemedFactions_Settings_LeftColumn>
+  <UIRethemedFactions_Settings_CentreColumn>карта</UIRethemedFactions_Settings_CentreColumn>
+  <UIRethemedFactions_Settings_RightColumn>подробности</UIRethemedFactions_Settings_RightColumn>
+  <UIRethemedFactions_Settings_StyleInCore>Анимации и шестерёнка настроек находятся в настройках UI Rethemed - Ядро.</UIRethemedFactions_Settings_StyleInCore>
+  <UIRethemedFactions_Settings_StyleInCoreTip>Они общие для всех модов UI Rethemed, поэтому задаются один раз — в Ядре.</UIRethemedFactions_Settings_StyleInCoreTip>
+
+  <UIRethemedFactions_Title>Фракции</UIRethemedFactions_Title>
+  <UIRethemedFactions_SearchHint>Поиск фракций, лидеров, поселений...</UIRethemedFactions_SearchHint>
+  <UIRethemedFactions_SearchFound>Найдено: {0}</UIRethemedFactions_SearchFound>
+  <UIRethemedFactions_TagQuestsTip>Предложенные или текущие задания, связанные с фракцией.</UIRethemedFactions_TagQuestsTip>
+  <UIRethemedFactions_TagKidnappedTip>Ваши поселенцы, удерживаемые другими фракциями.</UIRethemedFactions_TagKidnappedTip>
+  <UIRethemedFactions_TagHeldTip>Люди других фракций у вас: пленники и гости.</UIRethemedFactions_TagHeldTip>
+
+  <UIRethemedFactions_Standing_Ally>Союзник</UIRethemedFactions_Standing_Ally>
+  <UIRethemedFactions_Standing_AllyTip>Репутация {1} или выше. Союзники могут присылать помощь, торговать и навещать, а вы можете вызвать военную помощь. Они остаются союзниками, пока репутация не упадёт до 0.</UIRethemedFactions_Standing_AllyTip>
+  <UIRethemedFactions_Standing_Neutral>Нейтрал</UIRethemedFactions_Standing_Neutral>
+  <UIRethemedFactions_Standing_NeutralTip>Ни друг, ни враг: торгуют и навещают. Репутация {0} или ниже делает их врагами, {1} или выше — союзниками.</UIRethemedFactions_Standing_NeutralTip>
+  <UIRethemedFactions_Standing_Hostile>Враг</UIRethemedFactions_Standing_Hostile>
+  <UIRethemedFactions_Standing_HostileTip>Репутация {0} или ниже. Нападают на вас и не торгуют. Остаются врагами, пока репутация не поднимется обратно до 0.</UIRethemedFactions_Standing_HostileTip>
+  <UIRethemedFactions_Standing_PermanentEnemy>Всегда враждебна</UIRethemedFactions_Standing_PermanentEnemy>
+  <UIRethemedFactions_Standing_PermanentEnemyTip>У этой фракции нет репутации с вами: она всегда враждебна, и ничто этого не изменит.</UIRethemedFactions_Standing_PermanentEnemyTip>
+  <UIRethemedFactions_TechTip>Технологический уровень: {0}. Он определяет их оружие и снаряжение, товары их торговцев и силу их набегов.</UIRethemedFactions_TechTip>
+
+  <UIRethemedFactions_Range>от {0} до {1}</UIRethemedFactions_Range>
+  <UIRethemedFactions_DriftUp>Растёт</UIRethemedFactions_DriftUp>
+  <UIRethemedFactions_DriftDown>Снижается</UIRethemedFactions_DriftDown>
+  <UIRethemedFactions_Towards>до {0}</UIRethemedFactions_Towards>
+  <UIRethemedFactions_Max>макс. {0}</UIRethemedFactions_Max>
+  <UIRethemedFactions_Times>{0} x{1}</UIRethemedFactions_Times>
+  <UIRethemedFactions_GoodwillNote>За пределами естественного диапазона репутация медленно возвращается к нему. Враждебны при {0} и ниже, союзники при {1} и выше; в обоих случаях снова становятся нейтральными при 0. Отметка на полосе показывает репутацию, маленькая стрелка под ней — естественную репутацию.</UIRethemedFactions_GoodwillNote>
+
+  <UIRethemedFactions_Filters>Фильтры</UIRethemedFactions_Filters>
+  <UIRethemedFactions_Reset>Сбросить</UIRethemedFactions_Reset>
+  <UIRethemedFactions_ResetTip>Очистить поиск и все фильтры.</UIRethemedFactions_ResetTip>
+  <UIRethemedFactions_Group_Standing>Отношения</UIRethemedFactions_Group_Standing>
+  <UIRethemedFactions_Group_Tech>Технологический уровень</UIRethemedFactions_Group_Tech>
+  <UIRethemedFactions_Group_Traits>Особенности</UIRethemedFactions_Group_Traits>
+  <UIRethemedFactions_Group_Dev>Разработка</UIRethemedFactions_Group_Dev>
+  <UIRethemedFactions_ShowAll>Показать скрытые</UIRethemedFactions_ShowAll>
+  <UIRethemedFactions_ShowAllTip>Стандартное «Показать все» режима разработчика: показывает и скрытые фракции (число — сколько их).</UIRethemedFactions_ShowAllTip>
+  <UIRethemedFactions_TraitCycleTip>Щёлкните, чтобы показать только фракции с этим, ещё раз — только без этого, и ещё раз — отключить фильтр.</UIRethemedFactions_TraitCycleTip>
+  <UIRethemedFactions_Trait_Trade>Открыты для торговли</UIRethemedFactions_Trait_Trade>
+  <UIRethemedFactions_Trait_TradeTip>Не враждебны, есть поселения для посещения или торговцы, которых можно вызвать.</UIRethemedFactions_Trait_TradeTip>
+  <UIRethemedFactions_Trait_Quests>Задания</UIRethemedFactions_Trait_Quests>
+  <UIRethemedFactions_Trait_QuestsTip>Предложенные или текущие задания, связанные с ними.</UIRethemedFactions_Trait_QuestsTip>
+  <UIRethemedFactions_Trait_Kidnapped>Держат поселенцев</UIRethemedFactions_Trait_Kidnapped>
+  <UIRethemedFactions_Trait_KidnappedTip>Удерживают похищенных ими ваших поселенцев.</UIRethemedFactions_Trait_KidnappedTip>
+  <UIRethemedFactions_Trait_Held>Вы держите их людей</UIRethemedFactions_Trait_Held>
+  <UIRethemedFactions_Trait_HeldTip>У вас есть их люди — пленники или гости. Освобождение пленников повышает репутацию.</UIRethemedFactions_Trait_HeldTip>
+  <UIRethemedFactions_Trait_Titles>Титулы</UIRethemedFactions_Trait_Titles>
+  <UIRethemedFactions_Trait_TitlesTip>У ваших поселенцев есть их титулы или благосклонность.</UIRethemedFactions_Trait_TitlesTip>
+  <UIRethemedFactions_Trait_Defeated>Разгромлены</UIRethemedFactions_Trait_Defeated>
+  <UIRethemedFactions_Trait_DefeatedTip>Разгромлены: ни одного их поселения не осталось.</UIRethemedFactions_Trait_DefeatedTip>
+
+  <UIRethemedFactions_Factions>Фракции</UIRethemedFactions_Factions>
+  <UIRethemedFactions_ShownOf>Показано {0} из {1}</UIRethemedFactions_ShownOf>
+  <UIRethemedFactions_NoneShown>Нет фракций, подходящих под фильтры.</UIRethemedFactions_NoneShown>
+  <UIRethemedFactions_SortTip>Щёлкните, чтобы сортировать по этому, ещё раз — в обратном порядке, и ещё раз — в обычном порядке.</UIRethemedFactions_SortTip>
+  <UIRethemedFactions_Col_Faction>Фракция</UIRethemedFactions_Col_Faction>
+  <UIRethemedFactions_Col_Tech>Тех.</UIRethemedFactions_Col_Tech>
+  <UIRethemedFactions_Col_Settlements>Поселения</UIRethemedFactions_Col_Settlements>
+  <UIRethemedFactions_NoSettlements>Нет поселений</UIRethemedFactions_NoSettlements>
+  <UIRethemedFactions_RequestReadyTip>Можно запросить через консоль связи.</UIRethemedFactions_RequestReadyTip>
+
+  <UIRethemedFactions_FiltersTip>Сортировка и фильтрация фракций. Щёлкните ещё раз, чтобы вернуться к списку.</UIRethemedFactions_FiltersTip>
+  <UIRethemedFactions_Group_Sort>Сортировать по</UIRethemedFactions_Group_Sort>
+  <UIRethemedFactions_Pinned>Закреплено</UIRethemedFactions_Pinned>
+  <UIRethemedFactions_PinTip>Закреплённые фракции остаются вверху списка. Сохраняется в этой игре.</UIRethemedFactions_PinTip>
+
+  <UIRethemedFactions_Page_Settlements>Поселения</UIRethemedFactions_Page_Settlements>
+  <UIRethemedFactions_Page_SettlementsTip>Столица фракции в центре и её поселения вокруг — в том направлении, где они действительно находятся, и тем дальше, чем дальше они расположены.</UIRethemedFactions_Page_SettlementsTip>
+  <UIRethemedFactions_Page_Overview>Обзор</UIRethemedFactions_Page_Overview>
+  <UIRethemedFactions_Page_OverviewTip>Фракция в центре, вокруг — известные ей фракции, окрашенные по отношениям, и то, как у неё шли дела.</UIRethemedFactions_Page_OverviewTip>
+  <UIRethemedFactions_ResetView>Сбросить вид</UIRethemedFactions_ResetView>
+  <UIRethemedFactions_ResetViewTip>Вернуть карту в исходное положение.</UIRethemedFactions_ResetViewTip>
+  <UIRethemedFactions_GraphHint>Перетаскивайте для перемещения, колесо — масштаб. Щёлкните по поселению, чтобы перейти к нему.</UIRethemedFactions_GraphHint>
+  <UIRethemedFactions_Capital>Столица</UIRethemedFactions_Capital>
+  <UIRethemedFactions_You>Вы</UIRethemedFactions_You>
+  <UIRethemedFactions_NoRelations>Не знает других фракций</UIRethemedFactions_NoRelations>
+  <UIRethemedFactions_TrendNoGoodwill>У этой фракции нет репутации для отслеживания.</UIRethemedFactions_TrendNoGoodwill>
+
+  <UIRethemedFactions_Details>Подробности</UIRethemedFactions_Details>
+  <UIRethemedFactions_PickFaction>Выберите фракцию слева.</UIRethemedFactions_PickFaction>
+  <UIRethemedFactions_InfoCard>Информация</UIRethemedFactions_InfoCard>
+  <UIRethemedFactions_InfoCardTip>Открыть информационную карточку: {0}.</UIRethemedFactions_InfoCardTip>
+  <UIRethemedFactions_Hidden>Скрытая</UIRethemedFactions_Hidden>
+  <UIRethemedFactions_HiddenTip>Скрытая фракция, показана только потому, что включено «Показать скрытые» режима разработчика.</UIRethemedFactions_HiddenTip>
+  <UIRethemedFactions_LeaderTip>{0} фракции «{1}». Щёлкните для информационной карточки.</UIRethemedFactions_LeaderTip>
+  <UIRethemedFactions_Card_Actions>Действия</UIRethemedFactions_Card_Actions>
+  <UIRethemedFactions_Card_Relations>Отношения</UIRethemedFactions_Card_Relations>
+  <UIRethemedFactions_RelationStripTip>Другие фракции, с которыми у этой отношения: {0}.</UIRethemedFactions_RelationStripTip>
+  <UIRethemedFactions_Card_With>С {0}</UIRethemedFactions_Card_With>
+  <UIRethemedFactions_Card_Nearest>Ближайшее к вам</UIRethemedFactions_Card_Nearest>
+  <UIRethemedFactions_Card_FromCapital>От столицы</UIRethemedFactions_Card_FromCapital>
+  <UIRethemedFactions_Card_FromYou>От вашей ближайшей колонии</UIRethemedFactions_Card_FromYou>
+  <UIRethemedFactions_Card_Trade>Торговец</UIRethemedFactions_Card_Trade>
+  <UIRethemedFactions_Card_TradeNew>Ещё не посещалось</UIRethemedFactions_Card_TradeNew>
+  <UIRethemedFactions_Card_TradeRestocked>Товары обновлены</UIRethemedFactions_Card_TradeRestocked>
+  <UIRethemedFactions_Card_TradeRestocks>Обновление товаров через {0}</UIRethemedFactions_Card_TradeRestocks>
+  <UIRethemedFactions_Card_HintJump>Щёлкните, чтобы перейти к нему на карте мира.</UIRethemedFactions_Card_HintJump>
+  <UIRethemedFactions_PickTip>Щёлкните, чтобы посмотреть эту фракцию.</UIRethemedFactions_PickTip>
+  <UIRethemedFactions_Card_Ideoligion>Идеолигия</UIRethemedFactions_Card_Ideoligion>
+  <UIRethemedFactions_Memes>Мемы</UIRethemedFactions_Memes>
+  <UIRethemedFactions_MinorIdeosLabel>Также исповедуют</UIRethemedFactions_MinorIdeosLabel>
+  <UIRethemedFactions_IdeoOpenTip>Щёлкните, чтобы открыть эту идеолигию.</UIRethemedFactions_IdeoOpenTip>
+  <UIRethemedFactions_Xenotypes>Ксенотипы</UIRethemedFactions_Xenotypes>
+  <UIRethemedFactions_XenotypeTip>{0} их людей.</UIRethemedFactions_XenotypeTip>
+  <UIRethemedFactions_Tiles>{0} клеток</UIRethemedFactions_Tiles>
+  <UIRethemedFactions_MoreSettlements>Ещё {0}</UIRethemedFactions_MoreSettlements>
+  <UIRethemedFactions_Card_Comms>Консоль связи</UIRethemedFactions_Card_Comms>
+  <UIRethemedFactions_Request_Trader>Торговый караван</UIRethemedFactions_Request_Trader>
+  <UIRethemedFactions_Request_TraderTip>Попросить их прислать торговый караван через консоль связи. Это стоит немного репутации.</UIRethemedFactions_Request_TraderTip>
+  <UIRethemedFactions_Request_TraderNot>Невозможно, пока они враждебны.</UIRethemedFactions_Request_TraderNot>
+  <UIRethemedFactions_Request_Aid>Военная помощь</UIRethemedFactions_Request_Aid>
+  <UIRethemedFactions_Request_AidTip>Вызвать у них солдат через консоль связи. Это стоит немного репутации.</UIRethemedFactions_Request_AidTip>
+  <UIRethemedFactions_Request_AidNot>Военную помощь присылают только союзники.</UIRethemedFactions_Request_AidNot>
+  <UIRethemedFactions_Request_Orbital>Орбитальный торговец</UIRethemedFactions_Request_Orbital>
+  <UIRethemedFactions_Request_OrbitalTip>Попросить их отправить торговый корабль на орбиту через консоль связи. Это стоит немного репутации.</UIRethemedFactions_Request_OrbitalTip>
+  <UIRethemedFactions_Request_OrbitalNot>Невозможно, пока они враждебны.</UIRethemedFactions_Request_OrbitalNot>
+  <UIRethemedFactions_RequestNo>Не сейчас</UIRethemedFactions_RequestNo>
+  <UIRethemedFactions_RequestReady>Готово</UIRethemedFactions_RequestReady>
+  <UIRethemedFactions_RequestWaitTip>Можно снова запросить через {0}.</UIRethemedFactions_RequestWaitTip>
+  <UIRethemedFactions_Card_Colonists>Люди</UIRethemedFactions_Card_Colonists>
+  <UIRethemedFactions_Kidnapped>У них</UIRethemedFactions_Kidnapped>
+  <UIRethemedFactions_KidnappedTip>{0} похищен(а) фракцией «{1}». Щёлкните для информационной карточки.</UIRethemedFactions_KidnappedTip>
+  <UIRethemedFactions_Prisoner>Пленник</UIRethemedFactions_Prisoner>
+  <UIRethemedFactions_Guest>Гость</UIRethemedFactions_Guest>
+  <UIRethemedFactions_HeldTip>{0} из фракции «{1}» находится у вас. Щёлкните, чтобы перейти к нему.</UIRethemedFactions_HeldTip>
+  <UIRethemedFactions_Favor>Благосклонность: {0}</UIRethemedFactions_Favor>
+  <UIRethemedFactions_TitledTip>{0}: {1}, благосклонность {2} от фракции «{3}». Щёлкните, чтобы перейти к нему.</UIRethemedFactions_TitledTip>
+  <UIRethemedFactions_QuestOffered>Предложено</UIRethemedFactions_QuestOffered>
+  <UIRethemedFactions_QuestOngoing>Выполняется</UIRethemedFactions_QuestOngoing>
+  <UIRethemedFactions_QuestOfferedTip>Предложено, но ещё не принято: {0}.</UIRethemedFactions_QuestOfferedTip>
+  <UIRethemedFactions_QuestOngoingTip>Принято и выполняется.</UIRethemedFactions_QuestOngoingTip>
+  <UIRethemedFactions_QuestOpenTip>Щёлкните, чтобы открыть его во вкладке «Задания».</UIRethemedFactions_QuestOpenTip>
+</LanguageData>

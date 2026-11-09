@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+  <UIRethemedFactions_VFETribals_Cornerstones_Stat.label>очки краеугольных камней</UIRethemedFactions_VFETribals_Cornerstones_Stat.label>
+  <UIRethemedFactions_VFETribals_Cornerstones_Stat.description>Очки, которые можно потратить на краеугольные камни.</UIRethemedFactions_VFETribals_Cornerstones_Stat.description>
+  <UIRethemedFactions_VFETribals_Cornerstones_Stat.lines.0.label>эпоха</UIRethemedFactions_VFETribals_Cornerstones_Stat.lines.0.label>
+  <UIRethemedFactions_VFETribals_Cornerstones_Stat.lines.1.label>краеугольные камни</UIRethemedFactions_VFETribals_Cornerstones_Stat.lines.1.label>
+  <UIRethemedFactions_RoadsOfTheRim_Sites.label>дорожные стройки</UIRethemedFactions_RoadsOfTheRim_Sites.label>
+  <UIRethemedFactions_RoadsOfTheRim_Sites.description>Строящиеся дороги на карте мира.</UIRethemedFactions_RoadsOfTheRim_Sites.description>
+  <UIRethemedFactions_VanillaOutposts.label>аванпосты</UIRethemedFactions_VanillaOutposts.label>
+  <UIRethemedFactions_VanillaOutposts.description>Ваши аванпосты на карте мира.</UIRethemedFactions_VanillaOutposts.description>
+  <UIRethemedFactions_VanillaOutposts.lines.0.label>ваши</UIRethemedFactions_VanillaOutposts.lines.0.label>
+</LanguageData>
